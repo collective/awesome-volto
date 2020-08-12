@@ -13,7 +13,6 @@ A curated list of things that make Volto awesome. Please feel free to contribute
 ## Official websites
 
 - [github.com/plone/volto](https://github.com/plone/volto)
-- [voltocms.com](https://voltocms.com)
 - [docs.voltocms.com](https://docs.voltocms.com)
 - [plone.org](https://plone.org)
 
