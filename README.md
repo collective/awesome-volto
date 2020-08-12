@@ -50,3 +50,9 @@ A curated list of everything that makes Volto awesome
 - https://github.com/eea/forests-frontend
 - https://github.com/eea/volto-bise
 - https://github.com/RedTurtle/design-volto-theme
+
+## Companies
+
+- Kitconcept
+- Redturtle
+- Eaudeweb
