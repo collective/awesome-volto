@@ -45,6 +45,7 @@ A curated list of everything that makes Volto awesome
 - https://github.com/eea/volto-plotlycharts
 - https://github.com/eea/volto-gridlayout
 - https://github.com/eea/volto-datablocks
+- https://github.com/kitconcept/volto-form-builder
 
 ## Open-source websites built with Volto
 
