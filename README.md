@@ -1,5 +1,6 @@
 # awesome-volto
-A curated list of things that makes Volto awesome
+
+A curated list of things that makes Volto awesome. Please feel free to contribute directly or send a PR!
 
 ## Contents
 
@@ -22,6 +23,8 @@ A curated list of things that makes Volto awesome
 - [#volto on gitter.im](https://gitter.im/plone/volto)
 
 ## Addons
+
+While we try to list them all, some of these addons might be a Work in Progress, or require special branches of Volto.
 
 - https://github.com/collective/volto-cookie-banner
 - https://github.com/collective/volto-geocoding
