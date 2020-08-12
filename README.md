@@ -1,6 +1,6 @@
 # awesome-volto
 
-A curated list of things that makes Volto awesome. Please feel free to contribute directly or send a PR!
+A curated list of things that make Volto awesome. Please feel free to contribute directly or send a PR!
 
 ## Contents
 
