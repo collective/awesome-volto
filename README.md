@@ -1,5 +1,5 @@
 # awesome-volto
-A curated list of everything that makes Volto awesome
+A curated list of things that makes Volto awesome
 
 ## Contents
 
@@ -53,6 +53,6 @@ A curated list of everything that makes Volto awesome
 
 ## Companies
 
-- Kitconcept
-- Redturtle
-- Eaudeweb
+- [Kitconcept](https://kitconcept.com/)
+- [Redturtle](https://www.redturtle.it/)
+- [Eaudeweb](https://www.eaudeweb.ro/)
