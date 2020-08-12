@@ -29,8 +29,6 @@ A curated list of everything that makes Volto awesome
 - https://github.com/collective/volto-venue
 - https://github.com/collective/volto-google-analytics
 - https://github.com/collective/volto-multilingual-widget
-- https://github.com/collective/collective.volto.dropdownmenu
-- https://github.com/collective/collective.volto.socialsettings
 - https://github.com/collective/volto-social-settings
 - [volto-slate](https://github.com/eea/volto-slate) (Almost) drop-in replacement for the Volto richtext editor with multiple enhancements
 - [volto-slate-metadata-mentions](https://github.com/eea/volto-slate-metadata-mentions) Plugin for volto-slate to embed dynamic text that renders Plone metadata fields
