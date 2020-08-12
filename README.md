@@ -41,10 +41,10 @@ A curated list of everything that makes Volto awesome
 - https://github.com/eea/volto-ckeditor
 - https://github.com/eea/volto-embed
 - https://github.com/eea/volto-tabsview
-- (volto-searchkit)[https://github.com/eea/volto-searchkit] (WIP) A full ElasticSearch-powered faceted search integrated as a configurable Volto block
-- (volto-plotlycharts)[https://github.com/eea/volto-plotlycharts] Powerful chart editor based on Plotly
+- [volto-searchkit](https://github.com/eea/volto-searchkit) (WIP) A full ElasticSearch-powered faceted search integrated as a configurable Volto block
+- [volto-plotlycharts](https://github.com/eea/volto-plotlycharts) Powerful chart editor based on Plotly
 - https://github.com/eea/volto-gridlayout
-- (volto-datablocks)[https://github.com/eea/volto-datablocks] Provides data connectivity for volto-plotlycharts and other blocks
+- [volto-datablocks](https://github.com/eea/volto-datablocks) Provides data connectivity for volto-plotlycharts and other blocks
 - https://github.com/kitconcept/volto-form-builder
 
 ## Open-source websites built with Volto
