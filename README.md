@@ -32,9 +32,9 @@ A curated list of everything that makes Volto awesome
 - https://github.com/collective/collective.volto.dropdownmenu
 - https://github.com/collective/collective.volto.socialsettings
 - https://github.com/collective/volto-social-settings
-- (volto-slate)[https://github.com/eea/volto-slate] (Almost) drop-in replacement for the Volto richtext editor with multiple enhancements
-- (volto-slate-metadata-mentions)[https://github.com/eea/volto-slate-metadata-mentions] Plugin for volto-slate to embed dynamic text that renders Plone metadata fields
-- (volto-slate-zotero)[https://github.com/eea/volto-slate-zotero] Plugin for volto-slate to connect footnotes to Zotero references
+- [volto-slate](https://github.com/eea/volto-slate) (Almost) drop-in replacement for the Volto richtext editor with multiple enhancements
+- [volto-slate-metadata-mentions](https://github.com/eea/volto-slate-metadata-mentions) Plugin for volto-slate to embed dynamic text that renders Plone metadata fields
+- [volto-slate-zotero](https://github.com/eea/volto-slate-zotero) Plugin for volto-slate to connect footnotes to Zotero references
 - https://github.com/eea/volto-widgets-view
 - https://github.com/eea/volto-mosaic
 - https://github.com/eea/volto-addons
