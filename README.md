@@ -24,7 +24,7 @@ A curated list of things that makes Volto awesome. Please feel free to contribut
 
 ## Addons
 
-While we try to list them all, some of these addons might be a Work in Progress or require special branches of Volto.
+While we try to list them all, some of these addons might be a Work in Progress, require special branches of Volto or dedicated Plone addons.
 
 - https://github.com/collective/volto-cookie-banner
 - https://github.com/collective/volto-geocoding
