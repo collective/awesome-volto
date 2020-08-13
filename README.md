@@ -25,15 +25,15 @@ A curated list of things that make Volto awesome. Please feel free to contribute
 
 While we try to list them all, some of these addons might be a Work in Progress, require special branches of Volto or dedicated Plone addons.
 
-- https://github.com/collective/volto-cookie-banner
-- https://github.com/collective/volto-geocoding
-- https://github.com/collective/volto-venue
-- https://github.com/collective/volto-google-analytics
-- https://github.com/collective/volto-multilingual-widget
-- https://github.com/collective/volto-social-settings
-- https://github.com/eea/volto-widgets-view
-- https://github.com/eea/volto-addons - Various smaller addons, bunched up in a single package
-- https://github.com/eea/volto-embed - GDPR compliant external resource embedding Volto Block
+- [volto-cookie-banner](https://github.com/collective/volto-cookie-banner)
+- [volto-geocoding](https://github.com/collective/volto-geocoding)
+- [volto-venue](https://github.com/collective/volto-venue)
+- [volto-google-analytics](https://github.com/collective/volto-google-analytics)
+- [volto-multilingual-widget](https://github.com/collective/volto-multilingual-widget)
+- [volto-social-settings](https://github.com/collective/volto-social-settings)
+- [volto-widgets-view](https://github.com/eea/volto-widgets-view)
+- [EEA volto-addons](https://github.com/eea/volto-addons) - Various smaller addons, bunched up in a single package
+- [volto-embed](https://github.com/eea/volto-embed) - GDPR compliant external resource embedding Volto Block
 - [volto-searchkit](https://github.com/eea/volto-searchkit) - (WIP) A full ElasticSearch-powered faceted search integrated as a configurable Volto block
 - [volto-plotlycharts](https://github.com/eea/volto-plotlycharts) - Powerful chart editor based on Plotly
 - [volto-datablocks](https://github.com/eea/volto-datablocks) - Provides data connectivity for volto-plotlycharts and other blocks
@@ -48,19 +48,19 @@ While we try to list them all, some of these addons might be a Work in Progress,
 
 ### Layout addons
 
-- https://github.com/collective/volto-subblocks
-- https://github.com/eea/volto-mosaic
-- https://github.com/eea/volto-tabsview
-- https://github.com/eea/volto-gridlayout
+- [volto-subblocks](https://github.com/collective/volto-subblocks)
+- [volto-mosaic](https://github.com/eea/volto-mosaic)
+- [volto-tabsview](https://github.com/eea/volto-tabsview)
+- [volto-gridlayout](https://github.com/eea/volto-gridlayout)
 
 ## Open-source websites built with Volto
 
-- https://github.com/eea/forests-frontend
-- https://github.com/eea/volto-bise
-- https://github.com/RedTurtle/design-volto-theme
+- [forests-frontend](https://github.com/eea/forests-frontend)
+- [volto-bise](https://github.com/eea/volto-bise)
+- [design-volto-theme](https://github.com/RedTurtle/design-volto-theme)
 
 ## Companies
 
 - [Kitconcept](https://kitconcept.com/)
 - [Redturtle](https://www.redturtle.it/)
-- [Eaudeweb](https://www.eaudeweb.ro/)
+- [Eau de Web](https://www.eaudeweb.ro/)
