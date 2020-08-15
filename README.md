@@ -31,7 +31,7 @@ While we try to list them all, some of these addons might be a Work in Progress,
 - [volto-google-analytics](https://github.com/collective/volto-google-analytics)
 - [volto-multilingual-widget](https://github.com/collective/volto-multilingual-widget)
 - [volto-social-settings](https://github.com/collective/volto-social-settings)
-- [volto-widgets-view](https://github.com/eea/volto-widgets-view)
+- [volto-widgets-view](https://github.com/eea/volto-widgets-view) - Provides the "view" counterpart for the "edit" widgets in Volto
 - [EEA volto-addons](https://github.com/eea/volto-addons) - Various smaller addons, bunched up in a single package
 - [volto-embed](https://github.com/eea/volto-embed) - GDPR compliant external resource embedding Volto Block
 - [volto-searchkit](https://github.com/eea/volto-searchkit) - (WIP) A full ElasticSearch-powered faceted search integrated as a configurable Volto block
@@ -48,14 +48,15 @@ While we try to list them all, some of these addons might be a Work in Progress,
 
 ### Layout addons
 
-- [volto-subblocks](https://github.com/collective/volto-subblocks)
-- [volto-mosaic](https://github.com/eea/volto-mosaic)
-- [volto-tabsview](https://github.com/eea/volto-tabsview)
-- [volto-gridlayout](https://github.com/eea/volto-gridlayout)
+- [volto-subblocks](https://github.com/collective/volto-subblocks) - A framework to edit and embed blocks into other blocks
+- [volto-tabsblock](https://github.com/eea/volto-tabsblock) - Split a Volto page into tabs, complete with editing form integration, using just a simple tabs block.
+- [volto-mosaic](https://github.com/eea/volto-mosaic) - Flexible grid-based implementation of a mosaic layout, complete with responsive layout versions.
+- [volto-tabsview](https://github.com/eea/volto-tabsview) - ?
+- [volto-gridlayout](https://github.com/eea/volto-gridlayout) - Supersedes volto-mosaic, another go at providing a flexible full page grid-based mosaic layout
 
 ## Open-source websites built with Volto
 
-- [forests-frontend](https://github.com/eea/forests-frontend)
+- [forests-frontend](https://github.com/eea/forests-frontend) - Volto project for https://forests.eea.europa.eu
 - [volto-bise](https://github.com/eea/volto-bise)
 - [design-volto-theme](https://github.com/RedTurtle/design-volto-theme)
 
