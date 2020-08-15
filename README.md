@@ -7,7 +7,7 @@ A curated list of things that make Volto awesome. Please feel free to contribute
 - [Official websites](#official-websites)
 - [Community](#community)
 - [Addons](#addons)
-- [Open-source Websites built with Volto](#open-source-websites-built-with-volto)
+- [Open-source websites built with Volto](#open-source-websites-built-with-volto)
 - [Companies](#companies)
 
 ## Official websites
