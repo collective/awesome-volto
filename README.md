@@ -37,7 +37,7 @@ While we try to list them all, some of these addons might be a Work in Progress,
 - [volto-searchkit](https://github.com/eea/volto-searchkit) - (WIP) A full ElasticSearch-powered faceted search integrated as a configurable Volto block
 - [volto-plotlycharts](https://github.com/eea/volto-plotlycharts) - Powerful chart editor based on Plotly
 - [volto-datablocks](https://github.com/eea/volto-datablocks) - Provides data connectivity for volto-plotlycharts and other blocks
-- https://github.com/kitconcept/volto-form-builder - A TTW builder of forms
+- [volto-form-builder](https://github.com/kitconcept/volto-form-builder) - A TTW builder of forms
 
 ### Rich text editing
 
