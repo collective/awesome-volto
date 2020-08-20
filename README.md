@@ -54,6 +54,10 @@ While we try to list them all, some of these addons might be a Work in Progress,
 - [volto-tabsview](https://github.com/eea/volto-tabsview) - ?
 - [volto-gridlayout](https://github.com/eea/volto-gridlayout) - Supersedes volto-mosaic, another go at providing a flexible full page grid-based mosaic layout
 
+## Training, example code, tutorials
+
+- [Demo project for Volto addons](https://github.com/collective/volto-example-project-addons)
+
 ## Open-source websites built with Volto
 
 - [forests-frontend](https://github.com/eea/forests-frontend) - Volto project for https://forests.eea.europa.eu
