@@ -54,6 +54,7 @@ While we try to list them all, some of these addons might be a Work in Progress,
 - [volto-mosaic](https://github.com/eea/volto-mosaic) - Flexible grid-based implementation of a mosaic layout, complete with responsive layout versions.
 - [volto-tabsview](https://github.com/eea/volto-tabsview) - ?
 - [volto-gridlayout](https://github.com/eea/volto-gridlayout) - Supersedes volto-mosaic, another go at providing a flexible full page grid-based mosaic layout
+- [volto-metadata-block](https://github.com/eea/volto-metadata-block) - Custom Volto Block to insert Plone metadata fields
 
 ## Training, example code, tutorials
 
