@@ -65,3 +65,4 @@ While we try to list them all, some of these addons might be a Work in Progress,
 - [Kitconcept](https://kitconcept.com/)
 - [Redturtle](https://www.redturtle.it/)
 - [Eau de Web](https://www.eaudeweb.ro/)
+- ... please add yourself here
