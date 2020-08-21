@@ -63,7 +63,8 @@ A curated list of things that make Volto awesome. Please feel free to contribute
 ## Open-source websites built with Volto
 
 - [forests-frontend](https://github.com/eea/forests-frontend) - Volto project for https://forests.eea.europa.eu
-- [volto-bise](https://github.com/eea/volto-bise)
+- [eprtr_frontend](https://github.com/eea/eprtr_frontend) - Volto project for EPRTR
+- [volto-bise](https://github.com/eea/volto-bise) - A Volto project packaged as an addon. It provides theming using a razzle.extend.js provided alias.
 - [design-volto-theme](https://github.com/RedTurtle/design-volto-theme)
 
 ## Companies
