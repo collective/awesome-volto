@@ -30,9 +30,7 @@ A curated list of things that make Volto awesome. Please feel free to contribute
 - [volto-geocoding](https://github.com/collective/volto-geocoding)
 - [volto-venue](https://github.com/collective/volto-venue)
 - [volto-google-analytics](https://github.com/collective/volto-google-analytics)
-- [volto-multilingual-widget](https://github.com/collective/volto-multilingual-widget)
 - [volto-social-settings](https://github.com/collective/volto-social-settings)
-- [volto-widgets-view](https://github.com/eea/volto-widgets-view) - Provides the "view" counterpart for the "edit" widgets in Volto
 - [EEA volto-addons](https://github.com/eea/volto-addons) - Various smaller addons, bunched up in a single package
 - [volto-embed](https://github.com/eea/volto-embed) - GDPR compliant external resource embedding Volto Block
 - [volto-searchkit](https://github.com/eea/volto-searchkit) - (WIP) A full ElasticSearch-powered faceted search integrated as a configurable Volto block
@@ -55,6 +53,12 @@ A curated list of things that make Volto awesome. Please feel free to contribute
 - [volto-tabsview](https://github.com/eea/volto-tabsview) - ?
 - [volto-gridlayout](https://github.com/eea/volto-gridlayout) - Supersedes volto-mosaic, another go at providing a flexible full page grid-based mosaic layout
 - [volto-metadata-block](https://github.com/eea/volto-metadata-block) - Custom Volto Block to insert Plone metadata fields
+
+### Widgets
+
+- [volto-object-widget](https://github.com/eea/volto-object-widget) - Widget for generic JS objects
+- [volto-widgets-view](https://github.com/eea/volto-widgets-view) - Provides the "view" counterpart for the "edit" widgets in Volto
+- [volto-multilingual-widget](https://github.com/collective/volto-multilingual-widget)
 
 ## Training, example code, tutorials
 
