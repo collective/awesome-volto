@@ -53,6 +53,7 @@ A curated list of things that make Volto awesome. Please feel free to contribute
 - [volto-tabsview](https://github.com/eea/volto-tabsview) - ?
 - [volto-gridlayout](https://github.com/eea/volto-gridlayout) - Supersedes volto-mosaic, another go at providing a flexible full page grid-based mosaic layout
 - [volto-metadata-block](https://github.com/eea/volto-metadata-block) - Custom Volto Block to insert Plone metadata fields
+- [volto-grid-block](https://github.com/eea/volto-grid-block) - Enables grid layout grouping of Volto blocks. It introduces a "grid block" which can be used, from the Edit form, to group other blocks
 
 ### Widgets
 
