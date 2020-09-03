@@ -60,6 +60,7 @@ A curated list of things that make Volto awesome. Please feel free to contribute
 - [volto-object-widget](https://github.com/eea/volto-object-widget) - Widget for generic JS objects
 - [volto-widgets-view](https://github.com/eea/volto-widgets-view) - Provides the "view" counterpart for the "edit" widgets in Volto
 - [volto-multilingual-widget](https://github.com/collective/volto-multilingual-widget)
+- [volto-widget-toggle](https://github.com/eea/volto-widget-toggle/) - Replace checkbox widgets with a visually nicer toggle widget
 
 ## Training, example code, tutorials
 
