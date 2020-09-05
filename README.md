@@ -41,6 +41,7 @@ A curated list of things that make Volto awesome. Please feel free to contribute
 ### Rich text editing
 
 - [volto-slate](https://github.com/eea/volto-slate) - (Almost) drop-in replacement for the Volto richtext editor with multiple enhancements
+- [volto-slate-footnote](https://github.com/eea/volto-slate) - Footnote (and references) plugin for volto-slate.
 - [volto-slate-metadata-mentions](https://github.com/eea/volto-slate-metadata-mentions) - Plugin for volto-slate to embed dynamic text that renders Plone metadata fields
 - [volto-slate-zotero](https://github.com/eea/volto-slate-zotero) - Plugin for volto-slate to connect footnotes to Zotero references
 - [volto-ckeditor](https://github.com/eea/volto-ckeditor) - Simple integration with CKEditor
