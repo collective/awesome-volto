@@ -37,6 +37,7 @@ A curated list of things that make Volto awesome. Please feel free to contribute
 - [volto-plotlycharts](https://github.com/eea/volto-plotlycharts) - Powerful chart editor based on Plotly
 - [volto-datablocks](https://github.com/eea/volto-datablocks) - Provides data connectivity for volto-plotlycharts and other blocks
 - [volto-form-builder](https://github.com/kitconcept/volto-form-builder) - A TTW builder of forms
+- [volto-corsproxy](https://github.com/eea/volto-datablocks) - A CORS-proxy integrated with Volto, enables access to third-party API servers.
 
 ### Rich text editing
 
