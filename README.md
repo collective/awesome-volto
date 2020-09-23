@@ -35,7 +35,7 @@ A curated list of things that make Volto awesome. Please feel free to contribute
 - [volto-embed](https://github.com/eea/volto-embed) - GDPR compliant external resource embedding Volto Block
 - [volto-searchkit](https://github.com/eea/volto-searchkit) - (WIP) A full ElasticSearch-powered faceted search integrated as a configurable Volto block
 - [volto-plotlycharts](https://github.com/eea/volto-plotlycharts) - Powerful chart editor based on Plotly
-- [volto-datablocks](https://github.com/eea/volto-datablocks) - Provides data connectivity for volto-plotlycharts and other blocks
+- [volto-datablocks](https://github.com/eea/volto-datablocks) - Provides primitives for data connectivity to volto-plotlycharts and other blocks
 - [volto-form-builder](https://github.com/kitconcept/volto-form-builder) - A TTW builder of forms
 - [volto-corsproxy](https://github.com/eea/volto-datablocks) - A CORS-proxy integrated with Volto, enables access to third-party API servers.
 
@@ -46,6 +46,7 @@ A curated list of things that make Volto awesome. Please feel free to contribute
 - [volto-slate-metadata-mentions](https://github.com/eea/volto-slate-metadata-mentions) - Plugin for volto-slate to embed dynamic text that renders Plone metadata fields
 - [volto-slate-zotero](https://github.com/eea/volto-slate-zotero) - Plugin for volto-slate to connect footnotes to Zotero references
 - [volto-ckeditor](https://github.com/eea/volto-ckeditor) - Simple integration with CKEditor
+- [volto-slate-dataentity](https://github.com/eea/volto-slate-dataentity) - Connect text entities in the rich text editor to volto-datablocks connected data
 
 ### Layout addons
 
