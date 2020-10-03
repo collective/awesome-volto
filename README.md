@@ -38,6 +38,7 @@ A curated list of things that make Volto awesome. Please feel free to contribute
 - [volto-datablocks](https://github.com/eea/volto-datablocks) - Provides primitives for data connectivity to volto-plotlycharts and other blocks
 - [volto-form-builder](https://github.com/kitconcept/volto-form-builder) - A TTW builder of forms
 - [volto-corsproxy](https://github.com/eea/volto-datablocks) - A CORS-proxy integrated with Volto, enables access to third-party API servers.
+- [volto-block-style](https://github.com/eea/volto-block-style) - A generic framework to configure block decorations and CSS styles.
 
 ### Rich text editing
 
