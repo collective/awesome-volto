@@ -68,9 +68,15 @@ A curated list of things that make Volto awesome. Please feel free to contribute
 - [volto-multilingual-widget](https://github.com/collective/volto-multilingual-widget)
 - [volto-widget-toggle](https://github.com/eea/volto-widget-toggle/) - Replace checkbox widgets with a visually nicer toggle widget
 
+### Plone addons for Volto
+
+- https://github.com/collective/collective.volto.dropdownmenu
+- https://github.com/collective/collective.volto.subsites
+
 ## Training, example code, tutorials
 
 - [Demo project for Volto addons](https://github.com/collective/volto-example-project-addons)
+- https://github.com/collective/volto-hands-on-training
 
 ## Open-source websites built with Volto
 
