@@ -40,6 +40,7 @@ A curated list of things that make Volto awesome. Please feel free to contribute
 - [volto-corsproxy](https://github.com/eea/volto-datablocks) - A CORS-proxy integrated with Volto, enables access to third-party API servers.
 - [volto-block-style](https://github.com/eea/volto-block-style) - A generic framework to configure block decorations and CSS styles.
 - [volto-block-toc](https://github.com/eea/volto-block-toc) - An extensible TOC block alternative to Volto's Table of Contents block.
+- [volto-matomo](https://github.com/eea/volto-matomo) - Basic Matomo Tracker integration for Volto
 
 ### Rich text editing
 
