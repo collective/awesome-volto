@@ -31,16 +31,16 @@ A curated list of things that make Volto awesome. Please feel free to contribute
 - [volto-venue](https://github.com/collective/volto-venue)
 - [volto-google-analytics](https://github.com/collective/volto-google-analytics)
 - [volto-social-settings](https://github.com/collective/volto-social-settings)
-- [EEA volto-addons](https://github.com/eea/volto-addons) - Various smaller addons, bunched up in a single package
-- [volto-embed](https://github.com/eea/volto-embed) - GDPR compliant external resource embedding Volto Block
+- [EEA volto-addons](https://github.com/eea/volto-addons) -  (deprecated) Various smaller addons, bunched up in a single package
+- [volto-embed](https://github.com/eea/volto-embed) - (WIP) GDPR compliant external resource embedding Volto Block
 - [volto-searchkit](https://github.com/eea/volto-searchkit) - (WIP) A full ElasticSearch-powered faceted search integrated as a configurable Volto block
-- [volto-plotlycharts](https://github.com/eea/volto-plotlycharts) - Powerful chart editor based on Plotly
-- [volto-datablocks](https://github.com/eea/volto-datablocks) - Provides primitives for data connectivity to volto-plotlycharts and other blocks
+- [volto-plotlycharts](https://github.com/eea/volto-plotlycharts) - (EEA) Powerful chart editor based on Plotly
+- [volto-datablocks](https://github.com/eea/volto-datablocks) - (EEA) Provides primitives for data connectivity to volto-plotlycharts and other blocks
 - [volto-form-builder](https://github.com/kitconcept/volto-form-builder) - A TTW builder of forms
-- [volto-corsproxy](https://github.com/eea/volto-datablocks) - A CORS-proxy integrated with Volto, enables access to third-party API servers.
+- [volto-corsproxy](https://github.com/eea/volto-corsproxy) - A CORS-proxy integrated with Volto, enables access to third-party API servers.
 - [volto-block-style](https://github.com/eea/volto-block-style) - A generic framework to configure block decorations and CSS styles.
 - [volto-block-toc](https://github.com/eea/volto-block-toc) - An extensible TOC block alternative to Volto's Table of Contents block.
-- [volto-matomo](https://github.com/eea/volto-matomo) - Basic Matomo Tracker integration for Volto
+- [volto-matomo](https://github.com/eea/volto-matomo) - (WIP) Basic Matomo Tracker integration for Volto
 
 ### Rich text editing
 
@@ -48,13 +48,13 @@ A curated list of things that make Volto awesome. Please feel free to contribute
 - [volto-slate-footnote](https://github.com/eea/volto-slate) - Footnote (and references) plugin for volto-slate.
 - [volto-slate-metadata-mentions](https://github.com/eea/volto-slate-metadata-mentions) - Plugin for volto-slate to embed dynamic text that renders Plone metadata fields
 - [volto-slate-zotero](https://github.com/eea/volto-slate-zotero) - Plugin for volto-slate to connect footnotes to Zotero references
-- [volto-ckeditor](https://github.com/eea/volto-ckeditor) - Simple integration with CKEditor
+- [volto-ckeditor](https://github.com/eea/volto-ckeditor) - (deprecated) Simple integration with CKEditor
 - [volto-slate-dataentity](https://github.com/eea/volto-slate-dataentity) - Connect text entities in the rich text editor to volto-datablocks connected data
 
 ### Layout addons
 
 - [volto-subblocks](https://github.com/collective/volto-subblocks) - A framework to edit and embed blocks into other blocks
-- [volto-tabs-block](https://github.com/eea/volto-tabs-block) - Split a Volto page into tabs, complete with editing form integration, using just a simple tabs block.
+- [volto-tabs-block](https://github.com/eea/volto-tabs-block) - (wizard-level) Split a Volto page into tabs, complete with editing form integration, using just a simple tabs block.
 - [volto-mosaic](https://github.com/eea/volto-mosaic) - (Deprecated) Flexible grid-based implementation of a mosaic layout, complete with responsive layout versions.
 - [volto-tabsview](https://github.com/eea/volto-tabsview) - (Deprecated) Extension of volto-mosaic
 - [volto-gridlayout](https://github.com/eea/volto-gridlayout) - (Deprecated) Supersedes volto-mosaic, another go at providing a flexible full page grid-based mosaic layout
