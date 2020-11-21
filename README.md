@@ -80,6 +80,12 @@ A curated list of things that make Volto awesome. Please feel free to contribute
 - [Demo project for Volto addons](https://github.com/collective/volto-example-project-addons)
 - https://github.com/collective/volto-hands-on-training
 
+### React articles, relevant to any Volto developer
+
+- https://overreacted.io/writing-resilient-components/
+- https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/
+- https://reesew.io/posts/react-algebraic-effects
+
 ## Open-source websites built with Volto
 
 - [forests-frontend](https://github.com/eea/forests-frontend) - Volto project for https://forests.eea.europa.eu
