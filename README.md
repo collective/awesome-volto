@@ -85,6 +85,7 @@ A curated list of things that make Volto awesome. Please feel free to contribute
 - https://overreacted.io/writing-resilient-components/
 - https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/
 - https://reesew.io/posts/react-algebraic-effects
+- https://medium.com/1mgofficial/code-splitting-ssr-lazy-loading-react-components-a-deeper-understanding-part-1-7d714196706
 
 ## Open-source websites built with Volto
 
