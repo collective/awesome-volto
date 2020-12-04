@@ -31,10 +31,11 @@ A curated list of things that make Volto awesome. Please feel free to contribute
 - [volto-venue](https://github.com/collective/volto-venue)
 - [volto-google-analytics](https://github.com/collective/volto-google-analytics)
 - [volto-social-settings](https://github.com/collective/volto-social-settings)
-- [EEA volto-addons](https://github.com/eea/volto-addons) -  (deprecated) Various smaller addons, bunched up in a single package
+- [EEA volto-addons](https://github.com/eea/volto-addons) - (deprecated) Various smaller addons, bunched up in a single package
 - [volto-embed](https://github.com/eea/volto-embed) - (WIP) GDPR compliant external resource embedding Volto Block
 - [volto-searchkit](https://github.com/eea/volto-searchkit) - (WIP) A full ElasticSearch-powered faceted search integrated as a configurable Volto block
 - [volto-plotlycharts](https://github.com/eea/volto-plotlycharts) - (EEA) Powerful chart editor based on Plotly
+- [volto-block-dataFigure](https://github.com/eea/volto-block-data-figure) - (EEA) Volto add-on for Daviz specific SVG charts.
 - [volto-datablocks](https://github.com/eea/volto-datablocks) - (EEA) Provides primitives for data connectivity to volto-plotlycharts and other blocks
 - [volto-form-builder](https://github.com/kitconcept/volto-form-builder) - A TTW builder of forms
 - [volto-corsproxy](https://github.com/eea/volto-corsproxy) - A CORS-proxy integrated with Volto, enables access to third-party API servers.
@@ -59,6 +60,7 @@ A curated list of things that make Volto awesome. Please feel free to contribute
 - [volto-tabsview](https://github.com/eea/volto-tabsview) - (Deprecated) Extension of volto-mosaic
 - [volto-gridlayout](https://github.com/eea/volto-gridlayout) - (Deprecated) Supersedes volto-mosaic, another go at providing a flexible full page grid-based mosaic layout
 - [volto-metadata-block](https://github.com/eea/volto-metadata-block) - Custom Volto Block to insert Plone metadata fields
+- [volto-accordion-block](https://github.com/eea/volto-accordion-block) - Create group based accordions in blocks.
 - [volto-grid-block](https://github.com/eea/volto-grid-block) - Enables grid layout grouping of Volto blocks. It introduces a "grid block" which can be used, from the Edit form, to group other blocks
 - [volto-columns-block](https://github.com/eea/volto-columns-block) - Enables grouping Volto blocks as columns
 - [volto-group-block](https://github.com/eea/volto-group-block) - Group blocks in sections and filter available blocks per content-type per section
@@ -66,6 +68,8 @@ A curated list of things that make Volto awesome. Please feel free to contribute
 ### Widgets
 
 - [volto-object-widget](https://github.com/eea/volto-object-widget) - Widget for generic JS objects
+- [volto-widget-geolocation](https://github.com/eea/volto-widget-geolocation) - Geolocation with [GeoNames](https://www.geonames.org/) integration.
+- [volto-widget-temporal-coverage](https://github.com/eea/volto-widget-temporal-coverage) - (EEA) Volto widget: Temporal coverage.
 - [volto-widgets-view](https://github.com/eea/volto-widgets-view) - Provides the "view" counterpart for the "edit" widgets in Volto
 - [volto-multilingual-widget](https://github.com/collective/volto-multilingual-widget)
 - [volto-widget-toggle](https://github.com/eea/volto-widget-toggle/) - Replace checkbox widgets with a visually nicer toggle widget
