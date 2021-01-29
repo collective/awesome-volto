@@ -25,6 +25,7 @@ A curated list of things that make Volto awesome. Please feel free to contribute
 
 > :warning: While we try to list them all, some of these addons **might be a Work in Progress**, require special branches of Volto or dedicated Plone addons.
 
+- [volto-quanta](https://github.com/plone/volto-quanta) - A new theme for Volto, right now only styles a few form controls
 - [volto-cookie-banner](https://github.com/collective/volto-cookie-banner)
 - [volto-dropdownmenu](https://github.com/collective/volto-dropdownmenu)
 - [volto-geocoding](https://github.com/collective/volto-geocoding)
