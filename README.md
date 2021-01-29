@@ -85,13 +85,14 @@ A curated list of things that make Volto awesome. Please feel free to contribute
 - [Demo project for Volto addons](https://github.com/collective/volto-example-project-addons)
 - https://github.com/collective/volto-hands-on-training
 
-### React articles, relevant to any Volto developer
+### Awesome React articles, relevant to any Volto developer
 
 - [Writing resilient react components](https://overreacted.io/writing-resilient-components/)
 - [React rendering behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
 - [React Algebraic Effects](https://reesew.io/posts/react-algebraic-effects)
 - [Code Splitting - deeper understanding](https://medium.com/1mgofficial/code-splitting-ssr-lazy-loading-react-components-a-deeper-understanding-part-1-7d714196706)
 - [High Performance React](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
+- [A Complete Guide to useEffect (and more)](https://overreacted.io/a-complete-guide-to-useeffect/#why-usereducer-is-the-cheat-mode-of-hooks)
 
 ## Open-source websites built with Volto
 
