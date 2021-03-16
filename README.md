@@ -25,6 +25,8 @@ A curated list of things that make Volto awesome. Please feel free to contribute
 
 > :warning: While we try to list them all, some of these addons **might be a Work in Progress**, require special branches of Volto or dedicated Plone addons.
 
+Various addons that can't fit in a specific category:
+
 - [volto-quanta](https://github.com/plone/volto-quanta) - A new theme for Volto, right now only styles a few form controls
 - [volto-cookie-banner](https://github.com/collective/volto-cookie-banner)
 - [volto-dropdownmenu](https://github.com/collective/volto-dropdownmenu)
@@ -43,8 +45,13 @@ A curated list of things that make Volto awesome. Please feel free to contribute
 - [volto-block-style](https://github.com/eea/volto-block-style) - A generic framework to configure block decorations and CSS styles.
 - [volto-block-toc](https://github.com/eea/volto-block-toc) - An extensible TOC block alternative to Volto's Table of Contents block.
 - [volto-matomo](https://github.com/eea/volto-matomo) - (WIP) Basic Matomo Tracker integration for Volto
+- https://github.com/collective/volto-form-block
+- https://github.com/collective/volto-subsites
+- https://github.com/collective/volto-bookmarks
 
 ### Rich text editing
+
+Enhance the basic text editing experience
 
 - [volto-slate](https://github.com/eea/volto-slate) - (Almost) drop-in replacement for the Volto richtext editor with multiple enhancements
 - [volto-slate-footnote](https://github.com/eea/volto-slate) - Footnote (and references) plugin for volto-slate.
@@ -54,6 +61,8 @@ A curated list of things that make Volto awesome. Please feel free to contribute
 - [volto-slate-dataentity](https://github.com/eea/volto-slate-dataentity) - Connect text entities in the rich text editor to volto-datablocks connected data
 
 ### Layout addons
+
+Enhancements to the way blocks can be used, to create custom layouts
 
 - [volto-subblocks](https://github.com/collective/volto-subblocks) - A framework to edit and embed blocks into other blocks
 - [volto-tabs-block](https://github.com/eea/volto-tabs-block) - (wizard-level) Split a Volto page into tabs, complete with editing form integration, using just a simple tabs block.
@@ -68,17 +77,25 @@ A curated list of things that make Volto awesome. Please feel free to contribute
 
 ### Widgets
 
+Input components, to be reused in the form library
+
 - [volto-object-widget](https://github.com/eea/volto-object-widget) - Widget for generic JS objects
 - [volto-widget-geolocation](https://github.com/eea/volto-widget-geolocation) - Geolocation with [GeoNames](https://www.geonames.org/) integration.
 - [volto-widget-temporal-coverage](https://github.com/eea/volto-widget-temporal-coverage) - (EEA) Volto widget: Temporal coverage.
 - [volto-widgets-view](https://github.com/eea/volto-widgets-view) - Provides the "view" counterpart for the "edit" widgets in Volto
 - [volto-multilingual-widget](https://github.com/collective/volto-multilingual-widget)
 - [volto-widget-toggle](https://github.com/eea/volto-widget-toggle/) - Replace checkbox widgets with a visually nicer toggle widget
+- https://github.com/collective/volto-blocks-widget
 
 ### Plone addons for Volto
 
 - https://github.com/collective/collective.volto.dropdownmenu
 - https://github.com/collective/collective.volto.subsites
+- https://github.com/collective/collective.volto.formsupport
+- https://github.com/collective/collective.bookmarks
+- https://github.com/collective/collective.volto.secondarymenu
+- https://github.com/collective/collective.volto.blocksfield
+- https://github.com/collective/collective.volto.socialsettings
 
 ## Training, example code, tutorials
 
