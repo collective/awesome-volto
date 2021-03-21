@@ -120,7 +120,7 @@ Input components, to be reused in the form library
 
 ## Companies
 
-- [Kitconcept](https://kitconcept.com/)
+- [kitconcept](https://kitconcept.com/)
 - [Redturtle](https://www.redturtle.it/)
 - [Eau de Web](https://www.eaudeweb.ro/)
 - [Rohberg](https://www.rohberg.ch/)
