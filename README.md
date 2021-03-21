@@ -47,7 +47,7 @@ Various addons that can't fit in a specific category:
 - [volto-matomo](https://github.com/eea/volto-matomo) - (WIP) Basic Matomo Tracker integration for Volto
 - https://github.com/collective/volto-form-block
 - https://github.com/collective/volto-subsites
-- https://github.com/collective/volto-bookmarks
+- [volto-bookmarks](https://github.com/collective/volto-bookmarks) – Add and manage bookmarks of pages and searchkit queries.
 
 ### Rich text editing
 
@@ -123,4 +123,5 @@ Input components, to be reused in the form library
 - [Kitconcept](https://kitconcept.com/)
 - [Redturtle](https://www.redturtle.it/)
 - [Eau de Web](https://www.eaudeweb.ro/)
+- [Rohberg](https://www.rohberg.ch/)
 - ... please add yourself here
