@@ -74,6 +74,7 @@ Enhancements to the way blocks can be used, to create custom layouts
 - [volto-grid-block](https://github.com/eea/volto-grid-block) - Enables grid layout grouping of Volto blocks. It introduces a "grid block" which can be used, from the Edit form, to group other blocks
 - [volto-columns-block](https://github.com/eea/volto-columns-block) - Enables grouping Volto blocks as columns
 - [volto-group-block](https://github.com/eea/volto-group-block) - Group blocks in sections and filter available blocks per content-type per section
+- [volto-blocks-grid](https://github.com/kitconcept/volto-blocks-grid) - Unidimensional (x-axis) grids for blocks
 
 ### Widgets
 
