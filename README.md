@@ -48,6 +48,7 @@ Various addons that can't fit in a specific category:
 - https://github.com/collective/volto-form-block
 - https://github.com/collective/volto-subsites
 - [volto-bookmarks](https://github.com/collective/volto-bookmarks) – Add and manage bookmarks of pages and searchkit queries.
+- [volto-slate-glossary](https://github.com/rohberg/volto-slate-glossary) - (WIP) Tooltips for glossary terms
 
 ### Rich text editing
 
