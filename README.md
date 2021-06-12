@@ -66,7 +66,7 @@ Enhance the basic text editing experience
 Enhancements to the way blocks can be used, to create custom layouts
 
 - [volto-subblocks](https://github.com/collective/volto-subblocks) - A framework to edit and embed blocks into other blocks
-- [volto-tabs-block](https://github.com/eea/volto-tabs-block) - (wizard-level) Split a Volto page into tabs, complete with editing form integration, using just a simple tabs block.
+- [volto-tabs-block](https://github.com/eea/volto-tabs-block) - Split a Volto page into tabs, complete with editing form integration, using just a simple tabs block.
 - [volto-mosaic](https://github.com/eea/volto-mosaic) - (Deprecated) Flexible grid-based implementation of a mosaic layout, complete with responsive layout versions.
 - [volto-tabsview](https://github.com/eea/volto-tabsview) - (Deprecated) Extension of volto-mosaic
 - [volto-gridlayout](https://github.com/eea/volto-gridlayout) - (Deprecated) Supersedes volto-mosaic, another go at providing a flexible full page grid-based mosaic layout
