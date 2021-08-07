@@ -45,10 +45,11 @@ Various addons that can't fit in a specific category:
 - [volto-block-style](https://github.com/eea/volto-block-style) - A generic framework to configure block decorations and CSS styles.
 - [volto-block-toc](https://github.com/eea/volto-block-toc) - An extensible TOC block alternative to Volto's Table of Contents block.
 - [volto-matomo](https://github.com/eea/volto-matomo) - (WIP) Basic Matomo Tracker integration for Volto
-- https://github.com/collective/volto-form-block
-- https://github.com/collective/volto-subsites
+- [volto-form-block](https://github.com/collective/volto-form-block) Volto customizable form block
+- [volto-subsites](https://github.com/collective/volto-subsites)
 - [volto-bookmarks](https://github.com/collective/volto-bookmarks) – Add and manage bookmarks of pages and searchkit queries.
 - [volto-slate-glossary](https://github.com/rohberg/volto-slate-glossary) - (WIP) Tooltips for glossary terms
+- [volto-plausible](https://github.com/collective/volto-plausible) - Volto integration for Plausible.io privacy-first analytics
 
 ### Rich text editing
 
