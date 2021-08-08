@@ -50,6 +50,7 @@ Various addons that can't fit in a specific category:
 - [volto-bookmarks](https://github.com/collective/volto-bookmarks) – Add and manage bookmarks of pages and searchkit queries.
 - [volto-slate-glossary](https://github.com/rohberg/volto-slate-glossary) - (WIP) Tooltips for glossary terms
 - [volto-plausible](https://github.com/collective/volto-plausible) - Volto integration for Plausible.io privacy-first analytics
+- [volto-newsblock](https://github.com/rohberg/volto-newsblock) - Volto block with selected news items
 
 ### Rich text editing
 
