@@ -51,6 +51,8 @@ Various addons that can't fit in a specific category:
 - [volto-slate-glossary](https://github.com/rohberg/volto-slate-glossary) - (WIP) Tooltips for glossary terms
 - [volto-plausible](https://github.com/collective/volto-plausible) - Volto integration for Plausible.io privacy-first analytics
 - [volto-newsblock](https://github.com/rohberg/volto-newsblock) - Volto block with selected news items
+- [volto-authomatic](https://github.com/collective/volto-authomatic) - Social login for Plone ( Using [pas.plugins.authomatic](https://github.com/collective/pas.plugins.authomatic))
+
 
 ### Rich text editing
 
@@ -123,6 +125,7 @@ Input components, to be reused in the form library
 - [eprtr_frontend](https://github.com/eea/eprtr_frontend) - Volto project for EPRTR
 - [volto-bise](https://github.com/eea/volto-bise) - A Volto project packaged as an addon. It provides theming using a razzle.extend.js provided alias.
 - [design-volto-theme](https://github.com/RedTurtle/design-volto-theme)
+- [2021.ploneconf.org](https://github.com/plone/2021.ploneconf.org) - Volto project for https://2021.ploneconf.org
 
 ## Companies
 
