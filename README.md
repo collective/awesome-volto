@@ -133,4 +133,5 @@ Input components, to be reused in the form library
 - [Redturtle](https://www.redturtle.it/)
 - [Eau de Web](https://www.eaudeweb.ro/)
 - [Rohberg](https://www.rohberg.ch/)
+- [Simples Consultoria](https://www.simplesconsultoria.com.br/)
 - ... please add yourself here
