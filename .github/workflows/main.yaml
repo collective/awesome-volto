@@ -15,4 +15,6 @@ jobs:
       with:
         ruby-version: 2.6.x
     - name: Checks
-      run: awesome_bot README.md
+      run: |
+        gem install awesome_bot
+        awesome_bot README.md
