@@ -18,7 +18,7 @@ A curated list of things that make Volto awesome. Please feel free to contribute
 
 ## Community
 
-- [#volto on Discord](https://discord.gg/EtdRAkHu8x)
+- [#volto on Discord](https://discord.com/invite/EtdRAkHu8x )
 
 
 ## Addons
@@ -59,7 +59,7 @@ Various addons that can't fit in a specific category:
 Enhance the basic text editing experience
 
 - [volto-slate](https://github.com/eea/volto-slate) - (Almost) drop-in replacement for the Volto richtext editor with multiple enhancements
-- [volto-slate-footnote](https://github.com/eea/volto-slate) - Footnote (and references) plugin for volto-slate.
+- [volto-slate-footnote](https://github.com/eea/volto-slate-footnote) - Footnote (and references) plugin for volto-slate.
 - [volto-slate-metadata-mentions](https://github.com/eea/volto-slate-metadata-mentions) - Plugin for volto-slate to embed dynamic text that renders Plone metadata fields
 - [volto-slate-zotero](https://github.com/eea/volto-slate-zotero) - Plugin for volto-slate to connect footnotes to Zotero references
 - [volto-ckeditor](https://github.com/eea/volto-ckeditor) - (deprecated) Simple integration with CKEditor
@@ -112,7 +112,7 @@ Input components, to be reused in the form library
 
 - [Writing resilient react components](https://overreacted.io/writing-resilient-components/)
 - [React rendering behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
-- [React Algebraic Effects](https://reesew.io/posts/react-algebraic-effects)
+- [React Algebraic Effects](https://reesew.io/posts/react-algebraic-effects/)
 - [Code Splitting - deeper understanding](https://medium.com/1mgofficial/code-splitting-ssr-lazy-loading-react-components-a-deeper-understanding-part-1-7d714196706)
 - [High Performance React](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
 - [A Complete Guide to useEffect (and more)](https://overreacted.io/a-complete-guide-to-useeffect/#why-usereducer-is-the-cheat-mode-of-hooks)
@@ -121,7 +121,7 @@ Input components, to be reused in the form library
 
 ## Open-source websites built with Volto
 
-- [forests-frontend](https://github.com/eea/forests-frontend) - Volto project for https://forests.eea.europa.eu
+- [forests-frontend](https://github.com/eea/forests-frontend) - Volto project for https://forest.eea.europa.eu/
 - [eprtr_frontend](https://github.com/eea/eprtr_frontend) - Volto project for EPRTR
 - [volto-bise](https://github.com/eea/volto-bise) - A Volto project packaged as an addon. It provides theming using a razzle.extend.js provided alias.
 - [design-volto-theme](https://github.com/RedTurtle/design-volto-theme)
@@ -132,6 +132,6 @@ Input components, to be reused in the form library
 - [kitconcept](https://kitconcept.com/)
 - [Redturtle](https://www.redturtle.it/)
 - [Eau de Web](https://www.eaudeweb.ro/)
-- [Rohberg](https://www.rohberg.ch/)
+- [Rohberg](https://www.rohberg.ch/de)
 - [Simples Consultoria](https://www.simplesconsultoria.com.br/)
 - ... please add yourself here
