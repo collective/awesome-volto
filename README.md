@@ -18,7 +18,7 @@ A curated list of things that make Volto awesome. Please feel free to contribute
 
 ## Community
 
-- [#volto on Discord](https://discord.gg/EtdRAkHu8x)
+- [#volto on Discord](https://discord.com/invite/EtdRAkHu8x )
 
 
 ## Addons
