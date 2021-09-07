@@ -55,6 +55,7 @@ Various addons that can't fit in a specific category:
 - [volto-leaflet-block](https://github.com/adeweb-be/volto-leaflet-block) - A Leaflet map block for Volto
 - [volto-fullcalendar-block](https://github.com/mbarde/volto-fullcalendar-block) - A block for adding a [FullCalendar](https://fullcalendar.io/) to display events from an ics/iCal file
 - [volto-subfooter](https://github.com/collective/volto-subfooter) Volto addon for a customizable subfooter
+- [volto-middleware-static](https://github.com/collective/volto-middleware-static) Volto configurable middleware to serve dynamic static resources
 
 
 ### Rich text editing
