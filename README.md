@@ -35,16 +35,15 @@ Various addons that can't fit in a specific category:
 - [volto-google-analytics](https://github.com/collective/volto-google-analytics)
 - [volto-social-settings](https://github.com/collective/volto-social-settings)
 - [EEA volto-addons](https://github.com/eea/volto-addons) - (deprecated) Various smaller addons, bunched up in a single package
-- [volto-embed](https://github.com/eea/volto-embed) - (WIP) GDPR compliant external resource embedding Volto Block
+- [volto-embed](https://github.com/eea/volto-embed) - GDPR compliant external resource embedding Volto Block
 - [volto-searchkit](https://github.com/eea/volto-searchkit) - (WIP) A full ElasticSearch-powered faceted search integrated as a configurable Volto block
 - [volto-plotlycharts](https://github.com/eea/volto-plotlycharts) - (EEA) Powerful chart editor based on Plotly
 - [volto-block-dataFigure](https://github.com/eea/volto-block-data-figure) - (EEA) Volto add-on for Daviz specific SVG charts.
 - [volto-datablocks](https://github.com/eea/volto-datablocks) - (EEA) Provides primitives for data connectivity to volto-plotlycharts and other blocks
 - [volto-form-builder](https://github.com/kitconcept/volto-form-builder) - A TTW builder of forms
 - [volto-corsproxy](https://github.com/eea/volto-corsproxy) - A CORS-proxy integrated with Volto, enables access to third-party API servers.
-- [volto-block-style](https://github.com/eea/volto-block-style) - A generic framework to configure block decorations and CSS styles.
 - [volto-block-toc](https://github.com/eea/volto-block-toc) - An extensible TOC block alternative to Volto's Table of Contents block.
-- [volto-matomo](https://github.com/eea/volto-matomo) - (WIP) Basic Matomo Tracker integration for Volto
+- [volto-matomo](https://github.com/eea/volto-matomo) - Basic Matomo Tracker integration for Volto
 - [volto-form-block](https://github.com/collective/volto-form-block) Volto customizable form block
 - [volto-subsites](https://github.com/collective/volto-subsites)
 - [volto-bookmarks](https://github.com/collective/volto-bookmarks) – Add and manage bookmarks of pages and searchkit queries.
@@ -56,6 +55,11 @@ Various addons that can't fit in a specific category:
 - [volto-fullcalendar-block](https://github.com/mbarde/volto-fullcalendar-block) - A block for adding a [FullCalendar](https://fullcalendar.io/) to display events from an ics/iCal file
 - [volto-subfooter](https://github.com/collective/volto-subfooter) Volto addon for a customizable subfooter
 - [volto-middleware-static](https://github.com/collective/volto-middleware-static) Volto configurable middleware to serve dynamic static resources
+- [volto-taxonomy](https://github.com/eea/volto-taxonomy) - Controlled Vocabulary management in Volto control panel
+- [volto-tableau](https://github.com/eea/volto-tableau) - Integration with Tableau
+- [volto-openlayers-map](https://github.com/eea/volto-openlayers-map) - Specific implementation of openlayers map
+- [volto-sentry-rancher-config](https://github.com/eea/volto-sentry-rancher-config) - Auto-configure Sentry from Rancher metadata
+- [volto-staging-banner](https://github.com/eea/volto-staging-banner) - Adds a banner to highlight staging, demo or dev websites
 
 
 ### Rich text editing
@@ -66,8 +70,10 @@ Enhance the basic text editing experience
 - [volto-slate-footnote](https://github.com/eea/volto-slate-footnote) - Footnote (and references) plugin for volto-slate.
 - [volto-slate-metadata-mentions](https://github.com/eea/volto-slate-metadata-mentions) - Plugin for volto-slate to embed dynamic text that renders Plone metadata fields
 - [volto-slate-zotero](https://github.com/eea/volto-slate-zotero) - Plugin for volto-slate to connect footnotes to Zotero references
-- [volto-ckeditor](https://github.com/eea/volto-ckeditor) - (deprecated) Simple integration with CKEditor
 - [volto-slate-dataentity](https://github.com/eea/volto-slate-dataentity) - Connect text entities in the rich text editor to volto-datablocks connected data
+- [volto-workflow-progress](https://github.com/eea/volto-workflow-progress) - Shows workflow steps for content editors.
+- [volto-editing-progress](https://github.com/eea/volto-editing-progress) Shows editing steps for content editors.
+- [volto-ckeditor](https://github.com/eea/volto-ckeditor) - (deprecated) Simple integration with CKEditor
 
 ### Layout addons
 
@@ -84,6 +90,10 @@ Enhancements to the way blocks can be used, to create custom layouts
 - [volto-columns-block](https://github.com/eea/volto-columns-block) - Enables grouping Volto blocks as columns
 - [volto-group-block](https://github.com/eea/volto-group-block) - Group blocks in sections and filter available blocks per content-type per section
 - [volto-blocks-grid](https://github.com/kitconcept/volto-blocks-grid) - Unidimensional (x-axis) grids for blocks
+- [volto-block-divider](https://github.com/eea/volto-block-divider) - Block to render a section separator
+- [volto-pdf-block](https://github.com/eea/volto-pdf-block) - Flexible PDF integration in Volto
+- [volto-listing-block](https://github.com/eea/volto-listing-block) - Extension for the Volto listing block adding more templates
+- [volto-block-style](https://github.com/eea/volto-block-style) - A generic framework to configure block decorations and CSS styles
 
 ### Widgets
 
@@ -95,7 +105,7 @@ Input components, to be reused in the form library
 - [volto-widgets-view](https://github.com/eea/volto-widgets-view) - Provides the "view" counterpart for the "edit" widgets in Volto
 - [volto-multilingual-widget](https://github.com/collective/volto-multilingual-widget)
 - [volto-widget-toggle](https://github.com/eea/volto-widget-toggle/) - Replace checkbox widgets with a visually nicer toggle widget
-- https://github.com/collective/volto-blocks-widget
+- [volto-blocks-widget](https://github.com/collective/volto-blocks-widget) - Volto addon to use blocks inside fields
 
 ### Plone addons for Volto
 
@@ -125,8 +135,10 @@ Input components, to be reused in the form library
 
 ## Open-source websites built with Volto
 
-- [forests-frontend](https://github.com/eea/forests-frontend) - Volto project for https://forest.eea.europa.eu/
-- [eprtr_frontend](https://github.com/eea/eprtr_frontend) - Volto project for EPRTR
+- [forests-frontend](https://github.com/eea/forests-frontend) - Volto project for https://forest.eea.europa.eu
+- [eprtr_frontend](https://github.com/eea/eprtr_frontend) - Volto project for https://industry.eea.europa.eu
+- [bise-frontend](https://github.com/eea/bise-frontend) - Volto project for https://biodiversity.europa.eu
+- [sustainability-frontend](https://github.com/eea/sustainability-frontend) - Volto project for https://sustainability.eionet.europa.eu
 - [volto-bise](https://github.com/eea/volto-bise) - A Volto project packaged as an addon. It provides theming using a razzle.extend.js provided alias.
 - [design-volto-theme](https://github.com/RedTurtle/design-volto-theme)
 - [2021.ploneconf.org](https://github.com/plone/2021.ploneconf.org) - Volto project for https://2021.ploneconf.org
@@ -138,4 +150,5 @@ Input components, to be reused in the form library
 - [Eau de Web](https://www.eaudeweb.ro/)
 - [Rohberg](https://www.rohberg.ch/de)
 - [Simples Consultoria](https://www.simplesconsultoria.com.br/)
+- [CodeSyntax](https://www.codesyntax.com/)
 - ... please add yourself here
