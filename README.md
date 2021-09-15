@@ -2,19 +2,24 @@
 
 A curated list of things that make Volto awesome. Please feel free to contribute directly or send a PR!
 
+
 ## Contents
 
 - [Official websites](#official-websites)
 - [Community](#community)
 - [Addons](#addons)
+- [Training, example code, tutorials](#training-example-code-tutorials)
+-
 - [Open-source websites built with Volto](#open-source-websites-built-with-volto)
 - [Companies](#companies)
+
 
 ## Official websites
 
 - [github.com/plone/volto](https://github.com/plone/volto)
 - [docs.voltocms.com](https://docs.voltocms.com)
 - [plone.org](https://plone.org)
+
 
 ## Community
 
@@ -34,11 +39,10 @@ Various addons that can't fit in a specific category:
 - [volto-venue](https://github.com/collective/volto-venue)
 - [volto-google-analytics](https://github.com/collective/volto-google-analytics)
 - [volto-social-settings](https://github.com/collective/volto-social-settings)
-- [EEA volto-addons](https://github.com/eea/volto-addons) - (deprecated) Various smaller addons, bunched up in a single package
 - [volto-embed](https://github.com/eea/volto-embed) - GDPR compliant external resource embedding Volto Block
 - [volto-searchkit](https://github.com/eea/volto-searchkit) - (WIP) A full ElasticSearch-powered faceted search integrated as a configurable Volto block
 - [volto-plotlycharts](https://github.com/eea/volto-plotlycharts) - (EEA) Powerful chart editor based on Plotly
-- [volto-block-dataFigure](https://github.com/eea/volto-block-data-figure) - (EEA) Volto add-on for Daviz specific SVG charts.
+- [volto-block-data-figure](https://github.com/eea/volto-block-data-figure) - (EEA) Volto add-on for Daviz specific SVG charts.
 - [volto-datablocks](https://github.com/eea/volto-datablocks) - (EEA) Provides primitives for data connectivity to volto-plotlycharts and other blocks
 - [volto-form-builder](https://github.com/kitconcept/volto-form-builder) - A TTW builder of forms
 - [volto-corsproxy](https://github.com/eea/volto-corsproxy) - A CORS-proxy integrated with Volto, enables access to third-party API servers.
@@ -62,6 +66,10 @@ Various addons that can't fit in a specific category:
 - [volto-staging-banner](https://github.com/eea/volto-staging-banner) - Adds a banner to highlight staging, demo or dev websites
 
 
+### Bundles
+
+- [volto-eea-kitkat](https://github.com/eea/volto-eea-kitkat) - A known good set of Volto addons
+
 ### Rich text editing
 
 Enhance the basic text editing experience
@@ -69,11 +77,10 @@ Enhance the basic text editing experience
 - [volto-slate](https://github.com/eea/volto-slate) - (Almost) drop-in replacement for the Volto richtext editor with multiple enhancements
 - [volto-slate-footnote](https://github.com/eea/volto-slate-footnote) - Footnote (and references) plugin for volto-slate.
 - [volto-slate-metadata-mentions](https://github.com/eea/volto-slate-metadata-mentions) - Plugin for volto-slate to embed dynamic text that renders Plone metadata fields
-- [volto-slate-zotero](https://github.com/eea/volto-slate-zotero) - Plugin for volto-slate to connect footnotes to Zotero references
+- [volto-slate-zotero](https://github.com/eea/volto-slate-zotero) - Plugin for volto-slate to connect footnotes to Zotero and OpenAire references
 - [volto-slate-dataentity](https://github.com/eea/volto-slate-dataentity) - Connect text entities in the rich text editor to volto-datablocks connected data
 - [volto-workflow-progress](https://github.com/eea/volto-workflow-progress) - Shows workflow steps for content editors.
-- [volto-editing-progress](https://github.com/eea/volto-editing-progress) Shows editing steps for content editors.
-- [volto-ckeditor](https://github.com/eea/volto-ckeditor) - (deprecated) Simple integration with CKEditor
+
 
 ### Layout addons
 
@@ -81,12 +88,8 @@ Enhancements to the way blocks can be used, to create custom layouts
 
 - [volto-subblocks](https://github.com/collective/volto-subblocks) - A framework to edit and embed blocks into other blocks
 - [volto-tabs-block](https://github.com/eea/volto-tabs-block) - Split a Volto page into tabs, complete with editing form integration, using just a simple tabs block.
-- [volto-mosaic](https://github.com/eea/volto-mosaic) - (Deprecated) Flexible grid-based implementation of a mosaic layout, complete with responsive layout versions.
-- [volto-tabsview](https://github.com/eea/volto-tabsview) - (Deprecated) Extension of volto-mosaic
-- [volto-gridlayout](https://github.com/eea/volto-gridlayout) - (Deprecated) Supersedes volto-mosaic, another go at providing a flexible full page grid-based mosaic layout
 - [volto-metadata-block](https://github.com/eea/volto-metadata-block) - Custom Volto Block to insert Plone metadata fields
 - [volto-accordion-block](https://github.com/eea/volto-accordion-block) - Create group based accordions in blocks.
-- [volto-grid-block](https://github.com/eea/volto-grid-block) - Enables grid layout grouping of Volto blocks. It introduces a "grid block" which can be used, from the Edit form, to group other blocks
 - [volto-columns-block](https://github.com/eea/volto-columns-block) - Enables grouping Volto blocks as columns
 - [volto-group-block](https://github.com/eea/volto-group-block) - Group blocks in sections and filter available blocks per content-type per section
 - [volto-blocks-grid](https://github.com/kitconcept/volto-blocks-grid) - Unidimensional (x-axis) grids for blocks
@@ -95,32 +98,45 @@ Enhancements to the way blocks can be used, to create custom layouts
 - [volto-listing-block](https://github.com/eea/volto-listing-block) - Extension for the Volto listing block adding more templates
 - [volto-block-style](https://github.com/eea/volto-block-style) - A generic framework to configure block decorations and CSS styles
 
+
 ### Widgets
 
 Input components, to be reused in the form library
 
 - [volto-object-widget](https://github.com/eea/volto-object-widget) - Widget for generic JS objects
 - [volto-widget-geolocation](https://github.com/eea/volto-widget-geolocation) - Geolocation with [GeoNames](https://www.geonames.org/) integration.
-- [volto-widget-temporal-coverage](https://github.com/eea/volto-widget-temporal-coverage) - (EEA) Volto widget: Temporal coverage.
+- [volto-widget-temporal-coverage](https://github.com/eea/volto-widget-temporal-coverage) - Volto widget: Temporal coverage.
 - [volto-widgets-view](https://github.com/eea/volto-widgets-view) - Provides the "view" counterpart for the "edit" widgets in Volto
 - [volto-multilingual-widget](https://github.com/collective/volto-multilingual-widget)
 - [volto-widget-toggle](https://github.com/eea/volto-widget-toggle/) - Replace checkbox widgets with a visually nicer toggle widget
 - [volto-blocks-widget](https://github.com/collective/volto-blocks-widget) - Volto addon to use blocks inside fields
 
-### Plone addons for Volto
 
-- https://github.com/collective/collective.volto.dropdownmenu
-- https://github.com/collective/collective.volto.subsites
-- https://github.com/collective/collective.volto.formsupport
-- https://github.com/collective/collective.bookmarks
-- https://github.com/collective/collective.volto.secondarymenu
-- https://github.com/collective/collective.volto.blocksfield
-- https://github.com/collective/collective.volto.socialsettings
+### Themes
+
+- [volto-sustainability-theme](https://github.com/eea/volto-sustainability-theme) - Volto Theme - European Environment Agency-European Environment Information and Observation Network Sustainability Platform ( EEA-Eionet sustainability platform)
+- [volto-ims-theme](https://github.com/eea/volto-ims-theme) - Volto Theme - European Environment Agency's Indicator Management System (EEA IMS)
+- [volto-forests-theme](https://github.com/eea/volto-forests-theme) - Forest Information System For Europe (FISE)
+
+
+### Plone backend addons for Volto
+
+- [collective.volto.dropdownmenu](https://github.com/collective/collective.volto.dropdownmenu) - Add-on for manage a `Dropdown Menu` in Volto.
+- [collective.volto.subsites](https://github.com/collective/collective.volto.subsites) - This add-on enable a new Subsite content-type and provides some utilities for Volto.
+- [collective.volto.formsupport](https://github.com/collective/collective.volto.formsupport) - Add some helper routes and functionalities for Volto sites with form blocks provided by `volto-form-block` Volto plugin.
+- [collective.bookmarks](https://github.com/collective/collective.bookmarks) -Bookmarks (aka favorites, wishlists). The Plone pendent is `volto-bookmarks`
+- [collective.volto.secondarymenu](https://github.com/collective/collective.volto.secondarymenu) - Add-on for Volto to manage a secondary menu (right column) for `Dropdown Menu`
+- [collective.volto.blocksfield](https://github.com/collective/collective.volto.blocksfield) - Custom z3c.form field that allows to use Volto blocks. This field can replace RichText fields in your custom content-types.
+- [collective.volto.socialsettings](https://github.com/collective/collective.volto.socialsettings) - Add-on for manage a list of social network links on Volto
+- [eea.api.layout](https://github.com/eea/eea.api.layout) - DX fixed blocks layout behavior with auto-sync support
+- [eea.schema.slate](https://github.com/eea/eea.schema.slate) - DX TTW Slate JSONField to be used with DX Content-Types metadata and `volto-slate`
+
 
 ## Training, example code, tutorials
 
 - [Demo project for Volto addons](https://github.com/collective/volto-example-project-addons)
 - https://github.com/collective/volto-hands-on-training
+
 
 ### Awesome React articles, relevant to any Volto developer
 
@@ -133,6 +149,7 @@ Input components, to be reused in the form library
 - [On the intricacies on React's onClick event handlers](https://dev.to/dvnrsn/why-isn-t-event-stoppropagation-working-1bnm)
 - [React rendering order](https://imkev.dev/react-rendering-order)
 
+
 ## Open-source websites built with Volto
 
 - [forests-frontend](https://github.com/eea/forests-frontend) - Volto project for https://forest.eea.europa.eu
@@ -143,6 +160,7 @@ Input components, to be reused in the form library
 - [design-volto-theme](https://github.com/RedTurtle/design-volto-theme)
 - [2021.ploneconf.org](https://github.com/plone/2021.ploneconf.org) - Volto project for https://2021.ploneconf.org
 
+
 ## Companies
 
 - [kitconcept](https://kitconcept.com/)
@@ -150,5 +168,5 @@ Input components, to be reused in the form library
 - [Eau de Web](https://www.eaudeweb.ro/)
 - [Rohberg](https://www.rohberg.ch/de)
 - [Simples Consultoria](https://www.simplesconsultoria.com.br/)
-- [CodeSyntax](https://www.codesyntax.com/)
+- [CodeSyntax](https://www.codesyntax.com/eu)
 - ... please add yourself here
