@@ -9,7 +9,6 @@ A curated list of things that make Volto awesome. Please feel free to contribute
 - [Community](#community)
 - [Addons](#addons)
 - [Training, example code, tutorials](#training-example-code-tutorials)
--
 - [Open-source websites built with Volto](#open-source-websites-built-with-volto)
 - [Companies](#companies)
 
@@ -33,12 +32,12 @@ A curated list of things that make Volto awesome. Please feel free to contribute
 Various addons that can't fit in a specific category:
 
 - [volto-quanta](https://github.com/plone/volto-quanta) - A new theme for Volto, right now only styles a few form controls
-- [volto-cookie-banner](https://github.com/collective/volto-cookie-banner)
-- [volto-dropdownmenu](https://github.com/collective/volto-dropdownmenu)
-- [volto-geocoding](https://github.com/collective/volto-geocoding)
-- [volto-venue](https://github.com/collective/volto-venue)
-- [volto-google-analytics](https://github.com/collective/volto-google-analytics)
-- [volto-social-settings](https://github.com/collective/volto-social-settings)
+- [volto-cookie-banner](https://github.com/collective/volto-cookie-banner) -Volto cookie banner integration addon. To be used with: `collective.volto.cookieconsent`
+- [volto-dropdownmenu](https://github.com/collective/volto-dropdownmenu) - Volto addon for a customizable dropdown menu. Intended to be used with `collective.volto.dropdownmenu`
+- [volto-geocoding](https://github.com/collective/volto-geocoding) - A widget for Volto to search addresses and save coordinates.
+- [volto-venue](https://github.com/collective/volto-venue) - An addon for Volto as a frontend for `collective.venue`
+- [volto-google-analytics](https://github.com/collective/volto-google-analytics) - Google Analytics integration for Volto.
+- [volto-social-settings](https://github.com/collective/volto-social-settings) - Add-on for manage a list of social network links on Volto
 - [volto-embed](https://github.com/eea/volto-embed) - GDPR compliant external resource embedding Volto Block
 - [volto-searchkit](https://github.com/eea/volto-searchkit) - (WIP) A full ElasticSearch-powered faceted search integrated as a configurable Volto block
 - [volto-plotlycharts](https://github.com/eea/volto-plotlycharts) - (EEA) Powerful chart editor based on Plotly
@@ -118,6 +117,9 @@ Input components, to be reused in the form library
 - [volto-ims-theme](https://github.com/eea/volto-ims-theme) - Volto Theme - European Environment Agency's Indicator Management System (EEA IMS)
 - [volto-forests-theme](https://github.com/eea/volto-forests-theme) - Forest Information System For Europe (FISE)
 
+### More
+
+- See all [volto-addon](https://www.npmjs.com/search?q=keywords:volto-addon) tagged packages on NPM.
 
 ### Plone backend addons for Volto
 
