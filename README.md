@@ -1,14 +1,22 @@
-# awesome-volto
+# awesome-volto<!-- omit in toc -->
 
 A curated list of things that make Volto awesome. Please feel free to contribute directly or send a PR!
 
 
-## Contents
+## Contents<!-- omit in toc -->
 
 - [Official websites](#official-websites)
 - [Community](#community)
 - [Addons](#addons)
+  - [Bundles](#bundles)
+  - [Rich text editing](#rich-text-editing)
+  - [Layout addons](#layout-addons)
+  - [Widgets](#widgets)
+  - [Themes](#themes)
+  - [More](#more)
+  - [Plone backend addons for Volto](#plone-backend-addons-for-volto)
 - [Training, example code, tutorials](#training-example-code-tutorials)
+  - [Awesome React articles, relevant to any Volto developer](#awesome-react-articles-relevant-to-any-volto-developer)
 - [Open-source websites built with Volto](#open-source-websites-built-with-volto)
 - [Companies](#companies)
 
@@ -136,8 +144,11 @@ Input components, to be reused in the form library
 
 ## Training, example code, tutorials
 
+- Volto – [Create your own site using Volto.](https://training.plone.org/5/volto/index.html)
+- Volto Hands-On – [Practice your skills by recreating the plone.com site using Volto.](https://training.plone.org/5/voltohandson/index.html)
+- Volto Add-ons Development – [Build custom Volto add-ons, explore more advanced Volto topics.](https://training.plone.org/5/voltoaddons/index.html)
+- Mastering Plone 6 Development – [Learn the best practices of Plone development for frontend and backend using Volto as well as Plone Classic.](https://training.plone.org/5/mastering-plone/index.html)
 - [Demo project for Volto addons](https://github.com/collective/volto-example-project-addons)
-- https://github.com/collective/volto-hands-on-training
 
 
 ### Awesome React articles, relevant to any Volto developer
