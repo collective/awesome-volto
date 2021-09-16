@@ -136,8 +136,11 @@ Input components, to be reused in the form library
 
 ## Training, example code, tutorials
 
+- Volto – [Create your own site using Volto.](https://training.plone.org/5/volto/index.html)
+- Volto Hands-On – [Practice your skills by recreating the plone.com site using Volto.](https://training.plone.org/5/voltohandson/index.html)
+- Volto Add-ons Development – [Build custom Volto add-ons, explore more advanced Volto topics.](https://training.plone.org/5/voltoaddons/index.html)
+- Mastering Plone 6 Development – [Learn the best practices of Plone development for frontend and backend using Volto as well as Plone Classic.](https://training.plone.org/5/mastering-plone/index.html)
 - [Demo project for Volto addons](https://github.com/collective/volto-example-project-addons)
-- https://github.com/collective/volto-hands-on-training
 
 
 ### Awesome React articles, relevant to any Volto developer
