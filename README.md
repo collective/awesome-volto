@@ -16,7 +16,7 @@ A curated list of things that make Volto awesome. Please feel free to contribute
   - [More](#more)
   - [Plone backend addons for Volto](#plone-backend-addons-for-volto)
 - [Training, example code, tutorials](#training-example-code-tutorials)
-- [Awesome React articles, relevant to any Volto developer](#awesome-react-articles-relevant-to-any-volto-developer)
+  - [Awesome React articles, relevant to any Volto developer](#awesome-react-articles-relevant-to-any-volto-developer)
 - [Open-source websites built with Volto](#open-source-websites-built-with-volto)
 - [Companies](#companies)
 
@@ -151,7 +151,7 @@ Input components, to be reused in the form library
 - [Demo project for Volto addons](https://github.com/collective/volto-example-project-addons)
 
 
-## Awesome React articles, relevant to any Volto developer
+### Awesome React articles, relevant to any Volto developer
 
 - [Writing resilient react components](https://overreacted.io/writing-resilient-components/)
 - [React rendering behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
