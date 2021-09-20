@@ -39,8 +39,7 @@ A curated list of things that make Volto awesome. Please feel free to contribute
 
 Various addons that can't fit in a specific category:
 
-- [volto-quanta](https://github.com/plone/volto-quanta) - A new theme for Volto, right now only styles a few form controls
-- [volto-cookie-banner](https://github.com/collective/volto-cookie-banner) -Volto cookie banner integration addon. To be used with: `collective.volto.cookieconsent`
+- [volto-cookie-banner](https://github.com/collective/volto-cookie-banner) - Volto cookie banner integration addon. To be used with: `collective.volto.cookieconsent`
 - [volto-dropdownmenu](https://github.com/collective/volto-dropdownmenu) - Volto addon for a customizable dropdown menu. Intended to be used with `collective.volto.dropdownmenu`
 - [volto-geocoding](https://github.com/collective/volto-geocoding) - A widget for Volto to search addresses and save coordinates.
 - [volto-venue](https://github.com/collective/volto-venue) - An addon for Volto as a frontend for `collective.venue`
@@ -124,6 +123,7 @@ Input components, to be reused in the form library
 - [volto-sustainability-theme](https://github.com/eea/volto-sustainability-theme) - Volto Theme - European Environment Agency-European Environment Information and Observation Network Sustainability Platform ( EEA-Eionet sustainability platform)
 - [volto-ims-theme](https://github.com/eea/volto-ims-theme) - Volto Theme - European Environment Agency's Indicator Management System (EEA IMS)
 - [volto-forests-theme](https://github.com/eea/volto-forests-theme) - Forest Information System For Europe (FISE)
+- [volto-quanta](https://github.com/plone/volto-quanta) - A new theme for Volto, right now only styles a few form controls
 
 ### More
 
