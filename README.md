@@ -70,6 +70,7 @@ Various addons that can't fit in a specific category:
 - [volto-openlayers-map](https://github.com/eea/volto-openlayers-map) - Specific implementation of openlayers map
 - [volto-sentry-rancher-config](https://github.com/eea/volto-sentry-rancher-config) - Auto-configure Sentry from Rancher metadata
 - [volto-staging-banner](https://github.com/eea/volto-staging-banner) - Adds a banner to highlight staging, demo or dev websites
+- [volto-listingadvanced-variation](https://github.com/codesyntax/volto-listingadvanced-variation) - Adds a new variation to the listing block with advanced configuration options.
 
 
 ### Bundles
