@@ -182,6 +182,6 @@ Input components, to be reused in the form library
 - [Eau de Web](https://www.eaudeweb.ro/)
 - [Rohberg](https://www.rohberg.ch/de)
 - [Simples Consultoria](https://www.simplesconsultoria.com.br/)
-- [CodeSyntax](https://www.codesyntax.com/eu)
+- [CodeSyntax](https://www.codesyntax.com/)
 - [RawMaterial](https://rawmaterial.it/en)
 - ... please add yourself here
