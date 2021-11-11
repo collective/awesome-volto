@@ -69,7 +69,7 @@ Various addons that can't fit in a specific category:
 - [volto-tableau](https://github.com/eea/volto-tableau) - Integration with Tableau
 - [volto-openlayers-map](https://github.com/eea/volto-openlayers-map) - Specific implementation of openlayers map
 - [volto-sentry-rancher-config](https://github.com/eea/volto-sentry-rancher-config) - Auto-configure Sentry from Rancher metadata
-- [volto-staging-banner](https://github.com/eea/volto-staging-banner) - Adds a banner to highlight staging, demo or dev websites
+- [volto-banner](https://github.com/eea/volto-banner) - Adds a banner to highlight staging, demo or dev websites
 - [volto-listingadvanced-variation](https://github.com/codesyntax/volto-listingadvanced-variation) - Adds a new variation to the listing block with advanced configuration options.
 
 
@@ -156,7 +156,7 @@ Input components, to be reused in the form library
 
 - [Writing resilient react components](https://overreacted.io/writing-resilient-components/)
 - [React rendering behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
-- [React Algebraic Effects](https://reesew.io/posts/react-algebraic-effects/)
+- [React Algebraic Effects](https://blog.reesew.io/algebraic-effects-for-react-developers/)
 - [Code Splitting - deeper understanding](https://medium.com/1mgofficial/code-splitting-ssr-lazy-loading-react-components-a-deeper-understanding-part-1-7d714196706)
 - [High Performance React](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
 - [A Complete Guide to useEffect (and more)](https://overreacted.io/a-complete-guide-to-useeffect/#why-usereducer-is-the-cheat-mode-of-hooks)
@@ -167,7 +167,7 @@ Input components, to be reused in the form library
 ## Open-source websites built with Volto
 
 - [forests-frontend](https://github.com/eea/forests-frontend) - Volto project for https://forest.eea.europa.eu
-- [eprtr_frontend](https://github.com/eea/eprtr_frontend) - Volto project for https://industry.eea.europa.eu
+- [industry-frontend ](https://github.com/eea/industry-frontend ) - Volto project for https://industry.eea.europa.eu
 - [bise-frontend](https://github.com/eea/bise-frontend) - Volto project for https://biodiversity.europa.eu
 - [sustainability-frontend](https://github.com/eea/sustainability-frontend) - Volto project for https://sustainability.eionet.europa.eu
 - [volto-bise](https://github.com/eea/volto-bise) - A Volto project packaged as an addon. It provides theming using a razzle.extend.js provided alias.
@@ -182,6 +182,6 @@ Input components, to be reused in the form library
 - [Eau de Web](https://www.eaudeweb.ro/)
 - [Rohberg](https://www.rohberg.ch/de)
 - [Simples Consultoria](https://www.simplesconsultoria.com.br/)
-- [CodeSyntax](https://www.codesyntax.com/)
+- [CodeSyntax](https://www.codesyntax.com/en?set_language=en)
 - [RawMaterial](https://rawmaterial.it/en)
 - ... please add yourself here
