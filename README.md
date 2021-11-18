@@ -93,7 +93,7 @@ Enhance the basic text editing experience
 
 Enhancements to the way blocks can be used, to create custom layouts
 
-- [volto-subblocks](https://github.com/collective/volto-subblocks) - A framework to edit and embed blocks into other blocks
+- [volto-subblocks](https://github.com/collective/volto-subblocks) - A framework to edit and embed blocks into other blocks. (Note: Volto provides a sub-blocks framework that is not compatible with this. Consider looking at volto-columns-block, volto-accordion-block, volto-tabs-block for example if you need to embed block in block).
 - [volto-tabs-block](https://github.com/eea/volto-tabs-block) - Split a Volto page into tabs, complete with editing form integration, using just a simple tabs block.
 - [volto-metadata-block](https://github.com/eea/volto-metadata-block) - Custom Volto Block to insert Plone metadata fields
 - [volto-accordion-block](https://github.com/eea/volto-accordion-block) - Create group based accordions in blocks.
