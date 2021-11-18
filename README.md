@@ -167,9 +167,10 @@ Input components, to be reused in the form library
 ## Open-source websites built with Volto
 
 - [forests-frontend](https://github.com/eea/forests-frontend) - Volto project for https://forest.eea.europa.eu
-- [industry-frontend ](https://github.com/eea/industry-frontend ) - Volto project for https://industry.eea.europa.eu
+- [industry-frontend](https://github.com/eea/industry-frontend ) - Volto project for https://industry.eea.europa.eu
 - [bise-frontend](https://github.com/eea/bise-frontend) - Volto project for https://biodiversity.europa.eu
 - [sustainability-frontend](https://github.com/eea/sustainability-frontend) - Volto project for https://sustainability.eionet.europa.eu
+- [ims-frontend](https://github.com/eea/ims-frontend) - Volto project for https://www.eea.europa.eu/ims
 - [volto-bise](https://github.com/eea/volto-bise) - A Volto project packaged as an addon. It provides theming using a razzle.extend.js provided alias.
 - [design-volto-theme](https://github.com/RedTurtle/design-volto-theme)
 - [2021.ploneconf.org](https://github.com/plone/2021.ploneconf.org) - Volto project for https://2021.ploneconf.org
