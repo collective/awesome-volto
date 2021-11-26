@@ -117,6 +117,7 @@ Input components, to be reused in the form library
 - [volto-multilingual-widget](https://github.com/collective/volto-multilingual-widget)
 - [volto-widget-toggle](https://github.com/eea/volto-widget-toggle/) - Replace checkbox widgets with a visually nicer toggle widget
 - [volto-blocks-widget](https://github.com/collective/volto-blocks-widget) - Volto addon to use blocks inside fields
+- [volto-vocabulary-icons-widget](https://github.com/collective/volto-vocabulary-icons-widget) -  Widget to edit vocabularies where term key is associated with a Fontawesome icon.
 
 
 ### Themes
