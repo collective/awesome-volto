@@ -46,7 +46,7 @@ Various addons that can't fit in a specific category:
 - [volto-google-analytics](https://github.com/collective/volto-google-analytics) - Google Analytics integration for Volto.
 - [volto-social-settings](https://github.com/collective/volto-social-settings) - Add-on for manage a list of social network links on Volto
 - [volto-embed](https://github.com/eea/volto-embed) - GDPR compliant external resource embedding Volto Block
-- [volto-searchkit](https://github.com/eea/volto-searchkit) - (WIP) A full ElasticSearch-powered faceted search integrated as a configurable Volto block
+- [volto-searchkit](https://github.com/eea/volto-searchkit) - (Deprecated) A full ElasticSearch-powered faceted search integrated as a configurable Volto block
 - [volto-plotlycharts](https://github.com/eea/volto-plotlycharts) - (EEA) Powerful chart editor based on Plotly
 - [volto-block-data-figure](https://github.com/eea/volto-block-data-figure) - (EEA) Volto add-on for Daviz specific SVG charts.
 - [volto-datablocks](https://github.com/eea/volto-datablocks) - (EEA) Provides primitives for data connectivity to volto-plotlycharts and other blocks
