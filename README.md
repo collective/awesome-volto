@@ -133,6 +133,7 @@ Input components, to be reused in the form library
 
 ### Plone backend addons for Volto
 
+- [github.com/plone/plone.volto](https://github.com/plone/plone.volto) - Official Volto integration package for Plone.
 - [collective.volto.dropdownmenu](https://github.com/collective/collective.volto.dropdownmenu) - Add-on for manage a `Dropdown Menu` in Volto.
 - [collective.volto.subsites](https://github.com/collective/collective.volto.subsites) - This add-on enable a new Subsite content-type and provides some utilities for Volto.
 - [collective.volto.formsupport](https://github.com/collective/collective.volto.formsupport) - Add some helper routes and functionalities for Volto sites with form blocks provided by `volto-form-block` Volto plugin.
