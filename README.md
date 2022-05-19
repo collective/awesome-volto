@@ -1,6 +1,7 @@
 # awesome-volto<!-- omit in toc -->
 
 A curated list of things that make Volto awesome. Please feel free to contribute directly or send a PR!
+For add-ons for the CMS Plone which is the backend of Volto please see the [awesome-plone list](https://github.com/collective/awesome-plone)
 
 
 ## Contents<!-- omit in toc -->
