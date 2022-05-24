@@ -25,7 +25,7 @@ For add-ons for the CMS Plone which is the backend of Volto please see the [awes
 ## Official websites
 
 - [github.com/plone/volto](https://github.com/plone/volto)
-- [Plone 6 - Frontend documentation](https://6.dev-docs.plone.org/volto)
+- [Plone 6 - Frontend documentation](https://6.dev-docs.plone.org/volto/)
 - [plone.org](https://plone.org)
 
 
