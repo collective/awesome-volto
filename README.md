@@ -78,7 +78,7 @@ Various addons that can't fit in a specific category:
 ### Bundles
 
 - [volto-eea-kitkat](https://github.com/eea/volto-eea-kitkat) - A known good set of Volto add-ons.
-- [eea.kitkat](https://github.com/eea/eea.kitkat) - The back-end support for the volto-eea-kitkat add-on.
+- [eea.kitkat](https://github.com/eea/eea.kitkat) - The back-end support for the `volto-eea-kitkat` add-on.
 
 ### Rich text editing
 
@@ -148,7 +148,6 @@ Input components, to be reused in the form library
 - [collective.volto.socialsettings](https://github.com/collective/collective.volto.socialsettings) - Add-on for manage a list of social network links on Volto
 - [eea.api.layout](https://github.com/eea/eea.api.layout) - DX fixed blocks layout behavior with auto-sync support
 - [eea.schema.slate](https://github.com/eea/eea.schema.slate) - DX TTW Slate JSONField to be used with DX Content-Types metadata and `volto-slate`
-- [eea.kitkat](https://github.com/eea/eea.kitkat) - The back-end support for the volto-eea-kitkat add-on.
 
 
 ## Training, example code, tutorials
