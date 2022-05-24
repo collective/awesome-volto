@@ -47,7 +47,6 @@ Various addons that can't fit in a specific category:
 - [volto-google-analytics](https://github.com/collective/volto-google-analytics) - Google Analytics integration for Volto.
 - [volto-social-settings](https://github.com/collective/volto-social-settings) - Add-on for manage a list of social network links on Volto
 - [volto-embed](https://github.com/eea/volto-embed) - GDPR compliant external resource embedding Volto Block
-- [volto-searchkit](https://github.com/eea/volto-searchkit) - (Deprecated) A full ElasticSearch-powered faceted search integrated as a configurable Volto block
 - [volto-plotlycharts](https://github.com/eea/volto-plotlycharts) - (EEA) Powerful chart editor based on Plotly
 - [volto-block-data-figure](https://github.com/eea/volto-block-data-figure) - (EEA) Volto add-on for Daviz specific SVG charts.
 - [volto-datablocks](https://github.com/eea/volto-datablocks) - (EEA) Provides primitives for data connectivity to volto-plotlycharts and other blocks
@@ -130,7 +129,7 @@ Input components, to be reused in the form library
 - [volto-sustainability-theme](https://github.com/eea/volto-sustainability-theme) - Volto Theme for "Sustainability transitions, EEA-Eionet platform"
 - [volto-ims-theme](https://github.com/eea/volto-ims-theme) - Volto theme for "European Environment Agency's Indicator Management System"
 - [volto-forests-theme](https://github.com/eea/volto-forests-theme) - Volto theme for "Forest Information System For Europe"
-- [volto-energy-theme](volto-energy-theme) - Volto theme for "Climate and energy in the EU"
+- [volto-energy-theme](https://github.com/eea/volto-energy-theme) - Volto theme for "Climate and energy in the EU"
 - [volto-quanta](https://github.com/plone/volto-quanta) - A new theme for Volto, right now only styles a few form controls
 
 ### More
