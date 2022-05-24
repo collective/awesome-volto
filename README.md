@@ -73,11 +73,13 @@ Various addons that can't fit in a specific category:
 - [volto-banner](https://github.com/eea/volto-banner) - Adds a banner to highlight staging, demo or dev websites
 - [volto-listingadvanced-variation](https://github.com/codesyntax/volto-listingadvanced-variation) - Adds a new variation to the listing block with advanced configuration options.
 - [volto-staticrender-bots](https://github.com/nzambello/volto-staticrender-bots) - For crawl spiders, serve static rendering of Volto pages
+- [volto-arcgis-block](https://github.com/eea/volto-arcgis-block) - ArcGIS Map integration for Volto blocks
 
 
 ### Bundles
 
-- [volto-eea-kitkat](https://github.com/eea/volto-eea-kitkat) - A known good set of Volto addons
+- [volto-eea-kitkat](https://github.com/eea/volto-eea-kitkat) - A known good set of Volto add-ons.
+- [eea.kitkat](https://github.com/eea/eea.kitkat) - The back-end support for the volto-eea-kitkat add-on.
 
 ### Rich text editing
 
@@ -125,9 +127,10 @@ Input components, to be reused in the form library
 
 ### Themes
 
-- [volto-sustainability-theme](https://github.com/eea/volto-sustainability-theme) - Volto Theme - European Environment Agency-European Environment Information and Observation Network Sustainability Platform ( EEA-Eionet sustainability platform)
-- [volto-ims-theme](https://github.com/eea/volto-ims-theme) - Volto Theme - European Environment Agency's Indicator Management System (EEA IMS)
-- [volto-forests-theme](https://github.com/eea/volto-forests-theme) - Forest Information System For Europe (FISE)
+- [volto-sustainability-theme](https://github.com/eea/volto-sustainability-theme) - Volto Theme for "Sustainability transitions, EEA-Eionet platform"
+- [volto-ims-theme](https://github.com/eea/volto-ims-theme) - Volto theme for "European Environment Agency's Indicator Management System"
+- [volto-forests-theme](https://github.com/eea/volto-forests-theme) - Volto theme for "Forest Information System For Europe"
+- [volto-energy-theme](volto-energy-theme) - Volto theme for "Climate and energy in the EU"
 - [volto-quanta](https://github.com/plone/volto-quanta) - A new theme for Volto, right now only styles a few form controls
 
 ### More
@@ -171,11 +174,13 @@ Input components, to be reused in the form library
 
 ## Open-source websites built with Volto
 
-- [forests-frontend](https://github.com/eea/forests-frontend) - Volto project for https://forest.eea.europa.eu
-- [industry-frontend](https://github.com/eea/industry-frontend ) - Volto project for https://industry.eea.europa.eu
-- [bise-frontend](https://github.com/eea/bise-frontend) - Volto project for https://biodiversity.europa.eu
-- [sustainability-frontend](https://github.com/eea/sustainability-frontend) - Volto project for https://sustainability.eionet.europa.eu
-- [ims-frontend](https://github.com/eea/ims-frontend) - Volto project for https://www.eea.europa.eu/ims
+- [Forest Information System for Europe](https://github.com/eea/forests-frontend) - Volto project for https://forest.eea.europa.eu
+- [Freshwater Information System for Europe](https://github.com/eea/freshwater-frontend) - Volto project for https://water.europa.eu/freshwater
+- [European Industrial Emissions Portal](https://github.com/eea/industry-frontend ) - Volto project for https://industry.eea.europa.eu
+- [Biodiversity Information System for Europe](https://github.com/eea/bise-frontend) - Volto project for https://biodiversity.europa.eu
+- [Sustainability transitions, EEA-Eionet platform](https://github.com/eea/sustainability-frontend) - Volto project for https://sustainability.eionet.europa.eu
+- [EEA Indicator Management System](https://github.com/eea/ims-frontend) - Volto project for https://www.eea.europa.eu/ims
+- [Climate and energy in the EU](https://github.com/eea/climate-energy-frontend) - Volto project for https://climate-energy.eea.europa.eu
 - [volto-bise](https://github.com/eea/volto-bise) - A Volto project packaged as an addon. It provides theming using a razzle.extend.js provided alias.
 - [design-volto-theme](https://github.com/RedTurtle/design-volto-theme)
 - [2021.ploneconf.org](https://github.com/plone/2021.ploneconf.org) - Volto project for https://2021.ploneconf.org
