@@ -25,7 +25,7 @@ For add-ons for the CMS Plone which is the backend of Volto please see the [awes
 ## Official websites
 
 - [github.com/plone/volto](https://github.com/plone/volto)
-- [docs.voltocms.com](https://docs.voltocms.com)
+- [Plone 6 - Frontend documentation](https://6.dev-docs.plone.org/volto)
 - [plone.org](https://plone.org)
 
 
@@ -182,7 +182,7 @@ Input components, to be reused in the form library
 - [Climate and energy in the EU](https://github.com/eea/climate-energy-frontend) - Volto project for https://climate-energy.eea.europa.eu
 - [volto-bise](https://github.com/eea/volto-bise) - A Volto project packaged as an addon. It provides theming using a razzle.extend.js provided alias.
 - [design-volto-theme](https://github.com/RedTurtle/design-volto-theme)
-- [2021.ploneconf.org](https://github.com/plone/2021.ploneconf.org) - Volto project for https://2021.ploneconf.org
+- [2021.ploneconf.org](https://github.com/plone/ploneconf.org) - Volto project for https://2021.ploneconf.org
 
 
 ## Companies
