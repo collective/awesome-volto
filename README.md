@@ -152,6 +152,7 @@ Input components, to be reused in the form library
 
 ## Training, example code, tutorials
 
+- Several online training sessions have been recorded, they are available on youtube by searching [volto training](https://www.youtube.com/results?search_query=volto+training)
 - Volto – [Create your own site using Volto.](https://training.plone.org/5/volto/index.html)
 - Volto Hands-On – [Practice your skills by recreating the plone.com site using Volto.](https://training.plone.org/5/voltohandson/index.html)
 - Volto Add-ons Development – [Build custom Volto add-ons, explore more advanced Volto topics.](https://training.plone.org/5/voltoaddons/index.html)
