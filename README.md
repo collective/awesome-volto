@@ -170,6 +170,7 @@ Input components, to be reused in the form library
 - [A Complete Guide to useEffect (and more)](https://overreacted.io/a-complete-guide-to-useeffect/#why-usereducer-is-the-cheat-mode-of-hooks)
 - [On the intricacies on React's onClick event handlers](https://dev.to/dvnrsn/why-isn-t-event-stoppropagation-working-1bnm)
 - [React rendering order](https://imkev.dev/react-rendering-order)
+- [Using AbortController to deal with race conditions](https://wanago.io/2022/04/11/abort-controller-race-conditions-react/)
 
 
 ## Open-source websites built with Volto
