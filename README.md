@@ -175,16 +175,16 @@ Input components, to be reused in the form library
 
 ## Open-source websites built with Volto
 
-- [Forest Information System for Europe](https://github.com/eea/forests-frontend) - Volto project for https://forest.eea.europa.eu
-- [Freshwater Information System for Europe](https://github.com/eea/freshwater-frontend) - Volto project for https://water.europa.eu/freshwater
-- [European Industrial Emissions Portal](https://github.com/eea/industry-frontend ) - Volto project for https://industry.eea.europa.eu
-- [Biodiversity Information System for Europe](https://github.com/eea/bise-frontend) - Volto project for https://biodiversity.europa.eu
-- [Sustainability transitions, EEA-Eionet platform](https://github.com/eea/sustainability-frontend) - Volto project for https://sustainability.eionet.europa.eu
-- [EEA Indicator Management System](https://github.com/eea/ims-frontend) - Volto project for https://www.eea.europa.eu/ims
-- [Climate and energy in the EU](https://github.com/eea/climate-energy-frontend) - Volto project for https://climate-energy.eea.europa.eu
+- [Forest Information System for Europe](https://github.com/eea/forests-frontend) - Volto project for [Forest Information System for Europe website](https://forest.eea.europa.eu)
+- [Freshwater Information System for Europe](https://github.com/eea/freshwater-frontend) - Volto project for [Freshwater Information System for Europe website](https://water.europa.eu/freshwater)
+- [European Industrial Emissions Portal](https://github.com/eea/industry-frontend ) - Volto project for [European Industrial Emissions Portal website](https://industry.eea.europa.eu)
+- [Biodiversity Information System for Europe](https://github.com/eea/bise-frontend) - Volto project for [Biodiversity Information System for Europe website](https://biodiversity.europa.eu)
+- [Sustainability transitions, EEA-Eionet platform](https://github.com/eea/sustainability-frontend) - Volto project for [Sustainability transitions, EEA-Eionet platform website](https://sustainability.eionet.europa.eu)
+- [EEA Indicator Management System](https://github.com/eea/ims-frontend) - Volto project for [EEA Indicator Management System site](https://www.eea.europa.eu/ims)
+- [Climate and energy in the EU](https://github.com/eea/climate-energy-frontend) - Volto project for [Climate and energy in the EU website](https://climate-energy.eea.europa.eu)
 - [volto-bise](https://github.com/eea/volto-bise) - A Volto project packaged as an addon. It provides theming using a razzle.extend.js provided alias.
-- [design-volto-theme](https://github.com/RedTurtle/design-volto-theme)
-- [2021.ploneconf.org](https://github.com/plone/ploneconf.org) - Volto project for https://2021.ploneconf.org
+- [design-volto-theme](https://github.com/RedTurtle/design-volto-theme) Volto theme for Italian Public Administration
+- [2021.ploneconf.org](https://github.com/plone/ploneconf.org) - Volto project for [Plone Conference 2021 site](https://2021.ploneconf.org)
 
 
 ## Companies
