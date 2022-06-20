@@ -121,7 +121,7 @@ Input components, to be reused in the form library
 - [volto-widget-toggle](https://github.com/eea/volto-widget-toggle/) - Replace checkbox widgets with a visually nicer toggle widget
 - [volto-blocks-widget](https://github.com/collective/volto-blocks-widget) - Volto addon to use blocks inside fields
 - [volto-vocabulary-icons-widget](https://github.com/collective/volto-vocabulary-icons-widget) -  Widget to edit vocabularies where term key is associated with a Fontawesome icon.
-- [volto-react-table-widget](https://github.com/eea/volto-react-table-widget) - Widget to replace Volto's ObjectListWidget to edit data-grid like widgets in a more performant way with a table based on [react-table](https://react-table.tanstack.com/)
+- [volto-react-table-widget](https://github.com/eea/volto-react-table-widget) - Widget to replace Volto's ObjectListWidget to edit data-grid like widgets in a more performant way with a table based on [react-table](https://tanstack.com/table/v8/)
 - [volto-image-crop-widget](https://github.com/mbarde/volto-image-crop-widget) - Extends built-in FileWidget to be able to crop images in-place
 
 ### Themes
