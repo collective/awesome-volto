@@ -72,6 +72,7 @@ Various addons that can't fit in a specific category:
 - [volto-listingadvanced-variation](https://github.com/codesyntax/volto-listingadvanced-variation) - Adds a new variation to the listing block with advanced configuration options.
 - [volto-staticrender-bots](https://github.com/nzambello/volto-staticrender-bots) - For crawl spiders, serve static rendering of Volto pages
 - [volto-arcgis-block](https://github.com/eea/volto-arcgis-block) - ArcGIS Map integration for Volto blocks
+- [volto-carousel](https://github.com/kitconcept/volto-carousel-block) - A carousel block, with slick integration
 
 
 ### Bundles
