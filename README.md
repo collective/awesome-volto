@@ -73,7 +73,13 @@ Various addons that can't fit in a specific category:
 - [volto-staticrender-bots](https://github.com/nzambello/volto-staticrender-bots) - For crawl spiders, serve static rendering of Volto pages
 - [volto-arcgis-block](https://github.com/eea/volto-arcgis-block) - ArcGIS Map integration for Volto blocks
 - [volto-carousel-block](https://github.com/kitconcept/volto-carousel-block) - A carousel block, with slick integration
-
+- [volto-separator-block](https://github.com/kitconcept/volto-separator-block) - A divider visual indicator type of block
+- [volto-slider-block](https://github.com/kitconcept/volto-slider-block) - A slider with react-slick
+- [volto-blocks](https://github.com/kitconcept/volto-blocks) - Miscelanious blocks
+- [volto-dsgvo-banner](kitconcept/volto-dsgvo-banner) - A privacy protection banner (mandatory in Europe)
+- [volto-button-block](https://github.com/kitconcept/volto-button-block) - A button (call to action) block
+- [volto-heading-block](https://github.com/kitconcept/volto-heading-block) - A heading block. Can select the heading level
+- [volto-text-with-background-color-block](https://github.com/kitconcept/volto-text-with-background-color-block)
 
 ### Bundles
 
@@ -90,7 +96,6 @@ Enhance the basic text editing experience
 - [volto-slate-zotero](https://github.com/eea/volto-slate-zotero) - Plugin for volto-slate to connect footnotes to Zotero and OpenAire references
 - [volto-slate-dataentity](https://github.com/eea/volto-slate-dataentity) - Connect text entities in the rich text editor to volto-datablocks connected data
 - [volto-workflow-progress](https://github.com/eea/volto-workflow-progress) - Shows workflow steps for content editors.
-
 
 ### Layout addons
 
@@ -131,6 +136,7 @@ Input components, to be reused in the form library
 - [volto-forests-theme](https://github.com/eea/volto-forests-theme) - Volto theme for "Forest Information System For Europe"
 - [volto-energy-theme](https://github.com/eea/volto-energy-theme) - Volto theme for "Climate and energy in the EU"
 - [volto-quanta](https://github.com/plone/volto-quanta) - A new theme for Volto, right now only styles a few form controls
+- [volto-theme-plone-regional](https://github.com/kitconcept/volto-theme-plone-regional)
 
 ### More
 
