@@ -56,7 +56,7 @@ Various addons that can't fit in a specific category:
 - [volto-form-block](https://github.com/collective/volto-form-block) Volto customizable form block
 - [volto-subsites](https://github.com/collective/volto-subsites)
 - [volto-bookmarks](https://github.com/collective/volto-bookmarks) – Add and manage bookmarks of pages and searchkit queries.
-- [volto-slate-glossary](https://github.com/rohberg/volto-slate-glossary) - (WIP) Tooltips for glossary terms
+- [volto-slate-glossary](https://github.com/rohberg/volto-slate-glossary) - Tooltips for glossary terms
 - [volto-plausible](https://github.com/collective/volto-plausible) - Volto integration for Plausible.io privacy-first analytics
 - [volto-newsblock](https://github.com/rohberg/volto-newsblock) - Volto block with selected news items
 - [@plone-collective/volto-authomatic](https://github.com/collective/volto-authomatic) - Social login for Plone ( Using [pas.plugins.authomatic](https://github.com/collective/pas.plugins.authomatic))
