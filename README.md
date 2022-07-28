@@ -76,7 +76,7 @@ Various addons that can't fit in a specific category:
 - [volto-separator-block](https://github.com/kitconcept/volto-separator-block) - A divider visual indicator type of block
 - [volto-slider-block](https://github.com/kitconcept/volto-slider-block) - A slider with react-slick
 - [volto-blocks](https://github.com/kitconcept/volto-blocks) - Miscelanious blocks
-- [volto-dsgvo-banner](kitconcept/volto-dsgvo-banner) - A privacy protection banner (mandatory in Europe)
+- [volto-dsgvo-banner](kitconcept/volto-dsgvo-banner) - A privacy protection / GDPR banner (mandatory in Europe)
 - [volto-button-block](https://github.com/kitconcept/volto-button-block) - A button (call to action) block
 - [volto-heading-block](https://github.com/kitconcept/volto-heading-block) - A heading block. Can select the heading level
 - [volto-text-with-background-color-block](https://github.com/kitconcept/volto-text-with-background-color-block)
