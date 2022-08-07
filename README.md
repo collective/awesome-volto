@@ -82,6 +82,7 @@ Various addons that can't fit in a specific category:
 - [volto-text-with-background-color-block](https://github.com/kitconcept/volto-text-with-background-color-block)
 - [volto-code-block](https://github.com/plonegovbr/volto-code-block) - Insert code blocks, with syntax highlight, into Volto.
 - [volto-twitter-block](https://github.com/plonegovbr/volto-twitter-block) - Embed Tweets into Volto pages.
+- [volto-social-sharing(https://github.com/codesyntax/volto-social-sharing) - Show "share in social networks" links in pages.
 
 ### Bundles
 
