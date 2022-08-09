@@ -40,6 +40,7 @@ For add-ons for the CMS Plone which is the backend of Volto please see the [awes
 
 Various addons that can't fit in a specific category:
 
+- [volto-authomatic](https://github.com/collective/volto-authomatic) - OpenId Authentication in Volto
 - [volto-tito-block](https://github.com/collective/volto-tito-block) - Volto block to integrate with Tito, a platform to sell tickets online
 - [volto-block-banner](https://github.com/collective/volto-block-banner) - Volto block for a customizable visual banner
 - [volto-cookie-banner](https://github.com/collective/volto-cookie-banner) - Volto cookie banner integration addon. To be used with: `collective.volto.cookieconsent`
