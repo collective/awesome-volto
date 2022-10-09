@@ -90,6 +90,7 @@ Various addons that can't fit in a specific category, in mostly random order:
 - [volto-code-block](https://github.com/plonegovbr/volto-code-block) - Insert code blocks, with syntax highlight, into Volto.
 - [volto-twitter-block](https://github.com/plonegovbr/volto-twitter-block) - Embed Tweets into Volto pages.
 - [volto-social-sharing](https://github.com/codesyntax/volto-social-sharing) - Show "share in social networks" links in pages.
+- [volto-educal-hero-block](https://github.com/collective/volto-educal-hero-block) - Volto block for a customizable visual hero
 
 ### Bundles
 
@@ -149,6 +150,7 @@ Input components, to be reused in the form library
 - [volto-energy-theme](https://github.com/eea/volto-energy-theme) - Volto theme for "Climate and energy in the EU"
 - [volto-quanta](https://github.com/plone/volto-quanta) - A new theme for Volto, right now only styles a few form controls
 - [volto-theme-plone-regional](https://github.com/kitconcept/volto-theme-plone-regional)
+- [volto-educal-theme](https://github.com/collective/volto-educal-theme) - Volto theme for Educational websites
 
 ### More
 
