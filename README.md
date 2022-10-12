@@ -204,6 +204,7 @@ Input components, to be reused in the form library
 - [design-volto-theme](https://github.com/RedTurtle/design-volto-theme) Volto theme for Italian Public Administration
 - [2021.ploneconf.org](https://github.com/plone/ploneconf.org) - Volto project for [Plone Conference 2021 site](https://2021.ploneconf.org)
 - [plone.org.br](https://github.com/plonegovbr/plone.org.br) - Volto project for the [Brazilian Plone Community](https://plone.org.br)
+- [nsw-design-system-plone6-kit](https://github.com/pretagov/nsw-design-system-plone6-kit) - NSW Design System Plone 6 Kit Volto project for [NSW.gov.au sites](https://digitalnsw.pretagov.com.au/)
 
 
 ## Companies
@@ -215,4 +216,5 @@ Input components, to be reused in the form library
 - [Simples Consultoria](https://www.simplesconsultoria.com.br/)
 - [CodeSyntax](https://www.codesyntax.com/en?set_language=en)
 - [RawMaterial](https://rawmaterial.it/en)
+- [PretaGov AU/UK](https://pretagov.com.au)
 - ... please add yourself here
