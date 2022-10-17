@@ -216,5 +216,5 @@ Input components, to be reused in the form library
 - [Simples Consultoria](https://www.simplesconsultoria.com.br/)
 - [CodeSyntax](https://www.codesyntax.com/en?set_language=en)
 - [RawMaterial](https://rawmaterial.it/en)
-- [PretaGov AU/UK](https://pretagov.com.au)
+- [PretaGov AU/UK](https://www.pretagov.com.au)
 - ... please add yourself here
