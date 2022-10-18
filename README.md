@@ -196,7 +196,7 @@ Input components, to be reused in the form library
 
 ## Open-source websites built with Volto
 
-The following websites have been built with Volto and you can find their complete source code by following their links:
+The following websites have been built with Volto and you can find their complete source code by following their links. Please note that complex websites are built on top of Volto addons and most of the times they're just an empty shell for the addons. You should check the dependencies in their package.json for more details.
 
 - [Forest Information System for Europe](https://github.com/eea/forests-frontend) - Volto project for [Forest Information System for Europe website](https://forest.eea.europa.eu)
 - [Freshwater Information System for Europe](https://github.com/eea/freshwater-frontend) - Volto project for [Freshwater Information System for Europe website](https://water.europa.eu/freshwater)
