@@ -94,7 +94,7 @@ Various addons that can't fit in a specific category, in mostly random order:
 
 ### Bundles
 
-- [volto-eea-kitkat](https://github.com/eea/volto-eea-kitkat) - A known good set of Volto add-ons.
+- [volto-eea-kitkat](https://github.com/eea/volto-eea-kitkat) - A "known good set" of Volto add-ons, mostly specific to EEA websites.
 - [eea.kitkat](https://github.com/eea/eea.kitkat) - The back-end support for the `volto-eea-kitkat` add-on.
 
 ### Rich text editing
