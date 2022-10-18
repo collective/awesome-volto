@@ -168,6 +168,7 @@ Input components, to be reused in the form library
 - [collective.volto.socialsettings](https://github.com/collective/collective.volto.socialsettings) - Add-on for manage a list of social network links on Volto
 - [eea.api.layout](https://github.com/eea/eea.api.layout) - DX fixed blocks layout behavior with auto-sync support
 - [eea.schema.slate](https://github.com/eea/eea.schema.slate) - DX TTW Slate JSONField to be used with DX Content-Types metadata and `volto-slate`
+- [volto-plone-reloader](https://github.com/instification/volto-plone-reloader) (volto addon) - Use [plone.reload](https://github.com/plone/plone.reload)'s `/@@reload` feature through a volto frontend
 
 
 ## Training, example code, tutorials
