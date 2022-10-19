@@ -44,7 +44,6 @@ Various addons that can't fit in a specific category, in mostly random order:
 - [volto-outdooractive](https://github.com/collective/volto-outdooractive) - Integration with OutdoorActive, an external service
 - [volto-middleware-helmet](https://github.com/collective/volto-middleware-helmet) - Middleware to add security to Volto's HTTP headers
 - [volto-customer-satisfaction](https://github.com/collective/volto-customer-satisfaction) - Gather feedback from site users
-- [volto-authomatic](https://github.com/collective/volto-authomatic) - OpenId Authentication in Volto
 - [volto-tito-block](https://github.com/collective/volto-tito-block) - Volto block to integrate with Tito, a platform to sell tickets online
 - [volto-block-banner](https://github.com/collective/volto-block-banner) - Volto block for a customizable visual banner
 - [volto-cookie-banner](https://github.com/collective/volto-cookie-banner) - Volto cookie banner integration addon. To be used with: `collective.volto.cookieconsent`
@@ -66,7 +65,7 @@ Various addons that can't fit in a specific category, in mostly random order:
 - [volto-slate-glossary](https://github.com/rohberg/volto-slate-glossary) - Tooltips for glossary terms
 - [volto-plausible](https://github.com/collective/volto-plausible) - Volto integration for Plausible.io privacy-first analytics
 - [volto-newsblock](https://github.com/rohberg/volto-newsblock) - Volto block with selected news items
-- [@plone-collective/volto-authomatic](https://github.com/collective/volto-authomatic) - Social login for Plone ( Using [pas.plugins.authomatic](https://github.com/collective/pas.plugins.authomatic))
+- [@plone-collective/volto-authomatic](https://github.com/collective/volto-authomatic) - Social (OpenID) login for Plone ( Using [pas.plugins.authomatic](https://github.com/collective/pas.plugins.authomatic))
 - [volto-leaflet-block](https://github.com/adeweb-be/volto-leaflet-block) - A Leaflet map block for Volto
 - [volto-fullcalendar-block](https://github.com/mbarde/volto-fullcalendar-block) - A block for adding a [FullCalendar](https://fullcalendar.io/) to display events from an ics/iCal file
 - [volto-subfooter](https://github.com/collective/volto-subfooter) Volto addon for a customizable subfooter
