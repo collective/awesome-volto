@@ -128,7 +128,7 @@ Enhancements to the way blocks can be used, to create custom layouts
 
 Input components, to be reused in the form library
 
-- [volto-vocabulary-icons-widget](https://github.com/collective/volto-vocabulary-icons-widget) - Volto addon for vocabularies with icons
+- [volto-vocabulary-icons-widget](https://github.com/collective/volto-vocabulary-icons-widget) - Widget to edit vocabularies where term key is associated with a Fontawesome icon. Volto addon for vocabularies with icons
 - [volto-object-widget](https://github.com/eea/volto-object-widget) - Widget for generic JS objects
 - [volto-widget-geolocation](https://github.com/eea/volto-widget-geolocation) - Geolocation with [GeoNames](https://www.geonames.org/) integration.
 - [volto-widget-temporal-coverage](https://github.com/eea/volto-widget-temporal-coverage) - Volto widget: Temporal coverage.
@@ -136,7 +136,6 @@ Input components, to be reused in the form library
 - [volto-multilingual-widget](https://github.com/collective/volto-multilingual-widget) - Enabled multi-language editing of data, used internally by the cookie consent addon
 - [volto-widget-toggle](https://github.com/eea/volto-widget-toggle/) - Replace checkbox widgets with a visually nicer toggle widget
 - [volto-blocks-widget](https://github.com/collective/volto-blocks-widget) - Volto addon to use blocks inside fields
-- [volto-vocabulary-icons-widget](https://github.com/collective/volto-vocabulary-icons-widget) -  Widget to edit vocabularies where term key is associated with a Fontawesome icon.
 - [volto-react-table-widget](https://github.com/eea/volto-react-table-widget) - Widget to replace Volto's ObjectListWidget to edit data-grid like widgets in a more performant way with a table based on [react-table](https://tanstack.com/table/v8/)
 - [volto-image-crop-widget](https://github.com/mbarde/volto-image-crop-widget) - Extends built-in FileWidget to be able to crop images in-place
 - [https://github.com/collective/volto-data-grid-widget](https://github.com/collective/volto-data-grid-widget) - A field to edit lists of data in a data-grid like fashion. Please note that Volto ships already with a widget for "lists of data", the ObjectListWidget, which uses an accordion for the list.
