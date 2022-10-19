@@ -44,7 +44,6 @@ Various addons that can't fit in a specific category, in mostly random order:
 - [volto-outdooractive](https://github.com/collective/volto-outdooractive) - Integration with OutdoorActive, an external service
 - [volto-middleware-helmet](https://github.com/collective/volto-middleware-helmet) - Middleware to add security to Volto's HTTP headers
 - [volto-customer-satisfaction](https://github.com/collective/volto-customer-satisfaction) - Gather feedback from site users
-- [volto-authomatic](https://github.com/collective/volto-authomatic) - OpenId Authentication in Volto
 - [volto-tito-block](https://github.com/collective/volto-tito-block) - Volto block to integrate with Tito, a platform to sell tickets online
 - [volto-block-banner](https://github.com/collective/volto-block-banner) - Volto block for a customizable visual banner
 - [volto-cookie-banner](https://github.com/collective/volto-cookie-banner) - Volto cookie banner integration addon. To be used with: `collective.volto.cookieconsent`
@@ -66,7 +65,7 @@ Various addons that can't fit in a specific category, in mostly random order:
 - [volto-slate-glossary](https://github.com/rohberg/volto-slate-glossary) - Tooltips for glossary terms
 - [volto-plausible](https://github.com/collective/volto-plausible) - Volto integration for Plausible.io privacy-first analytics
 - [volto-newsblock](https://github.com/rohberg/volto-newsblock) - Volto block with selected news items
-- [@plone-collective/volto-authomatic](https://github.com/collective/volto-authomatic) - Social login for Plone ( Using [pas.plugins.authomatic](https://github.com/collective/pas.plugins.authomatic))
+- [@plone-collective/volto-authomatic](https://github.com/collective/volto-authomatic) - Social (OpenID) login for Plone ( Using [pas.plugins.authomatic](https://github.com/collective/pas.plugins.authomatic))
 - [volto-leaflet-block](https://github.com/adeweb-be/volto-leaflet-block) - A Leaflet map block for Volto
 - [volto-fullcalendar-block](https://github.com/mbarde/volto-fullcalendar-block) - A block for adding a [FullCalendar](https://fullcalendar.io/) to display events from an ics/iCal file
 - [volto-subfooter](https://github.com/collective/volto-subfooter) Volto addon for a customizable subfooter
@@ -94,7 +93,7 @@ Various addons that can't fit in a specific category, in mostly random order:
 
 ### Bundles
 
-- [volto-eea-kitkat](https://github.com/eea/volto-eea-kitkat) - A known good set of Volto add-ons.
+- [volto-eea-kitkat](https://github.com/eea/volto-eea-kitkat) - A "known good set" of Volto add-ons, mostly specific to EEA websites.
 - [eea.kitkat](https://github.com/eea/eea.kitkat) - The back-end support for the `volto-eea-kitkat` add-on.
 
 ### Rich text editing
@@ -129,7 +128,7 @@ Enhancements to the way blocks can be used, to create custom layouts
 
 Input components, to be reused in the form library
 
-- [volto-vocabulary-icons-widget](https://github.com/collective/volto-vocabulary-icons-widget) - Volto addon for vocabularies with icons
+- [volto-vocabulary-icons-widget](https://github.com/collective/volto-vocabulary-icons-widget) - Widget to edit vocabularies where term key is associated with a Fontawesome icon. Volto addon for vocabularies with icons
 - [volto-object-widget](https://github.com/eea/volto-object-widget) - Widget for generic JS objects
 - [volto-widget-geolocation](https://github.com/eea/volto-widget-geolocation) - Geolocation with [GeoNames](https://www.geonames.org/) integration.
 - [volto-widget-temporal-coverage](https://github.com/eea/volto-widget-temporal-coverage) - Volto widget: Temporal coverage.
@@ -137,10 +136,9 @@ Input components, to be reused in the form library
 - [volto-multilingual-widget](https://github.com/collective/volto-multilingual-widget) - Enabled multi-language editing of data, used internally by the cookie consent addon
 - [volto-widget-toggle](https://github.com/eea/volto-widget-toggle/) - Replace checkbox widgets with a visually nicer toggle widget
 - [volto-blocks-widget](https://github.com/collective/volto-blocks-widget) - Volto addon to use blocks inside fields
-- [volto-vocabulary-icons-widget](https://github.com/collective/volto-vocabulary-icons-widget) -  Widget to edit vocabularies where term key is associated with a Fontawesome icon.
 - [volto-react-table-widget](https://github.com/eea/volto-react-table-widget) - Widget to replace Volto's ObjectListWidget to edit data-grid like widgets in a more performant way with a table based on [react-table](https://tanstack.com/table/v8/)
 - [volto-image-crop-widget](https://github.com/mbarde/volto-image-crop-widget) - Extends built-in FileWidget to be able to crop images in-place
-- [https://github.com/collective/volto-data-grid-widget](https://github.com/collective/volto-data-grid-widget) - A field to edit lists of data in a data-grid like fashion. Please note that Volto ships already with a widget for "lists of data", the ObjectListWidget, which uses an accordion for the list.
+- [volto-data-grid-widget](https://github.com/collective/volto-data-grid-widget) - A field to edit lists of data in a data-grid like fashion. Please note that Volto ships already with a widget for "lists of data", the ObjectListWidget, which uses an accordion for the list.
 
 ### Themes
 
@@ -158,7 +156,7 @@ Input components, to be reused in the form library
 
 ### Plone backend addons for Volto
 
-- [github.com/plone/plone.volto](https://github.com/plone/plone.volto) - Official Volto integration package for Plone.
+- [plone.volto](https://github.com/plone/plone.volto) - Official Volto integration package for Plone.
 - [collective.volto.dropdownmenu](https://github.com/collective/collective.volto.dropdownmenu) - Add-on for manage a `Dropdown Menu` in Volto.
 - [collective.volto.subsites](https://github.com/collective/collective.volto.subsites) - This add-on enable a new Subsite content-type and provides some utilities for Volto.
 - [collective.volto.formsupport](https://github.com/collective/collective.volto.formsupport) - Add some helper routes and functionalities for Volto sites with form blocks provided by `volto-form-block` Volto plugin.
@@ -168,6 +166,7 @@ Input components, to be reused in the form library
 - [collective.volto.socialsettings](https://github.com/collective/collective.volto.socialsettings) - Add-on for manage a list of social network links on Volto
 - [eea.api.layout](https://github.com/eea/eea.api.layout) - DX fixed blocks layout behavior with auto-sync support
 - [eea.schema.slate](https://github.com/eea/eea.schema.slate) - DX TTW Slate JSONField to be used with DX Content-Types metadata and `volto-slate`
+- [volto-plone-reloader](https://github.com/instification/volto-plone-reloader) (volto addon) - Use [plone.reload](https://github.com/plone/plone.reload)'s `/@@reload` feature through a volto frontend
 
 
 ## Training, example code, tutorials
@@ -195,6 +194,8 @@ Input components, to be reused in the form library
 
 ## Open-source websites built with Volto
 
+The following websites have been built with Volto and you can find their complete source code by following their links. Please note that complex websites are built on top of Volto addons and most of the times they're just an empty shell for the addons. You should check the dependencies in their package.json for more details.
+
 - [Forest Information System for Europe](https://github.com/eea/forests-frontend) - Volto project for [Forest Information System for Europe website](https://forest.eea.europa.eu)
 - [Freshwater Information System for Europe](https://github.com/eea/freshwater-frontend) - Volto project for [Freshwater Information System for Europe website](https://water.europa.eu/freshwater)
 - [European Industrial Emissions Portal](https://github.com/eea/industry-frontend ) - Volto project for [European Industrial Emissions Portal website](https://industry.eea.europa.eu)
@@ -219,4 +220,5 @@ Input components, to be reused in the form library
 - [CodeSyntax](https://www.codesyntax.com/en?set_language=en)
 - [RawMaterial](https://rawmaterial.it/en)
 - [PretaGov AU/UK](https://www.pretagov.com.au)
+
 - ... please add yourself here
