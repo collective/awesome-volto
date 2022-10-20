@@ -219,5 +219,6 @@ The following websites have been built with Volto and you can find their complet
 - [Simples Consultoria](https://www.simplesconsultoria.com.br/)
 - [CodeSyntax](https://www.codesyntax.com/en?set_language=en)
 - [RawMaterial](https://rawmaterial.it/en)
-- [PretaGov AU/UK](http://pretagov.com.au)
+- [PretaGov AU/UK](https://www.pretagov.com.au)
+
 - ... please add yourself here
