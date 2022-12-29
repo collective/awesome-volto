@@ -191,6 +191,7 @@ Input components, to be reused in the form library
 - [On the intricacies on React's onClick event handlers](https://dev.to/dvnrsn/why-isn-t-event-stoppropagation-working-1bnm)
 - [React rendering order](https://imkev.dev/react-rendering-order)
 - [Using AbortController to deal with race conditions](https://wanago.io/2022/04/11/abort-controller-race-conditions-react/)
+- [Exploring Render Props Vs. React Hooks In 2020](https://hackernoon.com/exploring-render-props-vs-react-hooks-in-2020-xg1b3uko)
 
 
 ## Open-source websites built with Volto
