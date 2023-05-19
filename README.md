@@ -102,10 +102,9 @@ Various addons that can't fit in a specific category, in mostly random order:
 
 Enhance the basic text editing experience
 
-- [volto-slate](https://github.com/eea/volto-slate) - (Almost) drop-in replacement for the Volto richtext editor with multiple enhancements
-- [volto-slate-footnote](https://github.com/eea/volto-slate-footnote) - Footnote (and references) plugin for volto-slate.
-- [volto-slate-metadata-mentions](https://github.com/eea/volto-slate-metadata-mentions) - Plugin for volto-slate to embed dynamic text that renders Plone metadata fields
-- [volto-slate-zotero](https://github.com/eea/volto-slate-zotero) - Plugin for volto-slate to connect footnotes to Zotero and OpenAire references
+- [volto-slate-footnote](https://github.com/eea/volto-slate-footnote) - Footnote (and references) plugin for the rich text editor.
+- [volto-slate-metadata-mentions](https://github.com/eea/volto-slate-metadata-mentions) - Plugin for the rich text editor to embed dynamic text that renders Plone metadata fields
+- [volto-slate-zotero](https://github.com/eea/volto-slate-zotero) - Plugin for the rich text editor to connect footnotes to Zotero and OpenAire references
 - [volto-slate-dataentity](https://github.com/eea/volto-slate-dataentity) - Connect text entities in the rich text editor to volto-datablocks connected data
 - [volto-workflow-progress](https://github.com/eea/volto-workflow-progress) - Shows workflow steps for content editors.
 
