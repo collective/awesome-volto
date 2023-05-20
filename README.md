@@ -92,7 +92,7 @@ Various addons that can't fit in a specific category, in mostly random order:
 - [volto-educal-hero-block](https://github.com/collective/volto-educal-hero-block) - Volto block for a customizable visual hero
 - [volto-cookiebot](https://github.com/codesyntax/volto-cookiebot) - [CookieBot](https://www.cookiebot.com/) integration package for Volto. CookieBot is a comercial service to comply with the so-called "cookie-law", asking user content before loading any third-party cookie.
 - [volto-countdown-block](https://github.com/rnunez80/volto-countdown-block) - Volto Block to count down to any date specified, with optional display of hours, minutes and seconds.
-- [volto-advanced-variations](https://github.com/rnunez80/volto-advanced-variations) - Based on codesyntax/volto-listingadvanced-variation this addon add events options including dates, times and location, displaying the listing or search as a carousel/slider or background image.
+- [volto-advanced-variations](https://github.com/rnunez80/volto-advanced-variations) - Based on codesyntax/volto-listingadvanced-variation this addon adds events options including dates, times and location, displaying the listing or search as a carousel/slider or background image.
 
 ### Bundles
 
@@ -103,10 +103,9 @@ Various addons that can't fit in a specific category, in mostly random order:
 
 Enhance the basic text editing experience
 
-- [volto-slate](https://github.com/eea/volto-slate) - (Almost) drop-in replacement for the Volto richtext editor with multiple enhancements
-- [volto-slate-footnote](https://github.com/eea/volto-slate-footnote) - Footnote (and references) plugin for volto-slate.
-- [volto-slate-metadata-mentions](https://github.com/eea/volto-slate-metadata-mentions) - Plugin for volto-slate to embed dynamic text that renders Plone metadata fields
-- [volto-slate-zotero](https://github.com/eea/volto-slate-zotero) - Plugin for volto-slate to connect footnotes to Zotero and OpenAire references
+- [volto-slate-footnote](https://github.com/eea/volto-slate-footnote) - Footnote (and references) plugin for the rich text editor.
+- [volto-slate-metadata-mentions](https://github.com/eea/volto-slate-metadata-mentions) - Plugin for the rich text editor to embed dynamic text that renders Plone metadata fields
+- [volto-slate-zotero](https://github.com/eea/volto-slate-zotero) - Plugin for the rich text editor to connect footnotes to Zotero and OpenAire references
 - [volto-slate-dataentity](https://github.com/eea/volto-slate-dataentity) - Connect text entities in the rich text editor to volto-datablocks connected data
 - [volto-workflow-progress](https://github.com/eea/volto-workflow-progress) - Shows workflow steps for content editors.
 
@@ -142,6 +141,7 @@ Input components, to be reused in the form library
 - [volto-react-table-widget](https://github.com/eea/volto-react-table-widget) - Widget to replace Volto's ObjectListWidget to edit data-grid like widgets in a more performant way with a table based on [react-table](https://tanstack.com/table/v8/)
 - [volto-image-crop-widget](https://github.com/mbarde/volto-image-crop-widget) - Extends built-in FileWidget to be able to crop images in-place
 - [volto-data-grid-widget](https://github.com/collective/volto-data-grid-widget) - A field to edit lists of data in a data-grid like fashion. Please note that Volto ships already with a widget for "lists of data", the ObjectListWidget, which uses an accordion for the list.
+- [volto-icon-selector-widget](https://github.com/affinitic/volto-icon-selector-widget) - A widget to search and select an icon from a list, by default it use awesome font icon implemantation in semantic ui, but it can be customized.
 
 ### Themes
 
