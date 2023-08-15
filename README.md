@@ -159,6 +159,7 @@ Input components, to be reused in the form library
 - [volto-brasil-theme](https://github.com/plonegovbr/volto-brasil-theme) - Volto visual theme for "PortalBrasil" / Tema visual para o PortalBrasil
 - [volto-dsgov-theme](https://github.com/f4biosa/volto-dsgov-theme) - Volto visual theme for "DSGov" / Tema visual para Volto baseado no DSGov
 - [volto-pimaker-theme](https://github.com/Fosten/volto-pimaker-theme) - Plone 6 Volto Theme for "Pi Maker"
+- [volto-happy-theme](https://github.com/Fosten/volto-happy-theme) - Plone 6 Volto Theme for "Happy Baseball"
 
 
 ### More
