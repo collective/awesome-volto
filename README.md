@@ -219,6 +219,7 @@ The following websites have been built with Volto and you can find their complet
 - [plone.org.br](https://github.com/plonegovbr/plone.org.br) - Volto project for the [Brazilian Plone Community](https://plone.org.br)
 - [nsw-design-system-plone6-kit](https://github.com/pretagov/nsw-design-system-plone6-kit) - NSW Design System Plone 6 Kit Volto project for [NSW.gov.au sites](https://digitalnsw.pretagov.com.au/)
 - [Zeeuws Museum](https://github.com/intk/volto-zeeuwsmuseum-theme) - Volto project for the [INTK](https://www.zeeuwsmuseum.nl/en)
+- [Rietveld Schröder House](https://github.com/intk/volto-rietveldschroderhuis-theme) - Volto project for the [INTK](https://new.rietveldschroderhuis.nl/en)
 
 
 ## Companies
