@@ -152,6 +152,12 @@ Input components, to be reused in the form library
 - [volto-quanta](https://github.com/plone/volto-quanta) - A new theme for Volto, right now only styles a few form controls
 - [volto-theme-plone-regional](https://github.com/kitconcept/volto-theme-plone-regional) - Volto Theme for Plone regional sites (i.e. plone.de, plone.org.br)
 - [volto-educal-theme](https://github.com/collective/volto-educal-theme) - Volto theme for Educational websites
+- [volto-museumhilversum-theme](https://github.com/intk/volto-museumhilversum-theme) - Volto theme for Museum Hilversum
+- [volto-intkwebsite-theme](https://github.com/intk/volto-intkwebsite-theme) - Volto theme for INTK
+- [volto-theme-twenty-twenty-one](https://github.com/kitconcept/volto-theme-twenty-twenty-one) - Volto "Twenty Twenty One" theme
+- [volto-brasil-theme](https://github.com/plonegovbr/volto-brasil-theme) - Volto visual theme for "PortalBrasil" / Tema visual para o PortalBrasil
+- [volto-dsgov-theme](https://github.com/f4biosa/volto-dsgov-theme) - Volto visual theme for "DSGov" / Tema visual para Volto baseado no DSGov
+
 
 ### More
 
@@ -212,6 +218,7 @@ The following websites have been built with Volto and you can find their complet
 - [2021.ploneconf.org](https://github.com/plone/ploneconf.org) - Volto project for [Plone Conference 2021 site](https://2021.ploneconf.org)
 - [plone.org.br](https://github.com/plonegovbr/plone.org.br) - Volto project for the [Brazilian Plone Community](https://plone.org.br)
 - [nsw-design-system-plone6-kit](https://github.com/pretagov/nsw-design-system-plone6-kit) - NSW Design System Plone 6 Kit Volto project for [NSW.gov.au sites](https://digitalnsw.pretagov.com.au/)
+- [Zeeuws Museum](https://github.com/intk/volto-zeeuwsmuseum-theme) - Volto project for the [INTK](https://www.zeeuwsmuseum.nl/en)
 
 
 ## Companies
