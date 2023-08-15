@@ -89,6 +89,7 @@ Various addons that can't fit in a specific category, in mostly random order:
 - [volto-code-block](https://github.com/plonegovbr/volto-code-block) - Insert code blocks, with syntax highlight, into Volto.
 - [volto-twitter-block](https://github.com/plonegovbr/volto-twitter-block) - Embed Tweets into Volto pages.
 - [volto-social-sharing](https://github.com/codesyntax/volto-social-sharing) - Show "share in social networks" links in pages.
+- [volto-network-block](https://github.com/plonegovbr/volto-network-block) - Volto Social Networks blocks and components.
 - [volto-educal-hero-block](https://github.com/collective/volto-educal-hero-block) - Volto block for a customizable visual hero
 - [volto-cookiebot](https://github.com/codesyntax/volto-cookiebot) - [CookieBot](https://www.cookiebot.com/) integration package for Volto. CookieBot is a comercial service to comply with the so-called "cookie-law", asking user content before loading any third-party cookie.
 - [volto-countdown-block](https://github.com/rnunez80/volto-countdown-block) - Volto Block to count down to any date specified, with optional display of hours, minutes and seconds.
