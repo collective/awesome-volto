@@ -150,7 +150,7 @@ Input components, to be reused in the form library
 - [volto-forests-theme](https://github.com/eea/volto-forests-theme) - Volto theme for "Forest Information System For Europe"
 - [volto-energy-theme](https://github.com/eea/volto-energy-theme) - Volto theme for "Climate and energy in the EU"
 - [volto-quanta](https://github.com/plone/volto-quanta) - A new theme for Volto, right now only styles a few form controls
-- [volto-theme-plone-regional](https://github.com/kitconcept/volto-theme-plone-regional)
+- [volto-theme-plone-regional](https://github.com/kitconcept/volto-theme-plone-regional) - Volto Theme for Plone regional sites (i.e. plone.de, plone.org.br)
 - [volto-educal-theme](https://github.com/collective/volto-educal-theme) - Volto theme for Educational websites
 
 ### More
