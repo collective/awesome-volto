@@ -161,6 +161,7 @@ Input components, to be reused in the form library
 - [volto-pimaker-theme](https://github.com/Fosten/volto-pimaker-theme) - Plone 6 Volto Theme for "Pi Maker"
 - [volto-happy-theme](https://github.com/Fosten/volto-happy-theme) - Plone 6 Volto Theme for "Happy Baseball"
 - [volto-mountain-theme](https://github.com/Fosten/volto-mountain-theme) - Plone 6 Volto Theme for "Mountain"
+- [volto-itxbb-theme](https://github.com/Fosten/volto-itxbb-theme) - Plone 6 Volto Theme for "In The Stix Broadband"
 
 
 ### More
