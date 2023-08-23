@@ -95,6 +95,7 @@ Various addons that can't fit in a specific category, in mostly random order:
 - [volto-cookiebot](https://github.com/codesyntax/volto-cookiebot) - [CookieBot](https://www.cookiebot.com/) integration package for Volto. CookieBot is a comercial service to comply with the so-called "cookie-law", asking user content before loading any third-party cookie.
 - [volto-countdown-block](https://github.com/rnunez80/volto-countdown-block) - A Volto block to count down to any date specified, with optional display of hours, minutes and seconds.
 - [volto-advanced-variations](https://github.com/rnunez80/volto-advanced-variations) - Based on codesyntax/volto-listingadvanced-variation this addon adds events options including dates, times and location, displaying the listing or search as a carousel/slider or background image.
+- [volto-existing-block](https://github.com/rnunez80/volto-existing-block) - A Volto block that show content from another page based on the id selected.
 
 ### Bundles
 
