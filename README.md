@@ -129,6 +129,7 @@ Enhancements to the way blocks can be used, to create custom layouts
 - [volto-listing-block](https://github.com/eea/volto-listing-block) - Extension for the Volto listing block adding more templates
 - [volto-block-style](https://github.com/eea/volto-block-style) - A generic framework to configure block decorations and CSS styles
 - [volto-anchors](https://github.com/eea/volto-anchors) - Slug based anchor links for volto blocks
+- [volto-statistic-block](https://github.com/eea/volto-statistic-block) - A Statistic Text for Volto blocks
 - [volto-featured-block](https://github.com/codesyntax/volto-featured-block): Volto block to create pages with arbitrary content based on a simple schema (title + text + image), with variation support, and  not based on existing content of the site (in contraposition to teaser blocks being based on existing content of the site)
 
 ### Widgets
