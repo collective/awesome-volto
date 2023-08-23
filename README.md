@@ -48,6 +48,7 @@ Various addons that can't fit in a specific category, in mostly random order:
 - [volto-block-banner](https://github.com/collective/volto-block-banner) - Volto block for a customizable visual banner
 - [volto-cookie-banner](https://github.com/collective/volto-cookie-banner) - Volto cookie banner integration addon. To be used with: `collective.volto.cookieconsent`
 - [volto-dropdownmenu](https://github.com/collective/volto-dropdownmenu) - Volto addon for a customizable dropdown menu. Intended to be used with `collective.volto.dropdownmenu`
+- [volto-menu-customization](https://github.com/codesyntax/volto-menu-customization) - Volto addon provides a customization of Volto's default menu that adds a dropdown menu to display subcontent.
 - [volto-geocoding](https://github.com/collective/volto-geocoding) - A widget for Volto to search addresses and save coordinates.
 - [volto-venue](https://github.com/collective/volto-venue) - An addon for Volto as a frontend for `collective.venue`
 - [volto-google-analytics](https://github.com/collective/volto-google-analytics) - Google Analytics integration for Volto.
