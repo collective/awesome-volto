@@ -40,7 +40,7 @@ For add-ons for the CMS Plone which is the backend of Volto please see the [awes
 
 Various addons that can't fit in a specific category, in mostly random order:
 
-- [volto-site-settings](https://github.com/collective/volto-site-settings) - Makes available the site settings to any volto block / component.
+- [volto-site-settings](https://github.com/collective/volto-site-settings) - Makes available the site settings to any Volto block / component.
 - [volto-outdooractive](https://github.com/collective/volto-outdooractive) - Integration with OutdoorActive, an external service
 - [volto-middleware-helmet](https://github.com/collective/volto-middleware-helmet) - Middleware to add security to Volto's HTTP headers
 - [volto-customer-satisfaction](https://github.com/collective/volto-customer-satisfaction) - Gather feedback from site users
@@ -66,13 +66,13 @@ Various addons that can't fit in a specific category, in mostly random order:
 - [volto-plausible](https://github.com/collective/volto-plausible) - Volto integration for Plausible.io privacy-first analytics
 - [volto-newsblock](https://github.com/rohberg/volto-newsblock) - Volto block with selected news items
 - [@plone-collective/volto-authomatic](https://github.com/collective/volto-authomatic) - Social (OpenID) login for Plone ( Using [pas.plugins.authomatic](https://github.com/collective/pas.plugins.authomatic))
-- [volto-leaflet-block](https://github.com/adeweb-be/volto-leaflet-block) - A Leaflet map block for Volto
+- [volto-leaflet-block](https://github.com/adeweb-be/volto-leaflet-block) - A Leaflet map for Volto block
 - [volto-fullcalendar-block](https://github.com/mbarde/volto-fullcalendar-block) - A block for adding a [FullCalendar](https://fullcalendar.io/) to display events from an ics/iCal file
 - [volto-subfooter](https://github.com/collective/volto-subfooter) Volto addon for a customizable subfooter
 - [volto-middleware-static](https://github.com/collective/volto-middleware-static) Volto configurable middleware to serve dynamic static resources
 - [volto-taxonomy](https://github.com/eea/volto-taxonomy) - Controlled Vocabulary management in Volto control panel
 - [volto-tableau](https://github.com/eea/volto-tableau) - Integration with Tableau
-- [volto-openlayers-map](https://github.com/eea/volto-openlayers-map) - Specific implementation of openlayers map
+- [volto-openlayers-map](https://github.com/eea/volto-openlayers-map) - Specific implementation of OpenLayers map
 - [volto-sentry-rancher-config](https://github.com/eea/volto-sentry-rancher-config) - Auto-configure Sentry from Rancher metadata
 - [volto-banner](https://github.com/eea/volto-banner) - Adds a banner to highlight staging, demo or dev websites
 - [volto-listingadvanced-variation](https://github.com/codesyntax/volto-listingadvanced-variation) - Adds a new variation to the listing block with advanced configuration options.
@@ -81,18 +81,18 @@ Various addons that can't fit in a specific category, in mostly random order:
 - [volto-carousel-block](https://github.com/kitconcept/volto-carousel-block) - A carousel block, with slick integration
 - [volto-separator-block](https://github.com/kitconcept/volto-separator-block) - A divider visual indicator type of block
 - [volto-slider-block](https://github.com/kitconcept/volto-slider-block) - A slider with react-slick
-- [volto-blocks](https://github.com/kitconcept/volto-blocks) - Miscelanious blocks
+- [volto-blocks](https://github.com/kitconcept/volto-blocks) - Miscellaneous blocks
 - [volto-dsgvo-banner](kitconcept/volto-dsgvo-banner) - A privacy protection / GDPR banner (mandatory in Europe)
 - [volto-button-block](https://github.com/kitconcept/volto-button-block) - A button (call to action) block
 - [volto-heading-block](https://github.com/kitconcept/volto-heading-block) - A heading block. Can select the heading level
-- [volto-text-with-background-color-block](https://github.com/kitconcept/volto-text-with-background-color-block)
+- [volto-text-with-background-color-block](https://github.com/kitconcept/volto-text-with-background-color-block) A Volto Text With Background Color Block allows editors to add text with a background color to a Volto page
 - [volto-code-block](https://github.com/plonegovbr/volto-code-block) - Insert code blocks, with syntax highlight, into Volto.
 - [volto-twitter-block](https://github.com/plonegovbr/volto-twitter-block) - Embed Tweets into Volto pages.
 - [volto-social-sharing](https://github.com/codesyntax/volto-social-sharing) - Show "share in social networks" links in pages.
 - [volto-network-block](https://github.com/plonegovbr/volto-network-block) - Volto Social Networks blocks and components.
 - [volto-educal-hero-block](https://github.com/collective/volto-educal-hero-block) - Volto block for a customizable visual hero
 - [volto-cookiebot](https://github.com/codesyntax/volto-cookiebot) - [CookieBot](https://www.cookiebot.com/) integration package for Volto. CookieBot is a comercial service to comply with the so-called "cookie-law", asking user content before loading any third-party cookie.
-- [volto-countdown-block](https://github.com/rnunez80/volto-countdown-block) - Volto Block to count down to any date specified, with optional display of hours, minutes and seconds.
+- [volto-countdown-block](https://github.com/rnunez80/volto-countdown-block) - A Volto block to count down to any date specified, with optional display of hours, minutes and seconds.
 - [volto-advanced-variations](https://github.com/rnunez80/volto-advanced-variations) - Based on codesyntax/volto-listingadvanced-variation this addon adds events options including dates, times and location, displaying the listing or search as a carousel/slider or background image.
 
 ### Bundles
@@ -142,7 +142,7 @@ Input components, to be reused in the form library
 - [volto-react-table-widget](https://github.com/eea/volto-react-table-widget) - Widget to replace Volto's ObjectListWidget to edit data-grid like widgets in a more performant way with a table based on [react-table](https://tanstack.com/table/v8/)
 - [volto-image-crop-widget](https://github.com/mbarde/volto-image-crop-widget) - Extends built-in FileWidget to be able to crop images in-place
 - [volto-data-grid-widget](https://github.com/collective/volto-data-grid-widget) - A field to edit lists of data in a data-grid like fashion. Please note that Volto ships already with a widget for "lists of data", the ObjectListWidget, which uses an accordion for the list.
-- [volto-icon-selector-widget](https://github.com/affinitic/volto-icon-selector-widget) - A widget to search and select an icon from a list, by default it use awesome font icon implemantation in semantic ui, but it can be customized.
+- [volto-icon-selector-widget](https://github.com/affinitic/volto-icon-selector-widget) - A widget to search and select an icon from a list, by default it use awesome font icon implementation in semantic ui, but it can be customized.
 
 ### Themes
 
@@ -153,8 +153,8 @@ Input components, to be reused in the form library
 - [volto-quanta](https://github.com/plone/volto-quanta) - A new theme for Volto, right now only styles a few form controls
 - [volto-theme-plone-regional](https://github.com/kitconcept/volto-theme-plone-regional) - Volto Theme for Plone regional sites (i.e. plone.de, plone.org.br)
 - [volto-educal-theme](https://github.com/collective/volto-educal-theme) - Volto theme for Educational websites
-- [volto-museumhilversum-theme](https://github.com/intk/volto-museumhilversum-theme) - Volto theme for Museum Hilversum
-- [volto-intkwebsite-theme](https://github.com/intk/volto-intkwebsite-theme) - Volto theme for INTK
+- [volto-museumhilversum-theme](https://github.com/intk/volto-museumhilversum-theme) - Volto theme for [Museum Hilversum](https://www.museumhilversum.nl/en)
+- [volto-intkwebsite-theme](https://github.com/intk/volto-intkwebsite-theme) - Volto theme for [INTK](https://www.intk.com/en)
 - [volto-theme-twenty-twenty-one](https://github.com/kitconcept/volto-theme-twenty-twenty-one) - Volto "Twenty Twenty One" theme
 - [volto-brasil-theme](https://github.com/plonegovbr/volto-brasil-theme) - Volto visual theme for "PortalBrasil" / Tema visual para o PortalBrasil
 - [volto-dsgov-theme](https://github.com/f4biosa/volto-dsgov-theme) - Volto visual theme for "DSGov" / Tema visual para Volto baseado no DSGov
@@ -185,7 +185,7 @@ Input components, to be reused in the form library
 
 ## Training, example code, tutorials
 
-- Several online training sessions have been recorded, they are available on youtube by searching [volto training](https://www.youtube.com/results?search_query=volto+training)
+- Several online training sessions have been recorded, they are available on Youtube by searching [volto training](https://www.youtube.com/results?search_query=volto+training)
 - Volto – [Create your own site using Volto.](https://training.plone.org/5/volto/index.html)
 - Volto Hands-On – [Practice your skills by recreating the plone.com site using Volto.](https://training.plone.org/5/voltohandson/index.html)
 - Volto Add-ons Development – [Build custom Volto add-ons, explore more advanced Volto topics.](https://training.plone.org/5/voltoaddons/index.html)
@@ -218,14 +218,13 @@ The following websites have been built with Volto and you can find their complet
 - [Sustainability transitions, EEA-Eionet platform](https://github.com/eea/sustainability-frontend) - Volto project for [Sustainability transitions, EEA-Eionet platform website](https://sustainability.eionet.europa.eu)
 - [EEA Indicator Management System](https://github.com/eea/ims-frontend) - Volto project for [EEA Indicator Management System site](https://www.eea.europa.eu/ims)
 - [Climate and energy in the EU](https://github.com/eea/climate-energy-frontend) - Volto project for [Climate and energy in the EU website](https://climate-energy.eea.europa.eu)
-- [volto-bise](https://github.com/eea/volto-bise) - A Volto project packaged as an addon. It provides theming using a razzle.extend.js provided alias.
+- [volto-bise](https://github.com/eea/volto-bise) - A Volto project packaged as an addon. It provides Theming using a razzle.extend.js provided alias.
 - [design-volto-theme](https://github.com/RedTurtle/design-volto-theme) Volto theme for Italian Public Administration
 - [2021.ploneconf.org](https://github.com/plone/ploneconf.org) - Volto project for [Plone Conference 2021 site](https://2021.ploneconf.org)
 - [plone.org.br](https://github.com/plonegovbr/plone.org.br) - Volto project for the [Brazilian Plone Community](https://plone.org.br)
 - [nsw-design-system-plone6-kit](https://github.com/pretagov/nsw-design-system-plone6-kit) - NSW Design System Plone 6 Kit Volto project for [NSW.gov.au sites](https://digitalnsw.pretagov.com.au/)
-- [Zeeuws Museum](https://github.com/intk/volto-zeeuwsmuseum-theme) - Volto project for the [INTK](https://www.zeeuwsmuseum.nl/en)
-- [Rietveld Schröder House](https://github.com/intk/volto-rietveldschroderhuis-theme) - Volto project for the [INTK](https://new.rietveldschroderhuis.nl/en)
-- [Rietveld Schröder House](https://github.com/intk/volto-rietveldschroderhuis-theme) - Volto project for the [INTK](https://new.rietveldschroderhuis.nl/en)
+- [volto-rietveldschroderhuis-theme](https://github.com/intk/volto-rietveldschroderhuis-theme) - Volto project for the [Rietveld Schröder House](https://www.rietveldschroderhuis.nl/en) made for [INTK](https://www.intk.com/en).
+- [volto-zeeuwsmuseum-theme](https://github.com/intk/volto-zeeuwsmuseum-theme) - Volto project for the [Zeeuws Museum](https://www.zeeuwsmuseum.nl/en) made for [INTK](https://www.intk.com/en).
 
 
 ## Companies
