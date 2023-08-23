@@ -96,6 +96,7 @@ Various addons that can't fit in a specific category, in mostly random order:
 - [volto-countdown-block](https://github.com/rnunez80/volto-countdown-block) - A Volto block to count down to any date specified, with optional display of hours, minutes and seconds.
 - [volto-advanced-variations](https://github.com/rnunez80/volto-advanced-variations) - Based on codesyntax/volto-listingadvanced-variation this addon adds events options including dates, times and location, displaying the listing or search as a carousel/slider or background image.
 - [volto-existing-block](https://github.com/rnunez80/volto-existing-block) - A Volto block that show content from another page based on the id selected.
+- [volto-modal-block](https://github.com/rnunez80/volto-modal-block) - A Volto addon block that has a button with image when clicked it open the text in an overlay.
 
 ### Bundles
 
