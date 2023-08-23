@@ -168,6 +168,7 @@ Input components, to be reused in the form library
 - [volto-happy-theme](https://github.com/Fosten/volto-happy-theme) - Plone 6 Volto Theme for "Happy Baseball"
 - [volto-mountain-theme](https://github.com/Fosten/volto-mountain-theme) - Plone 6 Volto Theme for "Mountain"
 - [volto-itxbb-theme](https://github.com/Fosten/volto-itxbb-theme) - Plone 6 Volto Theme for "In The Stix Broadband"
+- [zeeuwsmuseum-jaarverslag](https://github.com/cihanandac/zeeuwsmuseum-jaarverslag) - Plone 6 Volto Theme for "ANNUAL REPORTS" of Centraal Museum & Rietveld.
 
 
 ### More
