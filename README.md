@@ -86,6 +86,7 @@ Various addons that can't fit in a specific category, in mostly random order:
 - [volto-button-block](https://github.com/kitconcept/volto-button-block) - A button (call to action) block
 - [volto-heading-block](https://github.com/kitconcept/volto-heading-block) - A heading block. Can select the heading level
 - [volto-text-with-background-color-block](https://github.com/kitconcept/volto-text-with-background-color-block) A Volto Text With Background Color Block allows editors to add text with a background color to a Volto page
+- [volto-social-blocks](https://github.com/kitconcept/volto-social-blocks) - A Social Blocks support for Volto block
 - [volto-code-block](https://github.com/plonegovbr/volto-code-block) - Insert code blocks, with syntax highlight, into Volto.
 - [volto-twitter-block](https://github.com/plonegovbr/volto-twitter-block) - Embed Tweets into Volto pages.
 - [volto-social-sharing](https://github.com/codesyntax/volto-social-sharing) - Show "share in social networks" links in pages.
