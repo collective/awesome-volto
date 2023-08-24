@@ -1,7 +1,8 @@
 name: CI
 
-on: push
-
+on:
+  push:
+    branches: [ '*' ]
 
 jobs:
   build:
@@ -9,12 +10,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses:  actions/checkout@v3
-    - name: Set up Ruby 3.2
+    - uses: actions/checkout@v2
+    - name: Set up Ruby 2.6
       uses: actions/setup-ruby@v1
       with:
-        ruby-version: '3.2'
-    - name: Checks
+        ruby-version: 2.6
+    - name: awesome_bot Checks
       run: |
         gem install awesome_bot
-        awesome_bot README.md
+        awesome_bot --request-delay 1 README.md
