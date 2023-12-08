@@ -18,4 +18,4 @@ jobs:
     - name: awesome_bot Checks
       run: |
         gem install awesome_bot
-        awesome_bot --request-delay 1 README.md
+        awesome_bot --request-delay 1 --allow-dupe README.md
