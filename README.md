@@ -299,5 +299,6 @@ The following websites have been built with Volto. You can find their complete s
 - [CodeSyntax](https://www.codesyntax.com/en?set_language=en)
 - [Nicola Zambello](https://nzambello.dev)
 - [PretaGov AU/UK](https://www.pretagov.com.au)
+- [FrescoMedia](https://frescomedia.ro)
 
 - ... please add yourself here
