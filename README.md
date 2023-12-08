@@ -300,5 +300,4 @@ The following websites have been built with Volto. You can find their complete s
 - [Nicola Zambello](https://nzambello.dev)
 - [PretaGov AU/UK](https://www.pretagov.com.au)
 - [FrescoMedia](https://frescomedia.ro)
-
 - ... please add yourself here
