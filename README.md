@@ -25,7 +25,7 @@ For add-ons for the CMS Plone which is the backend of Volto please see the [awes
 ## Official websites
 
 - [github.com/plone/volto](https://github.com/plone/volto)
-- [Plone 6 - Frontend documentation](https://6.dev-docs.plone.org/volto/)
+- [Plone 6 - Frontend documentation](https://6.docs.plone.org/volto/)
 - [plone.org](https://plone.org)
 
 
@@ -195,10 +195,11 @@ Input components, to be reused in the form library
 ## Training, example code, tutorials
 
 - Several online training sessions have been recorded, they are available on Youtube by searching [volto training](https://www.youtube.com/results?search_query=volto+training)
-- Volto – [Create your own site using Volto.](https://training.plone.org/5/volto/index.html)
-- Volto Hands-On – [Practice your skills by recreating the plone.com site using Volto.](https://training.plone.org/5/voltohandson/index.html)
-- Volto Add-ons Development – [Build custom Volto add-ons, explore more advanced Volto topics.](https://training.plone.org/5/voltoaddons/index.html)
-- Mastering Plone 6 Development – [Learn the best practices of Plone development for frontend and backend using Volto as well as Plone Classic.](https://training.plone.org/5/mastering-plone/index.html)
+- [Volto Hands-On](https://training.plone.org/voltohandson/index.html) – Practice your skills by recreating the plone.com site using Volto.
+- [Volto Add-ons Development](https://training.plone.org/voltoaddons/index.html) – Build custom Volto add-ons, explore more advanced Volto topics.
+- [Mastering Plone 6 Development](https://training.plone.org/mastering-plone/index.html) – Learn the best practices of Plone development for frontend and backend using Volto as well as Plone Classic.
+- [Volto Customization for JavaScript Beginners](https://training.plone.org/volto_customization/index.html) - Master Volto customization from the ground up.
+- [Effective Volto](https://training.plone.org/effective-volto/index.html) - Learn advanced topics, good practices, and build upon your basic experience with Volto.
 - [Demo project for Volto addons](https://github.com/collective/volto-example-project-addons)
 
 
@@ -270,12 +271,12 @@ Input components, to be reused in the form library
 
 The following websites have been built with Volto. You can find their complete source code by following their links. Please note that complex websites are built on top of Volto add-ons, and most of the time they're just an empty shell for the add-ons. You should check the dependencies in their `package.json` for more details.
 
-- [Forest Information System for Europe](https://github.com/eea/forests-frontend) - Volto project for [Forest Information System for Europe website](https://forest.eea.europa.eu)
+- [Forest Information System for Europe](https://github.com/eea/fise-frontend) - Volto project for [Forest Information System for Europe website](https://forest.eea.europa.eu)
 - [Freshwater Information System for Europe](https://github.com/eea/freshwater-frontend) - Volto project for [Freshwater Information System for Europe website](https://water.europa.eu/freshwater)
 - [European Industrial Emissions Portal](https://github.com/eea/industry-frontend ) - Volto project for [European Industrial Emissions Portal website](https://industry.eea.europa.eu)
 - [Biodiversity Information System for Europe](https://github.com/eea/bise-frontend) - Volto project for [Biodiversity Information System for Europe website](https://biodiversity.europa.eu)
 - [Sustainability transitions, EEA-Eionet platform](https://github.com/eea/sustainability-frontend) - Volto project for [Sustainability transitions, EEA-Eionet platform website](https://sustainability.eionet.europa.eu)
-- [EEA Indicator Management System](https://github.com/eea/ims-frontend) - Volto project for [EEA Indicator Management System site](https://www.eea.europa.eu/ims)
+- [EEA Indicator Management System](https://github.com/eea/ims-frontend) - Volto project for [EEA Indicator Management System site](https://www.eea.europa.eu/en/analysis/indicators)
 - [Climate and energy in the EU](https://github.com/eea/climate-energy-frontend) - Volto project for [Climate and energy in the EU website](https://climate-energy.eea.europa.eu)
 - [volto-bise](https://github.com/eea/volto-bise) - A Volto project packaged as an addon. It provides Theming using a razzle.extend.js provided alias.
 - [design-volto-theme](https://github.com/RedTurtle/design-volto-theme) Volto theme for Italian Public Administration
@@ -293,11 +294,11 @@ The following websites have been built with Volto. You can find their complete s
 
 - [kitconcept](https://kitconcept.com/)
 - [Redturtle](https://www.redturtle.it/)
-- [Eau de Web](https://www.eaudeweb.ro/)
+- [Eau de Web](https://eaudeweb.ro/)
 - [Rohberg](https://www.rohberg.ch/de)
 - [Simples Consultoria](https://www.simplesconsultoria.com.br/)
 - [CodeSyntax](https://www.codesyntax.com/en?set_language=en)
-- [RawMaterial](https://rawmaterial.it/en)
+- [Nicola Zambello](https://nzambello.dev)
 - [PretaGov AU/UK](https://www.pretagov.com.au)
 
 - ... please add yourself here
