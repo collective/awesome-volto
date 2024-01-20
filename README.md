@@ -224,7 +224,7 @@ Input components, to be reused in the form library
 - [Biblioteche Pianura Est](https://bibest.it/it) (Website of the Associated libraries of eastern plain. Developed by [RedTurtle](https://www.redturtle.it/), 2021)
 - [BISE](https://biodiversity.europa.eu) (Biodiversity Information System for Europe, developed by [Eau de Web](https://eaudeweb.ro/), 2019)
 - [Camera di Commercio dell'Umbria](https://www.umbria.camcom.it) (Website Chamber of Commerce of Umbria. Developed by [RedTurtle](https://www.redturtle.it), 2021)
-- [Camera di Commercio di Reggio Emilia](https://www.re.camcom.gov.it/) (Website Chamber of Commerce of Reggio Emilia. Developed by [RedTurtle](https://www.redturtle.it), 2021)
+- [Camera di Commercio di Reggio Emilia](https://www.emilia.camcom.it) (Website Chamber of Commerce of Reggio Emilia. Developed by [RedTurtle](https://www.redturtle.it), 2021)
 - [Comune di Camposanto](https://www.comune.camposanto.mo.it/) (Website of the Municipality of Camposanto. Developed by [RedTurtle](https://www.redturtle.it), 2021)
 - [Comune di Cantagallo](https://www.comune.cantagallo.po.it/) (Website of the Municipality of Cantagallo. Developed by [RedTurtle](https://www.redturtle.it), 2021)
 - [Comune di Medolla](https://www.comune.medolla.mo.it/) (Website of the Municipality of Medolla. Developed by [RedTurtle](https://www.redturtle.it), 2021)
