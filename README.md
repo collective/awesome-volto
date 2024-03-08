@@ -99,6 +99,8 @@ Various addons that can't fit in a specific category, in mostly random order:
 - [volto-advanced-variations](https://github.com/rnunez80/volto-advanced-variations) - Based on codesyntax/volto-listingadvanced-variation this addon adds events options including dates, times and location, displaying the listing or search as a carousel/slider or background image.
 - [volto-existing-block](https://github.com/rnunez80/volto-existing-block) - A Volto block that show content from another page based on the id selected.
 - [volto-modal-block](https://github.com/rnunez80/volto-modal-block) - A Volto addon block that has a button with image when clicked it open the text in an overlay.
+- [@codesyntax/volto-maplibre-block](https://github.com/codesyntax/volto-maplibre-block) - A Volto block and component to render maps based on [maplibre-gl-js](https://maplibre.org/maplibre-gl-js/docs/)
+- [@codesyntax/volto-countup-block](https://github.com/codesyntax/volto-countup-block) - A Volto block to show a going-up counter
 
 ### Bundles
 
