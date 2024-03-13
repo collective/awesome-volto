@@ -153,6 +153,7 @@ Input components, to be reused in the form library
 - [volto-data-grid-widget](https://github.com/collective/volto-data-grid-widget) - A field to edit lists of data in a data-grid like fashion. Please note that Volto ships already with a widget for "lists of data", the ObjectListWidget, which uses an accordion for the list.
 - [volto-icon-selector-widget](https://github.com/affinitic/volto-icon-selector-widget) - A widget to search and select an icon from a list, by default it use awesome font icon implementation in semantic ui, but it can be customized.
 - [volto-widget-theme-picker](https://github.com/eea/volto-widget-theme-picker) - A theme color picker for themes in Volto blocks
+- [volto-doublerange-facet](https://github.com/eea/volto-doublerange-facet) - Adds a double range facet filter to the Volto Search block
 
 ### Themes
 
