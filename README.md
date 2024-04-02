@@ -15,7 +15,7 @@ For add-ons for the CMS Plone which is the backend of Volto please see the [awes
   - [Widgets](#widgets)
   - [Themes](#themes)
   - [More](#more)
-  - [Plone backend addons for Volto](#plone-backend-addons-for-volto)
+  - [Plone backend add-ons for Volto](#plone-backend-addons-for-volto)
 - [Training, example code, tutorials](#training-example-code-tutorials)
   - [Awesome React articles, relevant to any Volto developer](#awesome-react-articles-relevant-to-any-volto-developer)
 - [Open-source websites built with Volto](#open-source-websites-built-with-volto)
@@ -179,7 +179,7 @@ Input components, to be reused in the form library
 
 - See all [volto-addon](https://www.npmjs.com/search?q=keywords:volto-addon) tagged packages on NPM.
 
-### Plone backend addons for Volto
+### Plone backend add-ons for Volto
 
 - [plone.volto](https://github.com/plone/plone.volto) - Official Volto integration package for Plone.
 - [collective.volto.dropdownmenu](https://github.com/collective/collective.volto.dropdownmenu) - Add-on for manage a `Dropdown Menu` in Volto.
@@ -274,7 +274,6 @@ The following websites have been built with Volto. You can find their complete s
 - [European Industrial Emissions Portal](https://github.com/eea/industry-frontend ) - Volto project for [European Industrial Emissions Portal website](https://industry.eea.europa.eu)
 - [Biodiversity Information System for Europe](https://github.com/eea/bise-frontend) - Volto project for [Biodiversity Information System for Europe website](https://biodiversity.europa.eu)
 - [EEA Main Website frontend](https://github.com/eea/eea-website-frontend) - Plone 6 Volto frontend for [European Environment Agency](https://www.eea.europa.eu/en)
-- [EEA Main Website backend](https://github.com/eea/eea-website-backend) - Plone 6 backend for [European Environment Agency](https://www.eea.europa.eu/en)
 - [Climate and energy in the EU](https://github.com/eea/climate-energy-frontend) - Volto project for [Climate and energy in the EU website](https://climate-energy.eea.europa.eu)
 - [volto-bise](https://github.com/eea/volto-bise) - A Volto project packaged as an addon. It provides Theming using a razzle.extend.js provided alias.
 - [design-volto-theme](https://github.com/RedTurtle/design-volto-theme) Volto theme for Italian Public Administration
