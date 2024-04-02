@@ -15,7 +15,7 @@ For add-ons for the CMS Plone which is the backend of Volto please see the [awes
   - [Widgets](#widgets)
   - [Themes](#themes)
   - [More](#more)
-  - [Plone backend addons for Volto](#plone-backend-addons-for-volto)
+  - [Plone backend add-ons for Volto](#plone-backend-addons-for-volto)
 - [Training, example code, tutorials](#training-example-code-tutorials)
   - [Awesome React articles, relevant to any Volto developer](#awesome-react-articles-relevant-to-any-volto-developer)
 - [Open-source websites built with Volto](#open-source-websites-built-with-volto)
@@ -157,8 +157,7 @@ Input components, to be reused in the form library
 
 ### Themes
 
-- [volto-sustainability-theme](https://github.com/eea/volto-sustainability-theme) - Volto Theme for "Sustainability transitions, EEA-Eionet platform"
-- [volto-ims-theme](https://github.com/eea/volto-ims-theme) - Volto theme for "European Environment Agency's Indicator Management System"
+- [volto-eea-website-theme](https://github.com/eea/volto-eea-website-theme) - Volto Theme for [European Environment Agency web sites](https://www.eea.europa.eu/en)
 - [volto-forests-theme](https://github.com/eea/volto-forests-theme) - Volto theme for "Forest Information System For Europe"
 - [volto-energy-theme](https://github.com/eea/volto-energy-theme) - Volto theme for "Climate and energy in the EU"
 - [volto-quanta](https://github.com/plone/volto-quanta) - A new theme for Volto, right now only styles a few form controls
@@ -180,7 +179,7 @@ Input components, to be reused in the form library
 
 - See all [volto-addon](https://www.npmjs.com/search?q=keywords:volto-addon) tagged packages on NPM.
 
-### Plone backend addons for Volto
+### Plone backend add-ons for Volto
 
 - [plone.volto](https://github.com/plone/plone.volto) - Official Volto integration package for Plone.
 - [collective.volto.dropdownmenu](https://github.com/collective/collective.volto.dropdownmenu) - Add-on for manage a `Dropdown Menu` in Volto.
@@ -238,7 +237,7 @@ Input components, to be reused in the form library
 - [Comune di Vernio](https://www.comune.vernio.po.it/) (Website of the Municipality of Vernio. Developed by [RedTurtle](https://www.redturtle.it), 2021)
 - [Debabarreneko mankomunitatea](https://debabarrena.eus/eu) (Website of the Commonwealth of Debabarrena, community of municipalities to centralize waste handling services, developed by [CodeSyntax](https://www.codesyntax.com/en), 2022)
 - [Debako Udala / Ayuntamiento de Deba](https://www.deba.eus/eu) (Website of the municipality of Deba, developed by [CodeSyntax](https://www.codesyntax.com/en), 2022)
-- [EEA-IMSv4](https://www.eea.europa.eu/en/analysis/indicators) (EEA Indicator Management System v4. Developed by [Eau de web](https://eaudeweb.ro) for the European Environmental Agency, 2021)
+- [European Environment Agency](https://www.eea.europa.eu/en) (Website of the European Environment Agency. Developed by [Eau de Web](https://eaudeweb.ro), 2023)
 - [Energy Climate Union portal for Europe](https://climate-energy.eea.europa.eu/) (Thematic website focusing on European strides towards mitigating climate change, developed by [Eau de Web](https://eaudeweb.ro/), 2020)
 - [Excellence at Humboldt-Universität zu Berlin](https://www.alles-beginnt-mit-einer-frage.de) (Website for the excellence initiative of the [Humboldt University Berlin](https://www.hu-berlin.de/de), developed by [kitconcept GmbH](https://kitconcept.com), 2019)
 - [Forest Information System for Europe](https://forest.eea.europa.eu) (Thematic website focusing on European forests, developed by [Eau de Web](https://eaudeweb.ro/), 2019)
@@ -274,8 +273,7 @@ The following websites have been built with Volto. You can find their complete s
 - [Freshwater Information System for Europe](https://github.com/eea/freshwater-frontend) - Volto project for [Freshwater Information System for Europe website](https://water.europa.eu/freshwater)
 - [European Industrial Emissions Portal](https://github.com/eea/industry-frontend ) - Volto project for [European Industrial Emissions Portal website](https://industry.eea.europa.eu)
 - [Biodiversity Information System for Europe](https://github.com/eea/bise-frontend) - Volto project for [Biodiversity Information System for Europe website](https://biodiversity.europa.eu)
-- [Sustainability transitions, EEA-Eionet platform](https://github.com/eea/sustainability-frontend) - Volto project for [Sustainability transitions, EEA-Eionet platform website](https://sustainability.eionet.europa.eu)
-- [EEA Indicator Management System](https://github.com/eea/ims-frontend) - Volto project for [EEA Indicator Management System site](https://www.eea.europa.eu/en/analysis/indicators)
+- [EEA Main Website frontend](https://github.com/eea/eea-website-frontend) - Plone 6 Volto frontend for [European Environment Agency](https://www.eea.europa.eu/en)
 - [Climate and energy in the EU](https://github.com/eea/climate-energy-frontend) - Volto project for [Climate and energy in the EU website](https://climate-energy.eea.europa.eu)
 - [volto-bise](https://github.com/eea/volto-bise) - A Volto project packaged as an addon. It provides Theming using a razzle.extend.js provided alias.
 - [design-volto-theme](https://github.com/RedTurtle/design-volto-theme) Volto theme for Italian Public Administration
@@ -285,6 +283,8 @@ The following websites have been built with Volto. You can find their complete s
 - [plone.org.br](https://github.com/plonegovbr/plone.org.br) - Volto project for the [Brazilian Plone Community](https://plone.org.br)
 - [nsw-design-system-plone6-kit](https://github.com/pretagov/nsw-design-system-plone6-kit) - NSW Design System Plone 6 Kit Volto project for [NSW.gov.au sites](https://digitalnsw.pretagov.com.au/)
 - [volto-centraalmuseum-theme](https://github.com/intk/volto-centraalmuseum-theme) - Volto project for the [Centraal Museum & Rietveld](https://www.centraalmuseum.nl/nl) made for [INTK](https://www.intk.com/en).
+- [volto-eea-design-system](https://github.com/eea/volto-eea-design-system) - EEA Design System Plone 6 Kit Volto project for [European Environment Agency web sites](https://eea.github.io/volto-eea-design-system/)
+- [volto-eea-kitkat](https://github.com/eea/volto-eea-kitkat) - A known good set of Volto add-ons to be used within all EEA projects and beyond, made for [European Environment Agency](https://www.eea.europa.eu/en)
 - [volto-rietveldschroderhuis-theme](https://github.com/intk/volto-rietveldschroderhuis-theme) - Volto project for the [Rietveld Schröder House](https://www.rietveldschroderhuis.nl/en) made for [INTK](https://www.intk.com/en).
 - [volto-zeeuwsmuseum-theme](https://github.com/intk/volto-zeeuwsmuseum-theme) - Volto project for the [Zeeuws Museum](https://www.zeeuwsmuseum.nl/en) made for [INTK](https://www.intk.com/en).
 
