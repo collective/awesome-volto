@@ -54,6 +54,7 @@ Various addons that can't fit in a specific category, in mostly random order:
 - [volto-venue](https://github.com/collective/volto-venue) - An addon for Volto as a frontend for `collective.venue`
 - [volto-google-analytics](https://github.com/collective/volto-google-analytics) - Google Analytics integration for Volto.
 - [volto-social-settings](https://github.com/collective/volto-social-settings) - Add-on for manage a list of social network links on Volto
+- [volto-controlpanel](https://github.com/eea/volto-controlpanel) - Enhance Version Overview information in Control Panel
 - [volto-embed](https://github.com/eea/volto-embed) - GDPR compliant external resource embedding Volto Block
 - [volto-plotlycharts](https://github.com/eea/volto-plotlycharts) - (EEA) Powerful chart editor based on Plotly
 - [volto-block-data-figure](https://github.com/eea/volto-block-data-figure) - (EEA) Volto add-on for Daviz specific SVG charts.
@@ -189,6 +190,7 @@ Input components, to be reused in the form library
 - [collective.volto.secondarymenu](https://github.com/collective/collective.volto.secondarymenu) - Add-on for Volto to manage a secondary menu (right column) for `Dropdown Menu`
 - [collective.volto.blocksfield](https://github.com/collective/collective.volto.blocksfield) - Custom z3c.form field that allows to use Volto blocks. This field can replace RichText fields in your custom content-types.
 - [collective.volto.socialsettings](https://github.com/collective/collective.volto.socialsettings) - Add-on for manage a list of social network links on Volto
+- [eea.api.controlpanel](https://github.com/eea/eea.api.controlpanel) - Backend add-on to be used with `volto-controlpanel`
 - [eea.api.layout](https://github.com/eea/eea.api.layout) - DX fixed blocks layout behavior with auto-sync support
 - [eea.schema.slate](https://github.com/eea/eea.schema.slate) - DX TTW Slate JSONField to be used with DX Content-Types metadata and `volto-slate`
 - [volto-plone-reloader](https://github.com/instification/volto-plone-reloader) (volto addon) - Use [plone.reload](https://github.com/plone/plone.reload)'s `/@@reload` feature through a volto frontend
