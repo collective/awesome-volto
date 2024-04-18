@@ -54,7 +54,7 @@ Various addons that can't fit in a specific category, in mostly random order:
 - [volto-venue](https://github.com/collective/volto-venue) - An addon for Volto as a frontend for `collective.venue`
 - [volto-google-analytics](https://github.com/collective/volto-google-analytics) - Google Analytics integration for Volto.
 - [volto-social-settings](https://github.com/collective/volto-social-settings) - Add-on for manage a list of social network links on Volto
-- [volto-controlpanel](https://github.com/eea/volto-controlpanel) - Enhance Version Overview information in Control Panel
+- [volto-controlpanel](https://github.com/eea/volto-controlpanel) - Enhance Version Overview information in Control Panel. Requires `eea.api.controlpanel` Plone backend add-on.
 - [volto-embed](https://github.com/eea/volto-embed) - GDPR compliant external resource embedding Volto Block
 - [volto-plotlycharts](https://github.com/eea/volto-plotlycharts) - (EEA) Powerful chart editor based on Plotly
 - [volto-block-data-figure](https://github.com/eea/volto-block-data-figure) - (EEA) Volto add-on for Daviz specific SVG charts.
