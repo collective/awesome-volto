@@ -102,6 +102,9 @@ Various addons that can't fit in a specific category, in mostly random order:
 - [volto-modal-block](https://github.com/rnunez80/volto-modal-block) - A Volto addon block that has a button with image when clicked it open the text in an overlay.
 - [@codesyntax/volto-maplibre-block](https://github.com/codesyntax/volto-maplibre-block) - A Volto block and component to render maps based on [maplibre-gl-js](https://maplibre.org/maplibre-gl-js/docs/)
 - [@codesyntax/volto-countup-block](https://github.com/codesyntax/volto-countup-block) - A Volto block to show a going-up counter
+- [volto-videohero-block](https://github.com/rnunez80/volto-videohero-block) - a hero section with a video background, and optional preheader, title, description, call-to-actions and more.
+
+
 
 ### Bundles
 
