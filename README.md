@@ -174,6 +174,7 @@ Input components, to be reused in the form library
 - [volto-dsgov-theme](https://github.com/f4biosa/volto-dsgov-theme) - Volto visual theme for "DSGov" / Tema visual para Volto baseado no DSGov
 - [volto-pimaker-theme](https://github.com/Fosten/volto-pimaker-theme) - Plone 6 Volto Theme for "Pi Maker"
 - [volto-happy-theme](https://github.com/Fosten/volto-happy-theme) - Plone 6 Volto Theme for "Happy Baseball"
+- [volto-light-theme](https://github.com/kitconcept/volto-light-theme) - Plone 6 Volto Light Theme (by kitconcept)
 - [volto-mountain-theme](https://github.com/Fosten/volto-mountain-theme) - Plone 6 Volto Theme for "Mountain"
 - [volto-itxbb-theme](https://github.com/Fosten/volto-itxbb-theme) - Plone 6 Volto Theme for "In The Stix Broadband"
 - [zeeuwsmuseum-jaarverslag](https://github.com/cihanandac/zeeuwsmuseum-jaarverslag) - Plone 6 Volto Theme for "ANNUAL REPORTS" of Centraal Museum & Rietveld.
