@@ -103,6 +103,7 @@ Various addons that can't fit in a specific category, in mostly random order:
 - [@codesyntax/volto-maplibre-block](https://github.com/codesyntax/volto-maplibre-block) - A Volto block and component to render maps based on [maplibre-gl-js](https://maplibre.org/maplibre-gl-js/docs/)
 - [@codesyntax/volto-countup-block](https://github.com/codesyntax/volto-countup-block) - A Volto block to show a going-up counter
 - [volto-videohero-block](https://github.com/rnunez80/volto-videohero-block) - a hero section with a video background, and optional preheader, title, description, call-to-actions and more.
+- [volto-chatbot](https://github.com/eea/volto-chatbot) - Volto Chatbot allows the integration of an AI-powered chatbot into your Volto project with [Danswer](https://github.com/danswer-ai/danswer) AI Assistant connected to your company's docs, apps, and people.
 
 
 
@@ -206,7 +207,7 @@ Input components, to be reused in the form library
 - [Volto Hands-On](https://training.plone.org/voltohandson/index.html) – Practice your skills by recreating the plone.com site using Volto.
 - [Volto Add-ons Development](https://training.plone.org/voltoaddons/index.html) – Build custom Volto add-ons, explore more advanced Volto topics.
 - [Mastering Plone 6 Development](https://training.plone.org/mastering-plone/index.html) – Learn the best practices of Plone development for frontend and backend using Volto as well as Plone Classic.
-- [Volto Customization for JavaScript Beginners](https://training.plone.org/volto_customization/index.html) - Master Volto customization from the ground up.
+- [Volto Customization for JavaScript Beginners](https://training.plone.org/volto-customization/index.html) - Master Volto customization from the ground up.
 - [Effective Volto](https://training.plone.org/effective-volto/index.html) - Learn advanced topics, good practices, and build upon your basic experience with Volto.
 - [Demo project for Volto addons](https://github.com/collective/volto-example-project-addons)
 
@@ -215,7 +216,7 @@ Input components, to be reused in the form library
 
 - [Writing resilient react components](https://overreacted.io/writing-resilient-components/)
 - [React rendering behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
-- [React Algebraic Effects](https://blog.reesew.io/algebraic-effects-for-react-developers?x-host=blog.reesew.io )
+- [React Algebraic Effects](https://web.archive.org/web/20240910104622/https://blog.reesew.io/algebraic-effects-for-react-developers)
 - [Code Splitting - deeper understanding](https://medium.com/1mgofficial/code-splitting-ssr-lazy-loading-react-components-a-deeper-understanding-part-1-7d714196706)
 - [High Performance React](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
 - [A Complete Guide to useEffect (and more)](https://overreacted.io/a-complete-guide-to-useeffect/#why-usereducer-is-the-cheat-mode-of-hooks)
