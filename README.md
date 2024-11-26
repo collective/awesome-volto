@@ -216,7 +216,7 @@ Input components, to be reused in the form library
 
 - [Writing resilient react components](https://overreacted.io/writing-resilient-components/)
 - [React rendering behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
-- [React Algebraic Effects](https://blog.reesew.io/algebraic-effects-for-react-developers?x-host=blog.reesew.io )
+- [React Algebraic Effects](https://web.archive.org/web/20240910104622/https://blog.reesew.io/algebraic-effects-for-react-developers)
 - [Code Splitting - deeper understanding](https://medium.com/1mgofficial/code-splitting-ssr-lazy-loading-react-components-a-deeper-understanding-part-1-7d714196706)
 - [High Performance React](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
 - [A Complete Guide to useEffect (and more)](https://overreacted.io/a-complete-guide-to-useeffect/#why-usereducer-is-the-cheat-mode-of-hooks)
