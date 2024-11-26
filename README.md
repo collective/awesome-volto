@@ -103,6 +103,7 @@ Various addons that can't fit in a specific category, in mostly random order:
 - [@codesyntax/volto-maplibre-block](https://github.com/codesyntax/volto-maplibre-block) - A Volto block and component to render maps based on [maplibre-gl-js](https://maplibre.org/maplibre-gl-js/docs/)
 - [@codesyntax/volto-countup-block](https://github.com/codesyntax/volto-countup-block) - A Volto block to show a going-up counter
 - [volto-videohero-block](https://github.com/rnunez80/volto-videohero-block) - a hero section with a video background, and optional preheader, title, description, call-to-actions and more.
+- [volto-chatbot](https://github.com/eea/volto-chatbot) - Volto Chatbot allows the integration of an AI-powered chatbot into your Volto project with [Danswer](https://github.com/danswer-ai/danswer) AI Assistant connected to your company's docs, apps, and people.
 
 
 
