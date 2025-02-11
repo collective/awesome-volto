@@ -247,6 +247,7 @@ Input components, to be reused in the form library
 - [European Environment Agency](https://www.eea.europa.eu/en) (Website of the European Environment Agency. Developed by [Eau de Web](https://eaudeweb.ro), 2023)
 - [Energy Climate Union portal for Europe](https://climate-energy.eea.europa.eu/) (Thematic website focusing on European strides towards mitigating climate change, developed by [Eau de Web](https://eaudeweb.ro/), 2020)
 - [Excellence at Humboldt-Universität zu Berlin](https://www.alles-beginnt-mit-einer-frage.de) (Website for the excellence initiative of the [Humboldt University Berlin](https://www.hu-berlin.de/de), developed by [kitconcept GmbH](https://kitconcept.com), 2019)
+- [Film Basque Country](https://www.filmbasquecountry.eus/en) (Website to attract, guide, and support international productions, making it easier for them to film in the Basque Country, developed by [CodeSyntax](https://www.codesyntax.com/en), 2025)
 - [Forest Information System for Europe](https://forest.eea.europa.eu) (Thematic website focusing on European forests, developed by [Eau de Web](https://eaudeweb.ro/), 2019)
 - [Forschungszentrum Jülich](https://www.fz-juelich.de/de) (Website for Forschungzentrum Jülich, which is one of the largest research institutions in Europe, developed by [kitconcept GmbH](https://kitconcept.com), 2022)
 - [Geosphere Austria](https://www.geosphere.at/de) (Website of the Austrian Federal Institute, national geological, geophysical, climatological and meteorological service, 2023)
