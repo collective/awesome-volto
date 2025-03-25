@@ -240,7 +240,6 @@ Input components, to be reused in the form library
 - [Comune di Mirandola](https://www.comune.mirandola.mo.it/) (Website of the Municipality of Mirandola. Developed by [RedTurtle](https://www.redturtle.it), 2021)
 - [Comune di Modena](https://www.comune.modena.it/) (Website of the Municipality of Modena. Developed by [RedTurtle](https://www.redturtle.it), 2020)
 - [Comune di San Possidonio](https://www.comune.sanpossidonio.mo.it/) (Website of the Municipality of San Possidonio. Developed by [RedTurtle](https://www.redturtle.it), 2021)
-- [Comune di Vaiano](https://www.comune.vaiano.po.it/) (Website of the Municipality of Vaiano. Developed by [RedTurtle](https://www.redturtle.it), 2021)
 - [Comune di Vernio](https://www.comune.vernio.po.it/) (Website of the Municipality of Vernio. Developed by [RedTurtle](https://www.redturtle.it), 2021)
 - [Debabarreneko mankomunitatea](https://debabarrena.eus/eu) (Website of the Commonwealth of Debabarrena, community of municipalities to centralize waste handling services, developed by [CodeSyntax](https://www.codesyntax.com/en), 2022)
 - [Debako Udala / Ayuntamiento de Deba](https://www.deba.eus/eu) (Website of the municipality of Deba, developed by [CodeSyntax](https://www.codesyntax.com/en), 2022)
