@@ -104,6 +104,7 @@ Various addons that can't fit in a specific category, in mostly random order:
 - [@codesyntax/volto-countup-block](https://github.com/codesyntax/volto-countup-block) - A Volto block to show a going-up counter
 - [volto-videohero-block](https://github.com/rnunez80/volto-videohero-block) - a hero section with a video background, and optional preheader, title, description, call-to-actions and more.
 - [volto-chatbot](https://github.com/eea/volto-chatbot) - Volto Chatbot allows the integration of an AI-powered chatbot into your Volto project with [Onyx (formerly Danswer)](https://github.com/onyx-dot-app/onyx) AI Assistant connected to your company's docs, apps, and people.
+- [volto-page-displayer](https://github.com/Kreablo/volto-page-displayer) - A Volto block used for displaying other Volto pages. Features loop detection and a Listing variation.
 
 
 
