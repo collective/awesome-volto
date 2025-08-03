@@ -263,7 +263,7 @@ Input components, to be reused in the form library
 - [MEDICE Webseite](https://medice.com/de-de) (Website for MEDICE Arzneimittel Pütter GmbH & Co. KG), developed by [Werkbank GmbH](https://werkbank.de/), 2020)
 - [Nuova Voce Ecologista](https://nuovavoceecologista.it) (Website of Nuova Voce Ecologista, an Italian green Party, 2020)
 - [Osaka University](https://www.osaka-u.ac.jp/en) (Osaka University is considered one of the most prestigious universities in Japan. Developed by [CMScom](https://www.cmscom.jp), 2021)
-- [Portknox.net](https://portknox.net) (Portknox.net is a specialized Nextcloud hosting provider from Germany, developed by [Starzel](https://www.starzel.de), 2025)
+- [Portknox.net](https://portknox.net/de) (Portknox.net is a specialized Nextcloud hosting provider from Germany, developed by [Starzel](https://www.starzel.de/), 2025)
 - [ResOU](https://resou.osaka-u.ac.jp/ja) (ResOU is introducing official researched releases by the University of Osaka, Japan. Developed by [CMScom](https://www.cmscom.jp), 2020)
 - [Stradanove](https://www.stradanove.it/) (Website of the Department of Youth Policies of the Municipality of Modena, developed by [RedTurtle](https://www.redturtle.it), 2020)
 - [Study guide at University of Jyväskylä](https://studyguide.jyu.fi/2020/en/) (Static website where [Volto is used as a headless CMS for authoring additional content](https://tech.blog.jyu.fi/2020/06/plone-volto-hasura-gatsbyjs-mashup/), 2020)
@@ -308,5 +308,5 @@ The following websites have been built with Volto. You can find their complete s
 - [Nicola Zambello](https://nzambello.dev)
 - [PretaGov AU/UK](https://www.pretagov.com.au)
 - [FrescoMedia](https://frescomedia.ro)
-- [Starzel](https://starzel.de)
+- [Starzel](https://www.starzel.de)
 - ... please add yourself here
