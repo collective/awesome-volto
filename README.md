@@ -8,14 +8,14 @@ For add-ons for the CMS Plone which is the backend of Volto please see the [awes
 
 - [Official websites](#official-websites)
 - [Community](#community)
-- [Addons](#addons)
+- [Add-ons](#add-ons)
   - [Bundles](#bundles)
   - [Rich text editing](#rich-text-editing)
-  - [Layout addons](#layout-addons)
+  - [Layout add-ons](#layout-add-ons)
   - [Widgets](#widgets)
   - [Themes](#themes)
   - [More](#more)
-  - [Plone backend add-ons for Volto](#plone-backend-addons-for-volto)
+  - [Plone backend add-ons for Volto](#plone-backend-add-ons-for-volto)
 - [Training, example code, tutorials](#training-example-code-tutorials)
   - [Awesome React articles, relevant to any Volto developer](#awesome-react-articles-relevant-to-any-volto-developer)
 - [Open-source websites built with Volto](#open-source-websites-built-with-volto)
@@ -34,11 +34,11 @@ For add-ons for the CMS Plone which is the backend of Volto please see the [awes
 - [#volto on Discord](https://discord.com/invite/EtdRAkHu8x )
 
 
-## Addons
+## Add-ons
 
-> :warning: While we try to list them all, some of these addons **might be a Work in Progress**, require special branches of Volto or dedicated Plone addons.
+> :warning: While we try to list them all, some of these add-ons **might be a Work in Progress**, require special branches of Volto or dedicated Plone add-ons.
 
-Various addons that can't fit in a specific category, in mostly random order:
+Various add-ons that can't fit in a specific category, in mostly random order:
 
 - [volto-site-settings](https://github.com/collective/volto-site-settings) - Makes available the site settings to any Volto block / component.
 - [volto-outdooractive](https://github.com/collective/volto-outdooractive) - Integration with OutdoorActive, an external service
@@ -46,12 +46,12 @@ Various addons that can't fit in a specific category, in mostly random order:
 - [volto-customer-satisfaction](https://github.com/collective/volto-customer-satisfaction) - Gather feedback from site users
 - [volto-tito-block](https://github.com/collective/volto-tito-block) - Volto block to integrate with Tito, a platform to sell tickets online
 - [volto-block-banner](https://github.com/collective/volto-block-banner) - Volto block for a customizable visual banner
-- [volto-cookie-banner](https://github.com/collective/volto-cookie-banner) - Volto cookie banner integration addon. To be used with: `collective.volto.cookieconsent`
-- [volto-dropdownmenu](https://github.com/collective/volto-dropdownmenu) - Volto addon for a customizable dropdown menu. Intended to be used with `collective.volto.dropdownmenu`
-- [volto-navigation-dropdown](https://github.com/kenmanheimer/volto-navigation-dropdown) - Volto addon for Plone website navigation dropdown menus.
-- [volto-menu-customization](https://github.com/codesyntax/volto-menu-customization) - Volto addon provides a customization of Volto's default menu that adds a dropdown menu to display subcontent.
+- [volto-cookie-banner](https://github.com/collective/volto-cookie-banner) - Volto cookie banner integration add-on. To be used with: `collective.volto.cookieconsent`
+- [volto-dropdownmenu](https://github.com/collective/volto-dropdownmenu) - Volto add-on for a customizable dropdown menu. Intended to be used with `collective.volto.dropdownmenu`
+- [volto-navigation-dropdown](https://github.com/kenmanheimer/volto-navigation-dropdown) - Volto add-on for Plone website navigation dropdown menus.
+- [volto-menu-customization](https://github.com/codesyntax/volto-menu-customization) - Volto add-on provides a customization of Volto's default menu that adds a dropdown menu to display subcontent.
 - [volto-geocoding](https://github.com/collective/volto-geocoding) - A widget for Volto to search addresses and save coordinates.
-- [volto-venue](https://github.com/collective/volto-venue) - An addon for Volto as a frontend for `collective.venue`
+- [volto-venue](https://github.com/collective/volto-venue) - An add-on for Volto as a frontend for `collective.venue`
 - [volto-google-analytics](https://github.com/collective/volto-google-analytics) - Google Analytics integration for Volto.
 - [volto-social-settings](https://github.com/collective/volto-social-settings) - Add-on for manage a list of social network links on Volto
 - [volto-controlpanel](https://github.com/eea/volto-controlpanel) - Enhance Version Overview information in Control Panel. Requires `eea.api.controlpanel` Plone backend add-on.
@@ -71,7 +71,7 @@ Various addons that can't fit in a specific category, in mostly random order:
 - [@plone-collective/volto-authomatic](https://github.com/collective/volto-authomatic) - Social (OpenID) login for Plone ( Using [pas.plugins.authomatic](https://github.com/collective/pas.plugins.authomatic))
 - [volto-leaflet-block](https://github.com/adeweb-be/volto-leaflet-block) - A Leaflet map for Volto block
 - [volto-fullcalendar-block](https://github.com/mbarde/volto-fullcalendar-block) - A block for adding a [FullCalendar](https://fullcalendar.io/) to display events from an ics/iCal file
-- [volto-subfooter](https://github.com/collective/volto-subfooter) Volto addon for a customizable subfooter
+- [volto-subfooter](https://github.com/collective/volto-subfooter) Volto add-on for a customizable subfooter
 - [volto-middleware-static](https://github.com/collective/volto-middleware-static) Volto configurable middleware to serve dynamic static resources
 - [volto-taxonomy](https://github.com/eea/volto-taxonomy) - Controlled Vocabulary management in Volto control panel
 - [volto-tableau](https://github.com/eea/volto-tableau) - Integration with Tableau
@@ -97,9 +97,9 @@ Various addons that can't fit in a specific category, in mostly random order:
 - [volto-educal-hero-block](https://github.com/collective/volto-educal-hero-block) - Volto block for a customizable visual hero
 - [volto-cookiebot](https://github.com/codesyntax/volto-cookiebot) - [CookieBot](https://www.cookiebot.com/) integration package for Volto. CookieBot is a comercial service to comply with the so-called "cookie-law", asking user content before loading any third-party cookie.
 - [volto-countdown-block](https://github.com/rnunez80/volto-countdown-block) - A Volto block to count down to any date specified, with optional display of hours, minutes and seconds.
-- [volto-advanced-variations](https://github.com/rnunez80/volto-advanced-variations) - Based on codesyntax/volto-listingadvanced-variation this addon adds events options including dates, times and location, displaying the listing or search as a carousel/slider or background image.
+- [volto-advanced-variations](https://github.com/rnunez80/volto-advanced-variations) - Based on codesyntax/volto-listingadvanced-variation this add-on adds events options including dates, times and location, displaying the listing or search as a carousel/slider or background image.
 - [volto-existing-block](https://github.com/rnunez80/volto-existing-block) - A Volto block that show content from another page based on the id selected.
-- [volto-modal-block](https://github.com/rnunez80/volto-modal-block) - A Volto addon block that has a button with image when clicked it open the text in an overlay.
+- [volto-modal-block](https://github.com/rnunez80/volto-modal-block) - A Volto add-on block that has a button with image when clicked it open the text in an overlay.
 - [@codesyntax/volto-maplibre-block](https://github.com/codesyntax/volto-maplibre-block) - A Volto block and component to render maps based on [maplibre-gl-js](https://maplibre.org/maplibre-gl-js/docs/)
 - [@codesyntax/volto-countup-block](https://github.com/codesyntax/volto-countup-block) - A Volto block to show a going-up counter
 - [volto-videohero-block](https://github.com/rnunez80/volto-videohero-block) - a hero section with a video background, and optional preheader, title, description, call-to-actions and more.
@@ -123,7 +123,7 @@ Enhance the basic text editing experience
 - [volto-slate-dataentity](https://github.com/eea/volto-slate-dataentity) - Connect text entities in the rich text editor to volto-datablocks connected data
 - [volto-workflow-progress](https://github.com/eea/volto-workflow-progress) - Shows workflow steps for content editors.
 
-### Layout addons
+### Layout add-ons
 
 Enhancements to the way blocks can be used, to create custom layouts
 
@@ -146,14 +146,14 @@ Enhancements to the way blocks can be used, to create custom layouts
 
 Input components, to be reused in the form library
 
-- [volto-vocabulary-icons-widget](https://github.com/collective/volto-vocabulary-icons-widget) - Widget to edit vocabularies where term key is associated with a Fontawesome icon. Volto addon for vocabularies with icons
+- [volto-vocabulary-icons-widget](https://github.com/collective/volto-vocabulary-icons-widget) - Widget to edit vocabularies where term key is associated with a Fontawesome icon. Volto add-on for vocabularies with icons
 - [volto-object-widget](https://github.com/eea/volto-object-widget) - Widget for generic JS objects
 - [volto-widget-geolocation](https://github.com/eea/volto-widget-geolocation) - Geolocation with [GeoNames](https://www.geonames.org/) integration.
 - [volto-widget-temporal-coverage](https://github.com/eea/volto-widget-temporal-coverage) - Volto widget: Temporal coverage.
 - [volto-widgets-view](https://github.com/eea/volto-widgets-view) - Provides the "view" counterpart for the "edit" widgets in Volto
-- [volto-multilingual-widget](https://github.com/collective/volto-multilingual-widget) - Enabled multi-language editing of data, used internally by the cookie consent addon
+- [volto-multilingual-widget](https://github.com/collective/volto-multilingual-widget) - Enabled multi-language editing of data, used internally by the cookie consent add-on
 - [volto-widget-toggle](https://github.com/eea/volto-widget-toggle/) - Replace checkbox widgets with a visually nicer toggle widget
-- [volto-blocks-widget](https://github.com/collective/volto-blocks-widget) - Volto addon to use blocks inside fields
+- [volto-blocks-widget](https://github.com/collective/volto-blocks-widget) - Volto add-on to use blocks inside fields
 - [volto-react-table-widget](https://github.com/eea/volto-react-table-widget) - Widget to replace Volto's ObjectListWidget to edit data-grid like widgets in a more performant way with a table based on [react-table](https://tanstack.com/table/v8/)
 - [volto-image-crop-widget](https://github.com/mbarde/volto-image-crop-widget) - Extends built-in FileWidget to be able to crop images in-place
 - [volto-data-grid-widget](https://github.com/collective/volto-data-grid-widget) - A field to edit lists of data in a data-grid like fashion. Please note that Volto ships already with a widget for "lists of data", the ObjectListWidget, which uses an accordion for the list.
@@ -184,7 +184,7 @@ Input components, to be reused in the form library
 
 ### More
 
-- See all [volto-addon](https://www.npmjs.com/search?q=keywords:volto-addon) tagged packages on NPM.
+- See all [volto-add-on](https://www.npmjs.com/search?q=keywords:volto-add-on) and [volto-addon](https://www.npmjs.com/search?q=keywords:volto-addon) tagged packages on NPM.
 
 ### Plone backend add-ons for Volto
 
@@ -199,7 +199,7 @@ Input components, to be reused in the form library
 - [eea.api.controlpanel](https://github.com/eea/eea.api.controlpanel) - Backend add-on to be used with `volto-controlpanel`
 - [eea.api.layout](https://github.com/eea/eea.api.layout) - DX fixed blocks layout behavior with auto-sync support
 - [eea.schema.slate](https://github.com/eea/eea.schema.slate) - DX TTW Slate JSONField to be used with DX Content-Types metadata and `volto-slate`
-- [volto-plone-reloader](https://github.com/instification/volto-plone-reloader) (volto addon) - Use [plone.reload](https://github.com/plone/plone.reload)'s `/@@reload` feature through a volto frontend
+- [volto-plone-reloader](https://github.com/instification/volto-plone-reloader) (volto add-on) - Use [plone.reload](https://github.com/plone/plone.reload)'s `/@@reload` feature through a volto frontend
 
 
 ## Training, example code, tutorials
@@ -210,7 +210,7 @@ Input components, to be reused in the form library
 - [Mastering Plone 6 Development](https://training.plone.org/mastering-plone/index.html) – Learn the best practices of Plone development for frontend and backend using Volto as well as Plone Classic.
 - [Volto Customization for JavaScript Beginners](https://training.plone.org/volto-customization/index.html) - Master Volto customization from the ground up.
 - [Effective Volto](https://2024.training.plone.org/effective-volto/index.html) - Learn advanced topics, good practices, and build upon your basic experience with Volto.
-- [Demo project for Volto addons](https://github.com/collective/volto-example-project-addons)
+- [Demo project for Volto add-ons](https://github.com/collective/volto-example-project-addons)
 
 
 ### Awesome React articles, relevant to any Volto developer
@@ -228,6 +228,10 @@ Input components, to be reused in the form library
 
 
 ## Websites built with Volto
+
+The Plone Marketing Team copy-pastes the content of this section on a quarterly basis into [They use Plone 6](https://plone.org/why-plone/they-use-plone/they-use-plone-6).
+
+To ensure your website gets the greatest exposure, add it both to Awesome Volto and the [Volto `README.md` under "Volto in production"](https://github.com/plone/volto/blob/main/README.md#volto-in-production).
 
 - [ASP Area Nord](https://www.aspareanord.it/) (Website of the Public company of personal services of the Modena municipalities in the north area. Developed by [RedTurtle](https://www.redturtle.it), 2021)
 - [Baccanale Imola](https://www.baccanaleimola.it) (Baccanale is a food fair that happens every year in Imola, Italy. Developed by [RedTurtle](https://www.redturtle.it), 2020)
@@ -280,14 +284,17 @@ Input components, to be reused in the form library
 
 The following websites have been built with Volto. You can find their complete source code by following their links. Please note that complex websites are built on top of Volto add-ons, and most of the time they're just an empty shell for the add-ons. You should check the dependencies in their `package.json` for more details.
 
+The Plone Marketing Team copy-pastes the content of this section on a quarterly basis into [They use Plone 6](https://plone.org/why-plone/they-use-plone/they-use-plone-6).
+
+To ensure your website gets the greatest exposure, add it both to Awesome Volto and the [Volto `README.md` under "Open-source websites built with Volto"](https://github.com/plone/volto/blob/main/README.md#open-source-websites-built-with-volto).
+
 - [Forest Information System for Europe](https://github.com/eea/fise-frontend) - Volto project for [Forest Information System for Europe website](https://forest.eea.europa.eu)
 - [Freshwater Information System for Europe](https://github.com/eea/freshwater-frontend) - Volto project for [Freshwater Information System for Europe website](https://water.europa.eu/freshwater)
 - [European Industrial Emissions Portal](https://github.com/eea/industry-frontend ) - Volto project for [European Industrial Emissions Portal website](https://industry.eea.europa.eu)
 - [Biodiversity Information System for Europe](https://github.com/eea/bise-frontend) - Volto project for [Biodiversity Information System for Europe website](https://biodiversity.europa.eu)
 - [EEA Main Website frontend](https://github.com/eea/eea-website-frontend) - Plone 6 Volto frontend for [European Environment Agency](https://www.eea.europa.eu/en)
-- [volto-bise](https://github.com/eea/volto-bise) - A Volto project packaged as an addon. It provides Theming using a razzle.extend.js provided alias.
+- [volto-bise](https://github.com/eea/volto-bise) - A Volto project packaged as an add-on. It provides Theming using a razzle.extend.js provided alias.
 - [design-volto-theme](https://github.com/RedTurtle/design-volto-theme) Volto theme for Italian Public Administration
-- [2021.ploneconf.org](https://github.com/plone/ploneconf.org/tree/2021) - Volto project for [Plone Conference 2021 site](https://2021.ploneconf.org)
 - [2022.ploneconf.org](https://github.com/plone/ploneconf.org/tree/2022) - Volto project for [Plone Conference 2022 site](https://2022.ploneconf.org)
 - [2023.ploneconf.org](https://github.com/plone/ploneconf.org/tree/2023) - Volto project for [Plone Conference 2023 site](https://2023.ploneconf.org)
 - [plone.org.br](https://github.com/plonegovbr/plone.org.br) - Volto project for the [Brazilian Plone Community](https://plone.org.br)
