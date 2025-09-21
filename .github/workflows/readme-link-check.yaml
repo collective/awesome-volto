@@ -15,13 +15,4 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           fail: true
-          args: >-
-            --format markdown
-            --files-from lychee.txt
-            --archive wayback
-            --suggest true
-            --timeout 3
-            --max-retries 1
-            --exclude https://www.npmjs.com/search*
-            --exclude https://www.npmjs.com/package/@plone/*
-            --cookie-jar cookie_jar
+          args: "--format markdown --files-from lychee.txt --archive wayback --suggest true --timeout 3 --max-retries 1 --exclude https://www.npmjs.com/search* --exclude https://www.npmjs.com/package/@plone/* --cookie-jar cookie_jar"
