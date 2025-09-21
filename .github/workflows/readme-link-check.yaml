@@ -17,4 +17,9 @@ jobs:
           fail: true
           format: markdown
           jobSummary: true
-          args: --timeout 3 --max-retries 1 --cookie-jar cookie_jar '**/README.md'
+          args: >-
+            --timeout 3
+            --max-retries 1
+            --exclude https://www.npmjs.com/search*
+            --exclude https://www.npmjs.com/package/@plone/*
+            '**/README.md'
