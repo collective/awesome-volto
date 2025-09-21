@@ -19,5 +19,5 @@ jobs:
           ./README.md
           --version
           --markup-types md
-          --ignore-links "https://www.npmjs.com/search*","https://www.npmjs.com/package/@plone/*"
+          --ignore-links "https://www.npmjs.com/search*"
           # --throttle 15
