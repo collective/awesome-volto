@@ -8,6 +8,8 @@ on:
 jobs:
   check-links:
     name: runner / linkspector
+    permissions:
+      pull-requests: write # required for posting review comments
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -17,3 +19,4 @@ jobs:
           reporter: github-pr-review
           filter_mode: nofilter
           fail_level: any
+          show_stats: true
