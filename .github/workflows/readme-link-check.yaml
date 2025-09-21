@@ -18,3 +18,10 @@ jobs:
           format: markdown
           jobSummary: true
           files-from: lychee.txt
+          archive: wayback
+          suggest: true
+          timeout: 3
+          max-retries: 1
+          exclude: https://www.npmjs.com/search* https://www.npmjs.com/package/@plone/*
+          mode: emoji
+          cookie-jar: cookie_jar
