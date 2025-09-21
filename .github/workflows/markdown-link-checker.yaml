@@ -15,4 +15,4 @@ jobs:
       uses: becheran/mlc@v1
       with:
         # https://github.com/marketplace/actions/markup-link-checker-mlc#usage
-        args: ./README.md --version --markup-types md --ignore-links "https://www.npmjs.com/search*","https://www.npmjs.com/package/@plone/*" # --throttle 15
+        args: --ignore-links "https://www.npmjs.com/search*,https://www.npmjs.com/package/@plone/*" ./README.md # --throttle 15
