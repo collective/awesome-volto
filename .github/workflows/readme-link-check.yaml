@@ -17,7 +17,6 @@ jobs:
           fail: true
           args: >-
             --format markdown
-            --jobSummary true
             --files-from lychee.txt
             --archive wayback
             --suggest true
