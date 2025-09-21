@@ -1,0 +1,31 @@
+# https://github.com/lycheeverse/lychee-action
+# This action runs on every pull request and daily at 0800 UTC.
+# It also creates an issue when it finds a bad link.
+name: Check README.md links
+
+on:
+  pull_request:
+  schedule:
+    - cron: "00 08 * * *"
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write # required for peter-evans/create-issue-from-file
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Link Checker
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          fail: false
+
+      - name: Create Issue From File
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: Link Checker Report
+          content-filepath: ./lychee/out.md
+          labels: report, automated issue
