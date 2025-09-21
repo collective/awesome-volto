@@ -231,7 +231,7 @@ Input components, to be reused in the form library
 
 The Plone Marketing Team copy-pastes the content of this section on a quarterly basis into [They use Plone 6](https://plone.org/why-plone/they-use-plone/they-use-plone-6).
 
-To ensure your website gets the greatest exposure, add it both to Awesome Volto and the [Volto `README.md` under "Volto in production"](https://github.com/plone/volto/blob/main/README.md#volto-in-production).
+To ensure your website gets the greatest exposure, add it both to Awesome Volto and the [Volto `README.md` under "Volto in production"](https://github.com/plone/volto/tree/main?tab=readme-ov-file#volto-in-production).
 
 - [ASP Area Nord](https://www.aspareanord.it/) (Website of the Public company of personal services of the Modena municipalities in the north area. Developed by [RedTurtle](https://www.redturtle.it), 2021)
 - [Baccanale Imola](https://www.baccanaleimola.it) (Baccanale is a food fair that happens every year in Imola, Italy. Developed by [RedTurtle](https://www.redturtle.it), 2020)
