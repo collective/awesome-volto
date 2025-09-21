@@ -15,8 +15,6 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           fail: true
-          format: markdown
-          jobSummary: true
           args: >-
             --timeout 3
             --max-retries 1
