@@ -85,7 +85,7 @@ Various add-ons that can't fit in a specific category, in mostly random order:
 - [volto-separator-block](https://github.com/kitconcept/volto-separator-block) - A divider visual indicator type of block
 - [volto-slider-block](https://github.com/kitconcept/volto-slider-block) - A slider with react-slick
 - [volto-blocks](https://github.com/kitconcept/volto-blocks) - Miscellaneous blocks
-- [volto-dsgvo-banner](kitconcept/volto-dsgvo-banner) - A privacy protection / GDPR banner (mandatory in Europe)
+- [volto-dsgvo-banner](https://github.com/kitconcept/volto-dsgvo-banner) - A privacy protection / GDPR banner (mandatory in Europe)
 - [volto-button-block](https://github.com/kitconcept/volto-button-block) - A button (call to action) block
 - [volto-heading-block](https://github.com/kitconcept/volto-heading-block) - A heading block. Can select the heading level
 - [volto-text-with-background-color-block](https://github.com/kitconcept/volto-text-with-background-color-block) A Volto Text With Background Color Block allows editors to add text with a background color to a Volto page
@@ -231,7 +231,7 @@ Input components, to be reused in the form library
 
 The Plone Marketing Team copy-pastes the content of this section on a quarterly basis into [They use Plone 6](https://plone.org/why-plone/they-use-plone/they-use-plone-6).
 
-To ensure your website gets the greatest exposure, add it both to Awesome Volto and the [Volto `README.md` under "Volto in production"](https://github.com/plone/volto/blob/main/README.md#volto-in-production).
+To ensure your website gets the greatest exposure, add it both to Awesome Volto and the [Volto `README.md` under "Volto in production"](https://github.com/plone/volto/tree/main?tab=readme-ov-file#volto-in-production).
 
 - [ASP Area Nord](https://www.aspareanord.it/) (Website of the Public company of personal services of the Modena municipalities in the north area. Developed by [RedTurtle](https://www.redturtle.it), 2021)
 - [Baccanale Imola](https://www.baccanaleimola.it) (Baccanale is a food fair that happens every year in Imola, Italy. Developed by [RedTurtle](https://www.redturtle.it), 2020)
