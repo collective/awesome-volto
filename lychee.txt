@@ -1,0 +1,5 @@
+# List of files that Lychee checks for links.
+# https://github.com/lycheeverse/lychee?tab=readme-ov-file#commandline-parameters
+README.md
+.github/workflows/readme-link-check.yaml
+packages/**/README.md
