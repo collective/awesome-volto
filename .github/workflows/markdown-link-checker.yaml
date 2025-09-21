@@ -14,4 +14,10 @@ jobs:
     - name: Markup Link Checker (mlc)
       uses: becheran/mlc@v1
       with:
-        args: ./README.md
+        # https://github.com/marketplace/actions/markup-link-checker-mlc#usage
+        args:
+          ./README.md
+          --version
+          --markup-types md
+          --ignore-links "https://www.npmjs.com/search*","https://www.npmjs.com/package/@plone/*"
+          # --throttle 15
