@@ -17,5 +17,5 @@ jobs:
           fail: true
           format: markdown
           jobSummary: true
-          args: --archive wayback --suggest --timeout 3 --max-retries 1 --exclude https://www.npmjs.com/search* --exclude https://www.npmjs.com/package/@plone/* --cookie-jar cookie_jar
+          args: --archive wayback --timeout 3 --max-retries 1 --exclude https://www.npmjs.com/search* --exclude https://www.npmjs.com/package/@plone/* --cookie-jar cookie_jar
     
