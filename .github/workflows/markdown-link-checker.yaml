@@ -1,7 +1,6 @@
 name: Check README.md links
 
 on:
-  push:
   pull_request:
 
 jobs:
