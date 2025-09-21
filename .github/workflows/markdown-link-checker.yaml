@@ -18,5 +18,4 @@ jobs:
         args: >-
           --ignore-links "https://www.npmjs.com/search*,https://www.npmjs.com/package/@plone/*"
           --markup-types "md"
-          --ignore-path "src/*"
           .
