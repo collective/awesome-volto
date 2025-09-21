@@ -20,4 +20,3 @@ jobs:
           --markup-types "md"
           --ignore-path "src/*"
           .
-          # --throttle 15
