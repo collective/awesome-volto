@@ -57,6 +57,7 @@ Various add-ons that can't fit in a specific category, in mostly random order:
 - [volto-controlpanel](https://github.com/eea/volto-controlpanel) - Enhance Version Overview information in Control Panel. Requires `eea.api.controlpanel` Plone backend add-on.
 - [volto-embed](https://github.com/eea/volto-embed) - GDPR compliant external resource embedding Volto Block
 - [volto-plotlycharts](https://github.com/eea/volto-plotlycharts) - (EEA) Powerful chart editor based on Plotly
+- [volto-flourish](https://github.com/eea/volto-flourish) - (EEA) Embed Flourish visualizations.
 - [volto-block-data-figure](https://github.com/eea/volto-block-data-figure) - (EEA) Volto add-on for Daviz specific SVG charts.
 - [volto-datablocks](https://github.com/eea/volto-datablocks) - (EEA) Provides primitives for data connectivity to volto-plotlycharts and other blocks
 - [volto-corsproxy](https://github.com/eea/volto-corsproxy) - A CORS-proxy integrated with Volto, enables access to third-party API servers.
