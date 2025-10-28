@@ -1,0 +1,23 @@
+# https://github.com/lycheeverse/lychee-action
+name: Check README.md links
+
+on:
+  pull_request:
+
+jobs:
+  readme-link-checker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Link Checker
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          fail: true
+          args: >-
+            --timeout 5
+            --max-retries 2
+            --exclude https://www.npmjs.com/search*
+            --exclude https://www.npmjs.com/package/@plone/*
+            '**/README.md'
