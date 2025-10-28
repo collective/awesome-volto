@@ -73,7 +73,7 @@ Various add-ons that can't fit in a specific category, in mostly random order:
 - [volto-leaflet-block](https://github.com/adeweb-be/volto-leaflet-block) - A Leaflet map for Volto block
 - [volto-fullcalendar-block](https://github.com/mbarde/volto-fullcalendar-block) - A block for adding a [FullCalendar](https://fullcalendar.io/) to display events from an ics/iCal file
 - [volto-subfooter](https://github.com/collective/volto-subfooter) Volto add-on for a customizable subfooter
-- [volto-footer](https://github.com/collective/volto-footer) - Volto add-on for a customizable block-based footer. Allows adding any type of block to create rich, dynamic footer content, with automatic inheritance from the closest footer configuration. Requires `collective.volto.footer` backend add-on.
+- [volto-footer](https://github.com/collective/volto-footer) - Volto add-on for a customizable block-based footer. Allows adding any type of block to create rich, dynamic footer content, with automatic inheritance from the closest footer configuration. Requires [collective.volto.footer](https://github.com/collective/collective.volto.footer) backend add-on.
 - [volto-middleware-static](https://github.com/collective/volto-middleware-static) Volto configurable middleware to serve dynamic static resources
 - [volto-taxonomy](https://github.com/eea/volto-taxonomy) - Controlled Vocabulary management in Volto control panel
 - [volto-tableau](https://github.com/eea/volto-tableau) - Integration with Tableau
