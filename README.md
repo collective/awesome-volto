@@ -72,6 +72,7 @@ Various addons that can't fit in a specific category, in mostly random order:
 - [volto-leaflet-block](https://github.com/adeweb-be/volto-leaflet-block) - A Leaflet map for Volto block
 - [volto-fullcalendar-block](https://github.com/mbarde/volto-fullcalendar-block) - A block for adding a [FullCalendar](https://fullcalendar.io/) to display events from an ics/iCal file
 - [volto-subfooter](https://github.com/collective/volto-subfooter) Volto addon for a customizable subfooter
+- [volto-footer](https://github.com/collective/volto-footer) - Volto addon for a customizable block-based footer. Allows adding any type of block to create rich, dynamic footer content, with automatic inheritance from the closest footer configuration. Requires `collective.volto.footer` backend add-on.
 - [volto-middleware-static](https://github.com/collective/volto-middleware-static) Volto configurable middleware to serve dynamic static resources
 - [volto-taxonomy](https://github.com/eea/volto-taxonomy) - Controlled Vocabulary management in Volto control panel
 - [volto-tableau](https://github.com/eea/volto-tableau) - Integration with Tableau
@@ -189,6 +190,7 @@ Input components, to be reused in the form library
 
 - [plone.volto](https://github.com/plone/plone.volto) - Official Volto integration package for Plone.
 - [collective.volto.dropdownmenu](https://github.com/collective/collective.volto.dropdownmenu) - Add-on for manage a `Dropdown Menu` in Volto.
+- [collective.volto.footer](https://github.com/collective/collective.volto.footer) - Backend add-on for `volto-footer` to manage a customizable footer in Volto.
 - [collective.volto.subsites](https://github.com/collective/collective.volto.subsites) - This add-on enable a new Subsite content-type and provides some utilities for Volto.
 - [collective.volto.formsupport](https://github.com/collective/collective.volto.formsupport) - Add some helper routes and functionalities for Volto sites with form blocks provided by `volto-form-block` Volto plugin.
 - [collective.bookmarks](https://github.com/collective/collective.bookmarks) -Bookmarks (aka favorites, wishlists). The Plone pendent is `volto-bookmarks`
