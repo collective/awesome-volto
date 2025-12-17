@@ -181,7 +181,6 @@ Input components, to be reused in the form library
 - [volto-light-theme](https://github.com/kitconcept/volto-light-theme) - Plone 6 Volto Light Theme (by kitconcept)
 - [volto-mountain-theme](https://github.com/Fosten/volto-mountain-theme) - Plone 6 Volto Theme for "Mountain"
 - [volto-itxbb-theme](https://github.com/Fosten/volto-itxbb-theme) - Plone 6 Volto Theme for "In The Stix Broadband"
-- [zeeuwsmuseum-jaarverslag](https://github.com/cihanandac/zeeuwsmuseum-jaarverslag) - Plone 6 Volto Theme for "ANNUAL REPORTS" of Centraal Museum & Rietveld.
 
 
 ### More
