@@ -57,6 +57,7 @@ Various add-ons that can't fit in a specific category, in mostly random order:
 - [volto-controlpanel](https://github.com/eea/volto-controlpanel) - Enhance Version Overview information in Control Panel. Requires `eea.api.controlpanel` Plone backend add-on.
 - [volto-embed](https://github.com/eea/volto-embed) - GDPR compliant external resource embedding Volto Block
 - [volto-plotlycharts](https://github.com/eea/volto-plotlycharts) - (EEA) Powerful chart editor based on Plotly
+- [volto-flourish](https://github.com/eea/volto-flourish) - (EEA) Embed Flourish visualizations.
 - [volto-block-data-figure](https://github.com/eea/volto-block-data-figure) - (EEA) Volto add-on for Daviz specific SVG charts.
 - [volto-datablocks](https://github.com/eea/volto-datablocks) - (EEA) Provides primitives for data connectivity to volto-plotlycharts and other blocks
 - [volto-corsproxy](https://github.com/eea/volto-corsproxy) - A CORS-proxy integrated with Volto, enables access to third-party API servers.
@@ -72,6 +73,7 @@ Various add-ons that can't fit in a specific category, in mostly random order:
 - [volto-leaflet-block](https://github.com/adeweb-be/volto-leaflet-block) - A Leaflet map for Volto block
 - [volto-fullcalendar-block](https://github.com/mbarde/volto-fullcalendar-block) - A block for adding a [FullCalendar](https://fullcalendar.io/) to display events from an ics/iCal file
 - [volto-subfooter](https://github.com/collective/volto-subfooter) Volto add-on for a customizable subfooter
+- [volto-footer](https://github.com/collective/volto-footer) - Volto add-on for a customizable block-based footer. Allows adding any type of block to create rich, dynamic footer content, with automatic inheritance from the closest footer configuration. Requires [collective.volto.footer](https://github.com/collective/collective.volto.footer) backend add-on.
 - [volto-middleware-static](https://github.com/collective/volto-middleware-static) Volto configurable middleware to serve dynamic static resources
 - [volto-taxonomy](https://github.com/eea/volto-taxonomy) - Controlled Vocabulary management in Volto control panel
 - [volto-tableau](https://github.com/eea/volto-tableau) - Integration with Tableau
@@ -85,7 +87,7 @@ Various add-ons that can't fit in a specific category, in mostly random order:
 - [volto-separator-block](https://github.com/kitconcept/volto-separator-block) - A divider visual indicator type of block
 - [volto-slider-block](https://github.com/kitconcept/volto-slider-block) - A slider with react-slick
 - [volto-blocks](https://github.com/kitconcept/volto-blocks) - Miscellaneous blocks
-- [volto-dsgvo-banner](kitconcept/volto-dsgvo-banner) - A privacy protection / GDPR banner (mandatory in Europe)
+- [volto-dsgvo-banner](https://github.com/kitconcept/volto-dsgvo-banner) - A privacy protection / GDPR banner (mandatory in Europe)
 - [volto-button-block](https://github.com/kitconcept/volto-button-block) - A button (call to action) block
 - [volto-heading-block](https://github.com/kitconcept/volto-heading-block) - A heading block. Can select the heading level
 - [volto-text-with-background-color-block](https://github.com/kitconcept/volto-text-with-background-color-block) A Volto Text With Background Color Block allows editors to add text with a background color to a Volto page
@@ -190,6 +192,7 @@ Input components, to be reused in the form library
 
 - [plone.volto](https://github.com/plone/plone.volto) - Official Volto integration package for Plone.
 - [collective.volto.dropdownmenu](https://github.com/collective/collective.volto.dropdownmenu) - Add-on for manage a `Dropdown Menu` in Volto.
+- [collective.volto.footer](https://github.com/collective/collective.volto.footer) - Backend add-on for `volto-footer` to manage a customizable footer in Volto.
 - [collective.volto.subsites](https://github.com/collective/collective.volto.subsites) - This add-on enable a new Subsite content-type and provides some utilities for Volto.
 - [collective.volto.formsupport](https://github.com/collective/collective.volto.formsupport) - Add some helper routes and functionalities for Volto sites with form blocks provided by `volto-form-block` Volto plugin.
 - [collective.bookmarks](https://github.com/collective/collective.bookmarks) -Bookmarks (aka favorites, wishlists). The Plone pendent is `volto-bookmarks`
@@ -231,7 +234,7 @@ Input components, to be reused in the form library
 
 The Plone Marketing Team copy-pastes the content of this section on a quarterly basis into [They use Plone 6](https://plone.org/why-plone/they-use-plone/they-use-plone-6).
 
-To ensure your website gets the greatest exposure, add it both to Awesome Volto and the [Volto `README.md` under "Volto in production"](https://github.com/plone/volto/blob/main/README.md#volto-in-production).
+To ensure your website gets the greatest exposure, add it both to Awesome Volto and the [Volto `README.md` under "Volto in production"](https://github.com/plone/volto/tree/main?tab=readme-ov-file#volto-in-production).
 
 - [ASP Area Nord](https://www.aspareanord.it/) (Website of the Public company of personal services of the Modena municipalities in the north area. Developed by [RedTurtle](https://www.redturtle.it), 2021)
 - [Baccanale Imola](https://www.baccanaleimola.it) (Baccanale is a food fair that happens every year in Imola, Italy. Developed by [RedTurtle](https://www.redturtle.it), 2020)
@@ -247,6 +250,8 @@ To ensure your website gets the greatest exposure, add it both to Awesome Volto 
 - [Comune di San Possidonio](https://www.comune.sanpossidonio.mo.it/) (Website of the Municipality of San Possidonio. Developed by [RedTurtle](https://www.redturtle.it), 2021)
 - [Comune di Vaiano](https://www.comune.vaiano.po.it/) (Website of the Municipality of Vaiano. Developed by [RedTurtle](https://www.redturtle.it), 2021)
 - [Comune di Vernio](https://www.comune.vernio.po.it/) (Website of the Municipality of Vernio. Developed by [RedTurtle](https://www.redturtle.it), 2021)
+- [Copernicus In-Situ](https://insitu.copernicus.eu) (Copernicus In-Situ compiles and provides high-quality ground, sea and airborne observation and geospatial reference data to support the Copernicus services. Developed by [Eau de web](https://eaudeweb.ro) for the European Environmental Agency, 2025)
+- [Copernicus Land Monitoring Service](https://land.copernicus.eu/en) (The Copernicus Land Monitoring Service (CLMS) delivers high-quality geospatial information on land cover, land use changes, vegetation state, the water cycle and Earth's surface energy variables. Developed by [CodeSyntax](https://www.codesyntax.com/en) and [Eau de web](https://eaudeweb.ro) for the European Environmental Agency, 2023)
 - [Debabarreneko mankomunitatea](https://debabarrena.eus/eu) (Website of the Commonwealth of Debabarrena, community of municipalities to centralize waste handling services, developed by [CodeSyntax](https://www.codesyntax.com/en), 2022)
 - [Debako Udala / Ayuntamiento de Deba](https://www.deba.eus/eu) (Website of the municipality of Deba, developed by [CodeSyntax](https://www.codesyntax.com/en), 2022)
 - [European Environment Agency](https://www.eea.europa.eu/en) (Website of the European Environment Agency. Developed by [Eau de Web](https://eaudeweb.ro), 2023)
@@ -260,6 +265,7 @@ To ensure your website gets the greatest exposure, add it both to Awesome Volto 
 - [Humboldt Labor](https://www.humboldtforum.org/de/programm/dauerangebot/ausstellung/nach-der-natur-14144/) (The Humboldt Lab is a website where the Humboldt University Berlin presents its latest research projects and findings. Developed by [WLDX](https://wldx.de/) and [kitconcept GmbH](https://kitconcept.com/en), 2020)
 - [ILPO](https://ilpo.jyu.fi/) (the registration portal of continuous learning at the University of Jyväskylä. Developed by University of Jyväskylä, 2022)
 - [Industrial Emissions portal for Europe](https://industry.eea.europa.eu) (Thematic website focusing on European industrial emissions, developed by [Eau de Web](https://eaudeweb.ro/), 2020)
+- [Interpretare.ro](https://www.interpretare.ro) (Romanian medical imaging interpretation service allowing patients to submit MRI, CT, and other diagnostic imaging for professional evaluation by medical specialists, 2022)
 - [iTlent - Basque Institute of Talent in VET](https://www.itlent.eus/en) (developed by [CodeSyntax](https://www.codesyntax.com/en), 2024)
 - [Jobfamilie MEDICE](https://jobfamilie.medice.de/de) (Carrer website for MEDICE Arzneimittel Pütter GmbH & Co. KG), developed by [Werkbank GmbH](https://werkbank.de/), 2020)
 - [Lanku](https://www.lanku.eus) (Website for Lanku Kultur Zerbitzuak, a company offering cultural services and improvised Basque verse singing sessions across the Basque Country, developed by [CodeSyntax](https://www.codesyntax.com/en), 2023)
@@ -270,14 +276,15 @@ To ensure your website gets the greatest exposure, add it both to Awesome Volto 
 - [ResOU](https://resou.osaka-u.ac.jp/ja) (ResOU is introducing official researched releases by the University of Osaka, Japan.
 - [Stradanove](https://www.stradanove.it/) (Website of the Department of Youth Policies of the Municipality of Modena, developed by [RedTurtle](https://www.redturtle.it), 2020)
 - [Study guide at University of Jyväskylä](https://studyguide.jyu.fi/2020/en/) (Static website where [Volto is used as a headless CMS for authoring additional content](https://tech.blog.jyu.fi/2020/06/plone-volto-hasura-gatsbyjs-mashup/), 2020)
+- [Study in Denmark](https://studyindenmark.dk) (Study in Denmark is a Plone 6 website promoting higher education opportunities in Denmark. Developed by [Eau de web](https://eaudeweb.ro) for the Danish Ministry of Higher Education and Science, 2025)
 - [Talke Carrer Website](https://karriere.talke.com/) (Carrer website for [Talke](https://www.talke.com), one of the leading a chemical and petrochemical logistics companies in Germany, developed by [kitconcept GmbH](https://kitconcept.com/en), 2020)
 - [UEU](https://www.ueu.eus) (Website for Udako Euskal Unibertsitatea, a non-profit University offering all its service only in Basque: courses, publications, ... developed by [CodeSyntax](https://www.codesyntax.com/en), 2023)
 - [Unione dei Comuni della Val Bisenzio](https://www.bisenzio.it/) (Website of the Municipality union of Val Bisenzio. Developed by [RedTurtle](https://www.redturtle.it), 2021)
 - [VHS Ehrenamtsportal](https://vhs-ehrenamtsportal.de) (Website to help volunteers that help refugees for the [German Adult Education Association](https://www.volkshochschule.de/), developed by [kitconcept GmbH](https://kitconcept.com/en), 2018)
 - [VisitModena](https://www.visitmodena.it/it) (Tourist website of the Municipality of Modena, developed by [RedTurtle](https://www.redturtle.it), 2020)
 - [WISE-Freshwater](https://water.europa.eu/freshwater) (WISE-Freshwater, the Freshwater Information System for Europe. Developed by [Eau de web](https://eaudeweb.ro) for the European Environmental Agency, 2021)
+- [WISE-Marine](https://water.europa.eu/marine) (WISE-Marine, the Marine Information System for Europe. Developed by [Eau de web](https://eaudeweb.ro) for the European Environmental Agency, 2023)
 - [Zeelandia](https://www.zeelandia.de/) (Corporate website for one of the leading bakery ingredients manufacturers in Germany, developed by [kitconcept GmbH](https://kitconcept.com/en), 2019)
-
 
 ### Open-source websites built with Volto
 
@@ -287,21 +294,22 @@ The Plone Marketing Team copy-pastes the content of this section on a quarterly 
 
 To ensure your website gets the greatest exposure, add it both to Awesome Volto and the [Volto `README.md` under "Open-source websites built with Volto"](https://github.com/plone/volto/blob/main/README.md#open-source-websites-built-with-volto).
 
-- [Forest Information System for Europe](https://github.com/eea/fise-frontend) - Volto project for [Forest Information System for Europe website](https://forest.eea.europa.eu)
-- [Freshwater Information System for Europe](https://github.com/eea/freshwater-frontend) - Volto project for [Freshwater Information System for Europe website](https://water.europa.eu/freshwater)
-- [European Industrial Emissions Portal](https://github.com/eea/industry-frontend ) - Volto project for [European Industrial Emissions Portal website](https://industry.eea.europa.eu)
-- [Biodiversity Information System for Europe](https://github.com/eea/bise-frontend) - Volto project for [Biodiversity Information System for Europe website](https://biodiversity.europa.eu)
-- [EEA Main Website frontend](https://github.com/eea/eea-website-frontend) - Plone 6 Volto frontend for [European Environment Agency](https://www.eea.europa.eu/en)
-- [volto-bise](https://github.com/eea/volto-bise) - A Volto project packaged as an add-on. It provides Theming using a razzle.extend.js provided alias.
-- [design-volto-theme](https://github.com/RedTurtle/design-volto-theme) Volto theme for Italian Public Administration
 - [2022.ploneconf.org](https://github.com/plone/ploneconf.org/tree/2022) - Volto project for [Plone Conference 2022 site](https://2022.ploneconf.org)
 - [2023.ploneconf.org](https://github.com/plone/ploneconf.org/tree/2023) - Volto project for [Plone Conference 2023 site](https://2023.ploneconf.org)
-- [plone.org.br](https://github.com/plonegovbr/plone.org.br) - Volto project for the [Brazilian Plone Community](https://plone.org.br)
+- [2024.ploneconf.org](https://github.com/plone/2024.ploneconf.org) - Volto project for [Plone Conference 2024 site](https://2024.ploneconf.org/en)
+- [2025.ploneconf.org](https://github.com/plone/2025.ploneconf.org) - Volto project for [Plone Conference 2025 site](https://2025.ploneconf.org)
+- [Biodiversity Information System for Europe](https://github.com/eea/bise-frontend) - Volto project for [Biodiversity Information System for Europe website](https://biodiversity.europa.eu)
+- [design-volto-theme](https://github.com/RedTurtle/design-volto-theme) Volto theme for Italian Public Administration
+- [EEA Main Website frontend](https://github.com/eea/eea-website-frontend) - Plone 6 Volto frontend for [European Environment Agency](https://www.eea.europa.eu/en)
+- [European Industrial Emissions Portal](https://github.com/eea/industry-frontend ) - Volto project for [European Industrial Emissions Portal website](https://industry.eea.europa.eu)
+- [Forest Information System for Europe](https://github.com/eea/fise-frontend) - Volto project for [Forest Information System for Europe website](https://forest.eea.europa.eu)
+- [Freshwater Information System for Europe](https://github.com/eea/freshwater-frontend) - Volto project for [Freshwater Information System for Europe website](https://water.europa.eu/freshwater)
 - [nsw-design-system-plone6-kit](https://github.com/pretagov/nsw-design-system-plone6-kit) - NSW Design System Plone 6 Kit Volto project for [NSW.gov.au sites](https://digitalnsw.pretagov.com.au/)
+- [plone.org.br](https://github.com/plonegovbr/plone.org.br) - Volto project for the [Brazilian Plone Community](https://plone.org.br)
+- [volto-bise](https://github.com/eea/volto-bise) - A Volto project packaged as an add-on. It provides Theming using a razzle.extend.js provided alias.
 - [volto-eea-design-system](https://github.com/eea/volto-eea-design-system) - EEA Design System Plone 6 Kit Volto project for [European Environment Agency web sites](https://eea.github.io/volto-eea-design-system/)
 - [volto-eea-kitkat](https://github.com/eea/volto-eea-kitkat) - A known good set of Volto add-ons to be used within all EEA projects and beyond, made for [European Environment Agency](https://www.eea.europa.eu/en)
 - [volto-zeeuwsmuseum-theme](https://github.com/intk/volto-zeeuwsmuseum-theme) - Volto project for the [Zeeuws Museum](https://www.zeeuwsmuseum.nl/en) made for [INTK](https://www.intk.com/en).
-
 
 ## Companies
 
