@@ -18,6 +18,7 @@ jobs:
           args: >-
             --timeout 5
             --max-retries 2
+            --exclude https://medium.com/
             --exclude https://www.npmjs.com/search*
             --exclude https://www.npmjs.com/package/@plone/*
             '**/README.md'
