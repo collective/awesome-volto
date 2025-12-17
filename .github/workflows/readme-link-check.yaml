@@ -17,6 +17,7 @@ jobs:
           fail: true
           args: >-
             --timeout 5
+            --header Accept:text/html
             --max-retries 2
             --exclude https://www.npmjs.com/search*
             --exclude https://www.npmjs.com/package/@plone/*
