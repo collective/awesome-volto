@@ -40,7 +40,7 @@ For add-ons for the CMS Plone which is the backend of Volto please see the [awes
 
 Various add-ons that can't fit in a specific category, in mostly random order:
 
-- [volto-speakerdeck](https://github.com/collective/volto-speakerdeck) - Volto add-on to embed SpeakerDeck presentations in Plone
+- [volto-speakerdeck](https://github.com/collective/volto-speakerdeck) - Volto add-on to embed SpeakerDeck presentations in Plone.
 - [volto-site-settings](https://github.com/collective/volto-site-settings) - Makes available the site settings to any Volto block / component.
 - [volto-outdooractive](https://github.com/collective/volto-outdooractive) - Integration with OutdoorActive, an external service
 - [volto-middleware-helmet](https://github.com/collective/volto-middleware-helmet) - Middleware to add security to Volto's HTTP headers
