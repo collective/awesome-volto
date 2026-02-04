@@ -163,6 +163,7 @@ Input components, to be reused in the form library
 - [volto-icon-selector-widget](https://github.com/affinitic/volto-icon-selector-widget) - A widget to search and select an icon from a list, by default it use awesome font icon implementation in semantic ui, but it can be customized.
 - [volto-widget-theme-picker](https://github.com/eea/volto-widget-theme-picker) - A theme color picker for themes in Volto blocks
 - [volto-doublerange-facet](https://github.com/eea/volto-doublerange-facet) - Adds a double range facet filter to the Volto Search block
+- [@plone-collective/volto-image-editor](https://github.com/collective/volto-image-editor) - An image editor based on React Advanced Image Cropper, with support for cropping, rotation, flip, and image adjustments (saturation, brightness, contrast, hue)
 
 ### Themes
 
