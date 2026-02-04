@@ -3,7 +3,6 @@
 A curated list of things that make Volto awesome. Please feel free to contribute directly or send a PR!
 For add-ons for the CMS Plone which is the backend of Volto please see the [awesome-plone list](https://github.com/collective/awesome-plone)
 
-
 ## Contents<!-- omit in toc -->
 
 - [Official websites](#official-websites)
@@ -21,18 +20,15 @@ For add-ons for the CMS Plone which is the backend of Volto please see the [awes
 - [Open-source websites built with Volto](#open-source-websites-built-with-volto)
 - [Companies](#companies)
 
-
 ## Official websites
 
 - [github.com/plone/volto](https://github.com/plone/volto)
 - [Plone 6 - Frontend documentation](https://6.docs.plone.org/volto/)
 - [plone.org](https://plone.org)
 
-
 ## Community
 
-- [#volto on Discord](https://discord.com/invite/EtdRAkHu8x )
-
+- [#volto on Discord](https://discord.com/invite/EtdRAkHu8x)
 
 ## Add-ons
 
@@ -109,8 +105,6 @@ Various add-ons that can't fit in a specific category, in mostly random order:
 - [volto-chatbot](https://github.com/eea/volto-chatbot) - Volto Chatbot allows the integration of an AI-powered chatbot into your Volto project with [Onyx (formerly Danswer)](https://github.com/onyx-dot-app/onyx) AI Assistant connected to your company's docs, apps, and people.
 - [volto-page-displayer](https://github.com/Kreablo/volto-page-displayer) - A Volto block used for displaying other Volto pages. Features loop detection and a Listing variation.
 
-
-
 ### Bundles
 
 - [volto-eea-kitkat](https://github.com/eea/volto-eea-kitkat) - A "known good set" of Volto add-ons, mostly specific to EEA websites.
@@ -143,7 +137,7 @@ Enhancements to the way blocks can be used, to create custom layouts
 - [volto-block-style](https://github.com/eea/volto-block-style) - A generic framework to configure block decorations and CSS styles
 - [volto-anchors](https://github.com/eea/volto-anchors) - Slug based anchor links for volto blocks
 - [volto-statistic-block](https://github.com/eea/volto-statistic-block) - A Statistic Text for Volto blocks
-- [volto-featured-block](https://github.com/codesyntax/volto-featured-block): Volto block to create pages with arbitrary content based on a simple schema (title + text + image), with variation support, and  not based on existing content of the site (in contraposition to teaser blocks being based on existing content of the site)
+- [volto-featured-block](https://github.com/codesyntax/volto-featured-block): Volto block to create pages with arbitrary content based on a simple schema (title + text + image), with variation support, and not based on existing content of the site (in contraposition to teaser blocks being based on existing content of the site)
 
 ### Widgets
 
@@ -163,6 +157,7 @@ Input components, to be reused in the form library
 - [volto-icon-selector-widget](https://github.com/affinitic/volto-icon-selector-widget) - A widget to search and select an icon from a list, by default it use awesome font icon implementation in semantic ui, but it can be customized.
 - [volto-widget-theme-picker](https://github.com/eea/volto-widget-theme-picker) - A theme color picker for themes in Volto blocks
 - [volto-doublerange-facet](https://github.com/eea/volto-doublerange-facet) - Adds a double range facet filter to the Volto Search block
+- [@plone-collective/volto-image-editor](https://github.com/collective/volto-image-editor) - An image editor based on React Advanced Image Cropper, with support for cropping, rotation, flip, and image adjustments (saturation, brightness, contrast, hue)
 
 ### Themes
 
@@ -182,7 +177,6 @@ Input components, to be reused in the form library
 - [volto-light-theme](https://github.com/kitconcept/volto-light-theme) - Plone 6 Volto Light Theme (by kitconcept)
 - [volto-mountain-theme](https://github.com/Fosten/volto-mountain-theme) - Plone 6 Volto Theme for "Mountain"
 - [volto-itxbb-theme](https://github.com/Fosten/volto-itxbb-theme) - Plone 6 Volto Theme for "In The Stix Broadband"
-
 
 ### More
 
@@ -204,7 +198,6 @@ Input components, to be reused in the form library
 - [eea.schema.slate](https://github.com/eea/eea.schema.slate) - DX TTW Slate JSONField to be used with DX Content-Types metadata and `volto-slate`
 - [volto-plone-reloader](https://github.com/instification/volto-plone-reloader) (volto add-on) - Use [plone.reload](https://github.com/plone/plone.reload)'s `/@@reload` feature through a volto frontend
 
-
 ## Training, example code, tutorials
 
 - Several online training sessions have been recorded, they are available on Youtube by searching [volto training](https://www.youtube.com/results?search_query=volto+training)
@@ -214,7 +207,6 @@ Input components, to be reused in the form library
 - [Volto Customization for JavaScript Beginners](https://training.plone.org/volto-customization/index.html) - Master Volto customization from the ground up.
 - [Effective Volto](https://2024.training.plone.org/effective-volto/index.html) - Learn advanced topics, good practices, and build upon your basic experience with Volto.
 - [Demo project for Volto add-ons](https://github.com/collective/volto-example-project-addons)
-
 
 ### Awesome React articles, relevant to any Volto developer
 
@@ -228,7 +220,6 @@ Input components, to be reused in the form library
 - [React rendering order](https://imkev.dev/react-rendering-order)
 - [Using AbortController to deal with race conditions](https://wanago.io/2022/04/11/abort-controller-race-conditions-react/)
 - [Exploring Render Props Vs. React Hooks In 2020](https://hackernoon.com/exploring-render-props-vs-react-hooks-in-2020-xg1b3uko)
-
 
 ## Websites built with Volto
 
@@ -300,7 +291,7 @@ To ensure your website gets the greatest exposure, add it both to Awesome Volto 
 - [Biodiversity Information System for Europe](https://github.com/eea/bise-frontend) - Volto project for [Biodiversity Information System for Europe website](https://biodiversity.europa.eu)
 - [design-volto-theme](https://github.com/RedTurtle/design-volto-theme) Volto theme for Italian Public Administration
 - [EEA Main Website frontend](https://github.com/eea/eea-website-frontend) - Plone 6 Volto frontend for [European Environment Agency](https://www.eea.europa.eu/en)
-- [European Industrial Emissions Portal](https://github.com/eea/industry-frontend ) - Volto project for [European Industrial Emissions Portal website](https://industry.eea.europa.eu)
+- [European Industrial Emissions Portal](https://github.com/eea/industry-frontend) - Volto project for [European Industrial Emissions Portal website](https://industry.eea.europa.eu)
 - [Forest Information System for Europe](https://github.com/eea/fise-frontend) - Volto project for [Forest Information System for Europe website](https://forest.eea.europa.eu)
 - [Freshwater Information System for Europe](https://github.com/eea/freshwater-frontend) - Volto project for [Freshwater Information System for Europe website](https://water.europa.eu/freshwater)
 - [nsw-design-system-plone6-kit](https://github.com/pretagov/nsw-design-system-plone6-kit) - NSW Design System Plone 6 Kit Volto project for [NSW.gov.au sites](https://digitalnsw.pretagov.com.au/)
