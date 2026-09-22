@@ -212,7 +212,7 @@ Input components, to be reused in the form library
 - [Volto Hands-On](https://2024.training.plone.org/voltohandson/index.html) – Practice your skills by recreating the plone.com site using Volto.
 - [Volto Add-ons Development](https://2024.training.plone.org/voltoaddons/index.html) – Build custom Volto add-ons, explore more advanced Volto topics.
 - [Mastering Plone 6 Development](https://training.plone.org/mastering-plone/index.html) – Learn the best practices of Plone development for frontend and backend using Volto as well as Plone Classic.
-- [Volto Customization for JavaScript Beginners](https://training.plone.org/volto-customization/index.html) - Master Volto customization from the ground up.
+- [Volto Customization for JavaScript Beginners](https://2025.training.plone.org/volto-customization/index.html) - Master Volto customization from the ground up.
 - [Effective Volto](https://2024.training.plone.org/effective-volto/index.html) - Learn advanced topics, good practices, and build upon your basic experience with Volto.
 - [Demo project for Volto add-ons](https://github.com/collective/volto-example-project-addons)
 
